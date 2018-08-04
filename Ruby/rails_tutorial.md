@@ -1,7 +1,7 @@
 # Hướng dẫn học Rails Tutorial
 
 ## 1. Thời gian học:
-8 ngày (Tối đa 10 ngày nếu trễ tiến độ)
+**8 ngày** (Tối đa 10 ngày nếu trễ tiến độ)
 
 ## 2. Link tài liệu:
 Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www.railstutorial.org/book
@@ -20,7 +20,7 @@ Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo 
 ## 4. Thiết lập [Rubocop](https://github.com/rubocop-hq/rubocop) vào Project
 #### Bước 1: Các bạn cài đặt gem rubocop vào Gemfile:
 ```gem "rubocop", "~> 0.54.0", require: false```
-#### Bước 2: Copy 3 file sau trong tệp nén này [rubocop.ngon.tar.gz (8.49 KB)] gồm:
+#### Bước 2: Copy 3 file sau trong tệp nén này [rubocop.ngon.tar.gz (8.49 KB)](https://github.com/framgia/Training-Guideline/blob/master/Ruby/rubocop.ngon.tar.gz) gồm:
 ```
 .rubocop.yml
 .rubocop_disabled.yml
