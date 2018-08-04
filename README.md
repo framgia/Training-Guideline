@@ -3,7 +3,7 @@
 I. Ruby
 1. [Git](https://#)
 
-2. [Ruby](https://#)
+2. [Ruby](https://github.com/framgia/Training-Guideline/blob/master/Ruby/Rails tutorial.md)
 
 3. [Rails](https://#)
 
