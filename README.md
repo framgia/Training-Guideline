@@ -5,7 +5,7 @@ I. Ruby
 
 2. [Ruby](https://#)
 
-3. [Rails](https://github.com/framgia/Training-Guideline/blob/master/R/rails_tutorial.md)
+3. [Rails](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md)
 
 4. [Project1](https://#)
 
