@@ -3,9 +3,9 @@
 I. Ruby
 1. [Git](https://#)
 
-2. [Ruby](https://github.com/framgia/Training-Guideline/blob/master/Ruby/rails_tutorial.md)
+2. [Ruby](https://#)
 
-3. [Rails](https://#)
+3. [Rails](https://github.com/framgia/Training-Guideline/blob/master/Ruby/rails_tutorial.md)
 
 4. [Project1](https://#)
 
