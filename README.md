@@ -3,15 +3,17 @@
 I. Ruby
 1. [Git](https://#)
 
-2. [Ruby](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md)
+2. [Mysql](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
 
-3. [Rails](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md)
+3. [Ruby](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md)
 
-4. [Project1](https://#)
+4. [Rails](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md)
 
-5. [Project2](https://#)
+5. [Project1](https://#)
 
-6. [Rspec](https://#)
+6. [Project2](https://#)
+
+7. [Rspec](https://#)
 
 II. PHP
 
