@@ -1,6 +1,6 @@
 # Hướng dẫn học Rails Tutorial
 
-## 1. Mục tiêu 
+## 1. Mục tiêu
 Phần này sẽ hướng dẫn cho các bạn cách phát triển một ứng dụng web sử dụng framework RubyonRails. Rails Tutorial được xây dưng để cung cấp cho bạn sự giới thiệu đầy đủ về cách phát triển ứng dụng web, bao gồm nền tảng cơ sở trong Ruby, Rails, HTML & CSS, databases, version control, testing, and deploy ứng dụng. Nếu bạn đã biết phát triển web, khóa học này sẽ nhanh chóng dạy cho bạn các yếu tố cần thiết của framework RubyOnRails, bao gồm MVC và REST, generators, migrations, routing, and embedded Ruby.
 Vào cuối khóa học này, sinh viên sẽ có thể:
   - Biết cách cài đặt và cấu hình Ruby, Rails và những package liên quan
@@ -10,7 +10,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
   - Tìm hiểu các nguyên tắc cơ bản của Ruby
   - Xây dựng các ứng dụng hướng dữ liệu với Rails
   - Thực hiện TDD (test-driven development) cho các ứng dụng Rails.
-  - Hoàn thành một ứng dụng blog với những chức năng cơ bản.  
+  - Hoàn thành một ứng dụng blog với những chức năng cơ bản.
 ## 2. Thời gian học:
 8 ngày (Tối đa 10 ngày nếu trễ tiến độ)
 
@@ -83,5 +83,16 @@ Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau và
 ## 9. Coding convention
 Các bạn self review code của cá nhân theo coding convention của công ty theo link sau:
 https://github.com/framgia/coding-standards/blob/master/vn/README.md
+
+## 10. Link bài test:
+Host: http://training.framgia.vn
+Account: Các bạn tự tạo bằng mail đăng ký với HR
+Lưu ý: Đặt tên giống với chatwork
+  Ví dụ:
+    Họ và tên: Nguyễn Văn A
+    Khóa: Ruby 03
+    Vị trí: Open Education
+    Văn Phòng: Đà Nẵng
+    Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
 
 ### Happy coding!!!
