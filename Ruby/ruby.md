@@ -23,11 +23,11 @@ Account: Các bạn tự tạo bằng mail đăng ký với HR
 
 Lưu ý: Đặt tên giống với chatwork
 ```
-  Ví dụ:
-    Họ và tên: Nguyễn Văn A
-    Khóa: Ruby 03
-    Vị trí: Open Education
-    Văn Phòng: Đà Nẵng
-    Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
+Ví dụ:
+  Họ và tên: Nguyễn Văn A
+  Khóa: Ruby 03
+  Vị trí: Open Education
+  Văn Phòng: Đà Nẵng
+  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
 ```
 ### Happy coding!!!
