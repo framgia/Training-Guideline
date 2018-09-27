@@ -22,12 +22,12 @@ Các bạn tham khảo thêm để biết được những điều cần tập t
 Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo pull request để gửi trainer review.
 
 #### Yêu cầu:
-- 1 pull request tương ứng 1 chapter
+- Mỗi 1 pull request tương ứng 1 chapter
 - Cách đặt tên:
- + Tên repo github là: sample_app
- + Tên branch tương ứng với tên chapter. Ví dụ: chapter_3, chapter_4
- + Tiêu đề pull request (nội dung commit): Tiêu đề của chapter đó.
-	Ví dụ: "Chapter 3: Mostly static pages", "Chapter 6: Modeling users"
+  + Tên repo github là: sample_app
+  + Tên branch tương ứng với tên chapter. Ví dụ: chapter_3, chapter_4
+  + Tiêu đề pull request (nội dung commit): Tiêu đề của chapter đó.
+    Ví dụ: "Chapter 3: Mostly static pages", "Chapter 6: Modeling users"
 
 ## 5. Thiết lập [Rubocop](https://github.com/rubocop-hq/rubocop) vào Project
 #### Bước 1: Các bạn cài đặt gem rubocop vào Gemfile:
@@ -39,7 +39,7 @@ Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo 
 .rubocop_enabled.yml
 ```
 Dán vào thư mục project, ngang hàng với Gemfile
-#### Bước 3: Trước mỗi lần commit gửi pull thì chạy lệnh này: ```rubocop```
+#### Bước 3: Trước mỗi lần commit gửi pull thì chạy lệnh này: `bundle exec rubocop`
 #### Bước 4: Chụp lại hình đã pass hết rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
