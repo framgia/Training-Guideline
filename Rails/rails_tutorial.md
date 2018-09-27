@@ -31,15 +31,23 @@ Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo 
 
 ## 5. Thiết lập [Rubocop](https://github.com/rubocop-hq/rubocop) vào Project
 #### Bước 1: Các bạn cài đặt gem rubocop vào Gemfile:
-```gem "rubocop", "~> 0.54.0", require: false```
+```
+gem "rubocop", "~> 0.54.0", require: false
+```
+
 #### Bước 2: Copy 3 file sau trong tệp nén này [rubocop.ngon.tar.gz (8.49 KB)](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop.ngon.tar.gz) gồm:
 ```
 .rubocop.yml
 .rubocop_disabled.yml
 .rubocop_enabled.yml
 ```
+
 Dán vào thư mục project, ngang hàng với Gemfile
-#### Bước 3: Trước mỗi lần commit gửi pull thì chạy lệnh này: `bundle exec rubocop`
+#### Bước 3: Trước mỗi lần commit gửi pull thì chạy lệnh này:
+```
+bundle exec rubocop
+```
+
 #### Bước 4: Chụp lại hình đã pass hết rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
