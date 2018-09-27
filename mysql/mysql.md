@@ -25,7 +25,7 @@ Kết thúc khóa học, các bạn có thể nắm được:
 2 ngày
 
 ## 3. Link tài liệu:
-Các bạn đọc slide: https://drive.google.com/drive/folders/1nXDajMc9Ih8Mv8nBBxk3TK3Rd3xHR6FZ?usp=sharing
+Các bạn đọc slide: https://drive.google.com/drive/folders/1ovrB3IFp6HmIEAPcSOsWw-8tgLMLHK6D?usp=sharing
 
 Book: 
    For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
