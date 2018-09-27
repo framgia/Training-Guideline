@@ -24,8 +24,8 @@ Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo 
 #### Yêu cầu:
 - Mỗi 1 pull request tương ứng 1 chapter
 - Cách đặt tên:
-  + Tên repo github là: sample_app
-  + Tên branch tương ứng với tên chapter. Ví dụ: chapter_3, chapter_4
+  + Tên repo github là: **sample_app**
+  + Tên branch tương ứng với tên chapter. Ví dụ: **chapter_3**, **chapter_4**
   + Tiêu đề pull request (nội dung commit): Tiêu đề của chapter đó.
     Ví dụ: "Chapter 3: Mostly static pages", "Chapter 6: Modeling users"
 
