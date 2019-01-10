@@ -12,22 +12,22 @@
 
 ## 3. Link tài liệu:
 [Slide]
-	https://drive.google.com/drive/u/1/folders/1Y-AVMIaXWLHyptIiUez_CFpAOcvU1xyp
+- https://drive.google.com/drive/u/1/folders/1Y-AVMIaXWLHyptIiUez_CFpAOcvU1xyp
 	
 [References]
-	http://git-scm.com/book - 4 chương đầu 
-	http://backlogtool.com/git-guide/vn/intro/intro1_1.html
-	https://learngitbranching.js.org/
-	http://chris.beams.io/posts/git-commit/
-	https://drive.google.com/file/d/1eqH1YI6fClHo1UzYkpNNjeVXNx83Kji7/view?usp=sharing
+- http://git-scm.com/book - 4 chương đầu 
+- http://backlogtool.com/git-guide/vn/intro/intro1_1.html
+- https://learngitbranching.js.org/ - Tool thực hành git branch
+- http://chris.beams.io/posts/git-commit/
+- https://drive.google.com/file/d/1eqH1YI6fClHo1UzYkpNNjeVXNx83Kji7/view?usp=sharing
 	
 
 [Video]
-	https://www.youtube.com/watch?v=OBCnmcgx4CE
+- https://www.youtube.com/watch?v=OBCnmcgx4CE
 	
 
 [Note]
-	Các bạn tạo account ở link [https://github.com/] để thực hành nhé
+- Các bạn tạo account ở link [https://github.com/] để thực hành nhé
 
 ## 4. Link bài test:
 Host: http://training.framgia.vn
