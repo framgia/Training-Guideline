@@ -1,7 +1,7 @@
 # Training-Guideline
 
 I. Ruby
-1. [Git](https://#)
+1. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
 
 2. [Mysql](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
 
