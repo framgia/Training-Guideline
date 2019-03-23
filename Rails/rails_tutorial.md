@@ -4,7 +4,7 @@
 Phần này sẽ hướng dẫn cho các bạn cách phát triển một ứng dụng web sử dụng framework RubyonRails. Rails Tutorial được xây dưng để cung cấp cho bạn sự giới thiệu đầy đủ về cách phát triển ứng dụng web, bao gồm nền tảng cơ sở trong Ruby, Rails, HTML & CSS, databases, version control, testing, and deploy ứng dụng. Nếu bạn đã biết phát triển web, khóa học này sẽ nhanh chóng dạy cho bạn các yếu tố cần thiết của framework RubyOnRails, bao gồm MVC và REST, generators, migrations, routing, and embedded Ruby.
 Vào cuối khóa học này, sinh viên sẽ có thể:
   - Biết cách cài đặt và cấu hình Ruby, Rails và những package liên quan
-  - Hiểu về vòng đời một reuqest trong Rails
+  - Hiểu về vòng đời một reqest trong Rails
   - Ứng dụng kiến ​​trúc Model-View-Controller cho các ứng dụng phía máy chủ
   - Học lập trình các thành phần chính của Rails, bao gồm Active Record, Action Controller và Action View
   - Tìm hiểu các nguyên tắc cơ bản của Ruby
@@ -51,10 +51,10 @@ bundle exec rubocop
 #### Bước 4: Chụp lại hình đã pass hết rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
-Các bạn truy cập url này: http://prts.framgia.vn , chọn mục "User Guide" ở góc trên bên phải rồi làm theo hướng dẫn.
+Các bạn truy cập url này: http://prts.sun-asterisk.vn , chọn mục "User Guide" ở góc trên bên phải rồi làm theo hướng dẫn.
 
 #### LƯU Ý:
-- Đăng nhập thông qua tài khoản trang education: https://education.framgia.vn
+- Đăng nhập thông qua tài khoản trang education: https://education.sun-asterisk.vn
 - Chatwork room ID là 57274663 (Đối với văn phòng Đà Nẵng)
 
 ## 7. Thiết lập Sublime Text
@@ -93,7 +93,7 @@ Các bạn self review code của cá nhân theo coding convention của công t
 https://github.com/framgia/coding-standards/blob/master/vn/README.md
 
 ## 10. Link bài test:
-Host: http://training.framgia.vn
+Host: http://training.sun-asterisk.vn
 
 Account: Các bạn tự tạo bằng mail đăng ký với HR
 
