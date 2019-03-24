@@ -4,7 +4,7 @@
 Phần này sẽ hướng dẫn cho các bạn cách phát triển một ứng dụng web sử dụng framework RubyonRails. Rails Tutorial được xây dưng để cung cấp cho bạn sự giới thiệu đầy đủ về cách phát triển ứng dụng web, bao gồm nền tảng cơ sở trong Ruby, Rails, HTML & CSS, databases, version control, testing, and deploy ứng dụng. Nếu bạn đã biết phát triển web, khóa học này sẽ nhanh chóng dạy cho bạn các yếu tố cần thiết của framework RubyOnRails, bao gồm MVC và REST, generators, migrations, routing, and embedded Ruby.
 Vào cuối khóa học này, sinh viên sẽ có thể:
   - Biết cách cài đặt và cấu hình Ruby, Rails và những package liên quan
-  - Hiểu về vòng đời một reqest trong Rails
+  - Hiểu về vòng đời một request trong Rails
   - Ứng dụng kiến ​​trúc Model-View-Controller cho các ứng dụng phía máy chủ
   - Học lập trình các thành phần chính của Rails, bao gồm Active Record, Action Controller và Action View
   - Tìm hiểu các nguyên tắc cơ bản của Ruby
