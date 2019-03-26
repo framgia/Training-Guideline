@@ -32,7 +32,7 @@ Book:
    For Mysql: https://drive.google.com/file/d/0B6jdAf43Lix5WHJqSHd2QkhhMG8/view
 
 ## 4. Link bài test:
-Host: http://training.framgia.vn
+Host: http://training.sun-asterisk.vn
 
 Account: Các bạn tự tạo bằng mail đăng ký với HR
 
