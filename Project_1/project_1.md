@@ -71,5 +71,5 @@ https://github.com/framgia/coding-standards/blob/master/vn/README.md
 - Link: https://edu-redmine.sun-asterisk.vn
 - Tạo account và báo với trainer để được active account.
 - Thêm task vào redmine sau khi phân task xong.
-- Tên account phải giống tên Chatwork
+- Tên account phải giống tên Chatwork: ví dụ: [DN_OE22_Ruby] Nguyen Van A
 ### Happy coding!!!
