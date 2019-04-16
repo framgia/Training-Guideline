@@ -27,9 +27,9 @@ Kết thúc khóa học, các bạn có thể nắm được:
 ## 3. Link tài liệu:
 Các bạn đọc slide: https://drive.google.com/drive/folders/1ovrB3IFp6HmIEAPcSOsWw-8tgLMLHK6D?usp=sharing
 
-Book: 
+Book:
    For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
-   For Mysql: https://drive.google.com/file/d/0B6jdAf43Lix5WHJqSHd2QkhhMG8/view
+   For Mysql: https://drive.google.com/file/d/1J3G4kAVaZjG4q6miTV4ueEunR6ZXh2DR/view?usp=sharing
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
