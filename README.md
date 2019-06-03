@@ -9,7 +9,7 @@ I. Ruby
 
 4. [Rails](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md)
 
-5. [Project1](https://#)
+5. [Project1](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1.md)
 
 6. [Project2](https://#)
 
