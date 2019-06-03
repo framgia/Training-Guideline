@@ -1,13 +1,13 @@
 # Hướng dẫn một số thông tin về Project 1
 
 ## 1. Một số thông tin chung
-####Thời gian thực hiện:
+#### Thời gian thực hiện:
 10 ngày (Tối đa 20 ngày nếu đi part time)
-####Số lượng thành viên trong team:
+#### Số lượng thành viên trong team:
 1 ~ 3 người
-####Mô hình áp dụng:
+#### Mô hình áp dụng:
 Scrum
-####Coding convention
+#### Coding convention
 ##### Ruby coding convention
 [English version](https://github.com/framgia/coding-standards/blob/master/eng/ruby/standard.md)
 [Vietnamese version](https://github.com/framgia/coding-standards/blob/master/vn/ruby/standard.md)
