@@ -34,7 +34,7 @@ Scrum
 16. [Coffee](https://www.sitepoint.com/using-coffeescript-in-rails/)
 17. [Concerns](http://api.rubyonrails.org/v5.1/classes/ActiveSupport/Concern.html)
 18. [Scope](http://api.rubyonrails.org/classes/ActiveRecord/Scoping/Named/ClassMethods.html)
-19. [I18n](mutilple language, dictionary, time format, number format, ...) (http://guides.rubyonrails.org/i18n.html)
+19. [I18n(mutilple language, dictionary, time format, number format, ...)](http://guides.rubyonrails.org/i18n.html)
 20. Search form, filter form
 21. [Gem Config](https://github.com/railsconfig/config)
 22. [Eager Loading Associations](http://guides.rubyonrails.org/active_record_querying.html#eager-loading-associations)
