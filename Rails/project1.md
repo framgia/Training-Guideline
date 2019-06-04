@@ -23,8 +23,8 @@ Scrum
 5. Macro (generate, rake, spring, ...)
 6. Ajax (Rails ajax, jQuery ajax)
 7. [Seed](https://codedecoder.wordpress.com/2013/04/25/rake-db-seed-in-rails/)
-8. [RESTful] (http://www.infoq.com/articles/rest-introduction)
-9. [Association](has_many/has_one/belongs_to) (http://guides.rubyonrails.org/association_basics.html)
+8. [RESTful](http://www.infoq.com/articles/rest-introduction)
+9. [Association (has_many/has_one/belongs_to)](http://guides.rubyonrails.org/association_basics.html)
 10. [Transaction](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html)
 11. [Resources, Nested Resources](http://guides.rubyonrails.org/routing.html)
 12. [Resource](http://guides.rubyonrails.org/routing.html)
@@ -89,6 +89,6 @@ Thực hiện công việc theo từng bước như sau:
 - Sử dụng link heroku để trình bày project
 - Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
 - Chức năng thành viên nào làm thành viên đó trình bày
-- Trường hợp team không hoàn thành dưới 85% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian
+- Trường hợp team hoàn thành dưới 85% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian
 
 #### Happy coding!!!
