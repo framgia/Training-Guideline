@@ -51,11 +51,12 @@ bundle exec rubocop
 #### Bước 4: Chụp lại hình đã pass hết rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
-Các bạn truy cập url này: http://prts.sun-asterisk.vn , chọn mục "User Guide" ở góc trên bên phải rồi làm theo hướng dẫn.
+Các bạn truy cập url này: http://prts.sun-asterisk.vn , chọn mục "User Guide" rồi làm theo hướng dẫn.
 
 #### LƯU Ý:
-- Đăng nhập thông qua tài khoản trang education: https://education.sun-asterisk.vn
-- Chatwork room ID là 57274663 (Đối với văn phòng Đà Nẵng)
+- Link hướng dẫn: https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit
+- Đăng nhập thông q
+- Chatwork room ID là 102541168 (Đối với văn phòng Đà Nẵng)
 
 ## 7. Thiết lập Sublime Text
 Các bạn sử dụng setting này dành cho sublime để xử lý indent, trailing space và end of file, bằng cách:
