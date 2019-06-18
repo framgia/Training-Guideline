@@ -16,6 +16,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www.railstutorial.org/book
+
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1ZtaDkarfg1Qo9Q1e_AvxB9jMWiCj-Mh5?usp=sharing
 
 ## 4. Về việc gửi pull request
@@ -51,12 +52,11 @@ bundle exec rubocop
 #### Bước 4: Chụp lại hình đã pass hết rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
-Các bạn truy cập url này: http://prts.sun-asterisk.vn , chọn mục "User Guide" rồi làm theo hướng dẫn.
+Các bạn truy cập url này: http://prts.sun-asterisk.vn đăng nhập qua Github, rồi làm theo hướng dẫn ở mục  "User Guide"(https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit)
 
-#### LƯU Ý:
-- Link hướng dẫn: https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit
-- Đăng nhập thông q
-- Chatwork room ID là 102541168 (Đối với văn phòng Đà Nẵng)
+- Cập nhật ngôn ngữ training tương ứng của mình (ví dụ: Ruby, PHP, ...)
+- Chọn box chatwork để nhận các thông báo review pull theo hướng dẫn của trainer khi add các bạn vào box. 
+Ví dụ văn phòng Đà Nẵng là box: "[edu][DN] Pull Request's Status Checking"
 
 ## 7. Thiết lập Sublime Text
 Các bạn sử dụng setting này dành cho sublime để xử lý indent, trailing space và end of file, bằng cách:
