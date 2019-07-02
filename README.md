@@ -17,6 +17,20 @@ I. Ruby
 
 II. PHP
 
+1. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
+
+2. [Mysql](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
+
+3. [PHP](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.md)
+
+4. [Laravel](https://github.com/framgia/Training-Guideline/blob/master/Laravel/laravel.md)
+
+5. [Project1](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project1.md)
+
+6. [Project2](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project2.md)
+
+7. [Unit Test](https://github.com/framgia/Training-Guideline/blob/master/Laravel/unittest.md)
+
 III. Android
 
 IV. Java
