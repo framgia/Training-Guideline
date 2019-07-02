@@ -14,7 +14,9 @@ Ebook: https://goo.gl/hft96o
 - Tiến hành làm Laravel Quick task theo hướng dẫn file sau: https://docs.google.com/document/d/18s2S7JGEvhCUbITNnK5J0veaC5C2Oc1SzKr66Hi0a3o/edit
 - tạo pull và làm https://laravel.com/docs/5.2/quickstart trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel.
 - Nên đọc trước file convention của công ty để code đúng chuẩn hơn: https://github.com/framgia/coding-standards/blob/master/vn/README.md#php
-- Nếu  dùng sublime text có thể config theo đoạn code sau giúp việc kiểm soát convention của công ty
+- Nếu  dùng sublime text có thể config theo đoạn code sau giúp việc kiểm soát convention của công ty, bằng cách:
+Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau vào:
+```
 {
 	"bootstrapped": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -43,7 +45,7 @@ Ebook: https://goo.gl/hft96o
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
-
+```
 ## 5. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
 Các bạn truy cập url này: http://prts.sun-asterisk.vn đăng nhập qua Github, rồi làm theo hướng dẫn ở mục  "User Guide"(https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit)
 
