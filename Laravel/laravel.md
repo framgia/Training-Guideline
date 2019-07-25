@@ -11,7 +11,7 @@ https://learninglaravel.net/books/laravel
 Ebook: https://goo.gl/hft96o
 
 ## 4. Hướng dẫn thực hiện Laravel Quicktask
-- Tiến hành làm Laravel Quick task theo hướng dẫn file sau: https://docs.google.com/document/d/18s2S7JGEvhCUbITNnK5J0veaC5C2Oc1SzKr66Hi0a3o/edit
+- Tiến hành làm Laravel Quick task theo hướng dẫn file sau: (BỎ QUA BƯỚC 3, THỰC HIỆN HƯỚNG DẪN SỐ 5 V) https://docs.google.com/document/d/18s2S7JGEvhCUbITNnK5J0veaC5C2Oc1SzKr66Hi0a3o/edit
 - tạo pull và làm https://laravel.com/docs/5.2/quickstart trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel.
 - Nên đọc trước file convention của công ty để code đúng chuẩn hơn: https://github.com/framgia/coding-standards/blob/master/vn/README.md#php
 - Nếu  dùng sublime text có thể config theo đoạn code sau giúp việc kiểm soát convention của công ty, bằng cách:
