@@ -17,7 +17,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 ## 3. Link tài liệu:
 Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www.railstutorial.org/book
 
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1ZtaDkarfg1Qo9Q1e_AvxB9jMWiCj-Mh5?usp=sharing
+Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1TAGdbwEgUVNnQlL-pOtRJhK6VLlX6gJZ?usp=sharing
 
 ## 4. Về việc gửi pull request
 Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo pull request để gửi trainer review.
