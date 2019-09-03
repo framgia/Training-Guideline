@@ -29,7 +29,7 @@
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
 
-Account: Các bạn tự tạo bằng mail đăng ký với HR
+Account: Sử dụng mail công ty (nếu có) hoặc mail cá nhân đăng ký với HR để đăng ký account
 
 Lưu ý: Đặt tên giống với chatwork
 ```
