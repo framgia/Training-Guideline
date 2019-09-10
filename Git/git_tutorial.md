@@ -12,7 +12,7 @@
 
 ## 3. Link tài liệu:
 [Slide]
-- https://drive.google.com/drive/u/0/folders/1CLO2nUNrMDoPUx1DACasHITjyDQACFfM
+- https://drive.google.com/drive/folders/1Tj4h4rTSNUl8V5OYLMgkyAylV8Nrh4Ih?usp=sharing
 	
 [References]
 - http://git-scm.com/book - 4 chương đầu 
