@@ -17,6 +17,22 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 ## 3. Link tài liệu:
 Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www.railstutorial.org/book
 
+[Ruby on Rails Tutorial] Tạm thời sử dụng các link bên dưới
+Chaper1: https://www.evernote.com/shard/s570/sh/5a77c563-d93f-48de-8ed0-c96d7a1c4e70/7d8f14660d3573a1ed3d851d092f9316
+Chaper2: https://www.evernote.com/shard/s570/sh/3aa5e8b2-c637-4ab9-bf32-3860b3da9b74/8f514503b5264b535a58be7b4ce96aab
+Chaper3: https://www.evernote.com/shard/s570/sh/cb8c73d6-ed93-4af3-9564-8ad73430ac9b/c0458357e22e3dfb5496dbc5816a2050
+Chaper4: https://www.evernote.com/shard/s570/sh/bb7fc6c6-bbc6-4f8b-b9f8-8f71c27f62ec/956f4934d6dd5a975c462dc8f602d4b8
+Chaper5: https://www.evernote.com/shard/s570/sh/f95ef4a1-f5cd-4f11-aab3-9af7a22bc834/4e0a43be206d9bb21bfb2cfe3b717ed8
+Chaper6: https://www.evernote.com/shard/s570/sh/08d6d7c4-e643-497e-b28c-bc755f885373/37e9d2c6fbf656da2161bba3ffc46bbd
+Chaper7: https://www.evernote.com/shard/s570/sh/5413057a-1383-4494-aee0-9c658fa18fe9/087939a3a4df0be9c284004aaa2f5feb
+Chaper8: https://www.evernote.com/shard/s570/sh/ba814de4-e079-4bd5-b8a7-4d24d349e3aa/44b17f727cad1a2bfc148e21abdc5fd9
+Chaper9: https://www.evernote.com/shard/s570/sh/5c8fb4ce-bc4a-418b-837c-4aa1a80e443a/26a48203878ef703f22ad7e9789558a2
+Chaper10: https://www.evernote.com/shard/s570/sh/8ce3bdf8-f05c-4d88-a97c-1ab32b7b54f9/7dda4226cd5a1c0c0250e21817faee41
+Chaper11: https://www.evernote.com/shard/s570/sh/fe6b0633-1ed2-414b-8426-a4b0efa92cd2/d3a46ed14f627530f7386c367acb7a81
+Chaper12: https://www.evernote.com/shard/s570/sh/79d7a2e9-57fd-416d-8cb9-ec289925fb30/88824d26d1ee215d815a0f6e4a4db583
+Chaper13: https://www.evernote.com/shard/s570/sh/4bd07645-34d9-4277-a21f-7fbeb6a1c8f1/b90110b972f426a5124d09f5e68b81fb
+Chaper14: https://www.evernote.com/shard/s570/sh/92c16224-951f-4119-b333-6aa4d45d8204/f77a6584176e162c8332756d4cca8ee9
+
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1TAGdbwEgUVNnQlL-pOtRJhK6VLlX6gJZ?usp=sharing
 
 ## 4. Về việc gửi pull request
