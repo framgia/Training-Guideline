@@ -33,7 +33,7 @@ Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www
 - Chaper13: https://www.evernote.com/shard/s570/sh/4bd07645-34d9-4277-a21f-7fbeb6a1c8f1/b90110b972f426a5124d09f5e68b81fb
 - Chaper14: https://www.evernote.com/shard/s570/sh/92c16224-951f-4119-b333-6aa4d45d8204/f77a6584176e162c8332756d4cca8ee9
 
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1TAGdbwEgUVNnQlL-pOtRJhK6VLlX6gJZ?usp=sharing
+Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1rbNhaszUQ8Dx5rWPwU1Ieks7Lz4S_dfp?usp=sharing
 
 ## 4. Về việc gửi pull request
 Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo pull request để gửi trainer review.
