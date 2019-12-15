@@ -83,8 +83,8 @@ Theo dõi đến khi task được Team Leader chuyến status về Closed
 - Note *Scope:* phạm vi ảnh hưởng vào trong ticket.
 - Ví dụ:
 ```
-*Scope:*
-+ List học viên của site admin và site user. Vì fix lại scope query list học viên đã sử dụng tại 2 màn hình này
+*Scope:* List học viên của site admin và site user. 
+Vì fix lại scope query list học viên đã sử dụng tại 2 màn hình này
 ```
 - Cập nhật title của Pull Request:
 ```
