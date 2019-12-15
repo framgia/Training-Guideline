@@ -53,3 +53,5 @@ IV. Java
 9. [Project2](https://#)
 
 V. Front-end
+
+VI. [Process working on Redmine](https://github.com/framgia/Training-Guideline/WorkingProcess/redmine/redmine.md)
