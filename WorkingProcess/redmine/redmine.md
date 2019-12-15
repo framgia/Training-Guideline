@@ -25,7 +25,7 @@ Mô tả cách thực hiện của task theo như format sau:
   Mô tả ngắn cách thực hiện để người khác nắm được không cần quá chi tiết.
   *Related link:* Ví dụ link design, spec, ...
 ```
-Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/WorkingProcess/redmine/inprogress_task.png)
+Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/inprogress_task.png)
 
 #### 2. Khi làm xong task
 - Cập nhật Spent time : Thời gian thực tế đã dùng để hoàn thành ticket
@@ -39,7 +39,7 @@ Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/Working
   ví dụ: Refs [TASK][11000] Staff create a new form off
 ```
 - Gửi reivew pull request
-- Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/WorkingProcess/redmine/done_task.png)
+- Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/done_task.png)
 
 #### 3. Pull request đã được review and merge
 - Chuyển status thành Resolved
