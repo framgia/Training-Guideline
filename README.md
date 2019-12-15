@@ -54,4 +54,4 @@ IV. Java
 
 V. Front-end
 
-VI. [Process working on Redmine](https://github.com/framgia/Training-Guideline/WorkingProcess/redmine/redmine.md)
+VI. [Process working on Redmine](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
