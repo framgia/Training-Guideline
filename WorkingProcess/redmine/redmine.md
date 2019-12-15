@@ -12,19 +12,20 @@
 
 ### III. Quy trình làm việc với ticket có tracker là "TASK"
 #### 1. Khi nhận task
-- Cần cập nhật đủ thông tin:
+Cần cập nhật đủ thông tin:
  + Assignee: Là người sẽ xử lý task này
  + Estimated time: Ước lượng số giờ (hour) cần để hoàn thành ticket
  + Due date: Ngày hạn chót để hoàn thành và bàn giao ticket QA để test. Cần confirm lại với TeamLeader và các bên liên quan nếu có thay đổi.
  + Start date: Ngày bắt đầu xử lý ticket
-- Mô tả cách thực hiện của task theo như format sau:
+Mô tả cách thực hiện của task theo như format sau:
 ```
   *Purpose:* Mô tả chức năng của pull request
   *Requirement:* Cần phải thực hiện như thế nào. Ràng buộc liên quan
-  *Solution:* Cách thực hiện trong pull Request này như thế nào. Mô tả ngắn cách thực hiện để người khác nắm được không cần quá chi tiết.
+  *Solution:* Cách thực hiện trong pull Request này như thế nào. 
+  Mô tả ngắn cách thực hiện để người khác nắm được không cần quá chi tiết.
   *Related link:* Ví dụ link design, spec, ...
 ```
-- Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/WorkingProcess/redmine/inprogress_task.png)
+Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/WorkingProcess/redmine/inprogress_task.png)
 
 #### 2. Khi làm xong task
 - Cập nhật Spent time : Thời gian thực tế đã dùng để hoàn thành ticket
@@ -63,13 +64,13 @@ Theo dõi đến khi task được Team Leader chuyến status về Closed
 - Mô tả cách thực hiện của bug theo như format sau:
 ```
   *Reason:* : Vì sao phát sinh bug
-  *Solution:* : Cách thực hiện trong Pull Request này như thế nào. Mô tả ngắn cách thực hiện để người khác nắm được không cần quá chi tiết.
+  *Solution:* : Cách thực hiện trong Pull Request này như thế nào. 
+  Mô tả ngắn cách thực hiện để người khác nắm được không cần quá chi tiết.
 ```
 - Ví dụ:
 ```
 *Reason:*  Thiếu điều kiện query danh sách học viên theo course_id
-*Solution:*
-+ Query danh sách học viên theo course_id
+*Solution:* Query danh sách học viên theo course_id
 *Related link:*
 + Link spec ABC.XYZ
 + Link pull request: https://...
