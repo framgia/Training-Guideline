@@ -46,9 +46,7 @@ Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/ma
 - Assign ticket lại Teamleader
 
 #### 4. Trường hợp task có bug
-- QA test có bug sẽ chuyển status ticket là "Re-open" và assign lại cho dev đã xử lý task đó
-- Developer flow các ticket task có status "Re-open" và assign cho mình để fix
-- Thực hiện nhận ticket để fix, khi nhận ticket chuyển status sang "In-progress" và thao tác như hướng dẫn ở trên kia.
+- QA test có bug sẽ log bug và gắn link refer đến task đó và follow cho đến khi nào tất cả các bug liên quan đến task đã được fix
 
 #### 5. Follow task
 Theo dõi đến khi task được Team Leader chuyến status về Closed
