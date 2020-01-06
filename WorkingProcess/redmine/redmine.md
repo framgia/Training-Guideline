@@ -47,6 +47,7 @@ Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/ma
 
 #### 4. Trường hợp task có bug
 - QA test có bug sẽ log bug và gắn link refer đến task đó và follow cho đến khi nào tất cả các bug liên quan đến task đã được fix
+Lưu ý: Task chỉ được close khi tất cả các bug liên quan đều đã fix và v
 
 #### 5. Follow task
 Theo dõi đến khi task được Team Leader chuyến status về Closed
