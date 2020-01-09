@@ -10,7 +10,19 @@
 - Đăng ký account theo hướng dẫn [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
 - Sau khi đăng ký thành công thì báo lại với Trainer/Manager để được kích hoạt account
 
-### III. Quy trình làm việc với ticket có tracker là "TASK"
+### III. Hướng dẫn luồng chuyển đổi trạng thái của ticket (Status Flow)
+- NEW : QA/Dev/BrSE/Leader tạo ticket. Có thể assignee hoặc không
+- IN PROGRESS : Dev bắt tay vào làm
+- REVIEWING : Dev đã đẩy pull request (PR) và đang chờ leader review (% Done = 90%). Gắn link github vào trường "Pull request links"
+- APPROVED : PR của dev đã được merged và đang đợi deploy. Assign ticket qua cho leader
+- RESOLVED : Ticket đã được deploy và sẵn sàng chờ QA test
+- TESTING : QA test ticket
+- BUG Fixing : QA test có bug, tạo bug mới ở trạng thái NEW, còn ticket gốc để là "BUG FIXING" (Trường hợp status này chưa có trên repo redmine thì để là TESTING)
+- REOPEN : Với task: QA test nhưng không PASS được 70% TestCase hoặc dính lỗi Critical. Với bug: QA xác định bug chưa fix. Thay đổi cả % Done.
+- FEEDBACK : Dev không đồng ý với nhận định của QA, cần trao đổi. Và ngược lại
+- CLOSED : Với task: QA kiểm tra và Pass được 70% Testcases và không dính lỗi Critical. Với bug: QA xác định đã hết bug, hay đã Pass ticket.
+
+### IV. Quy trình làm việc với ticket có tracker là "TASK"
 #### 1. Khi nhận task
 Cần cập nhật đủ thông tin:
  + Assignee: Là người sẽ xử lý task này
