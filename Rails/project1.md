@@ -67,6 +67,8 @@ Thực hiện công việc theo từng bước như sau:
 #### Chú ý:
 - Tham khảo cách đặt tên account [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
+- Chuyển đổi trạng thái ticket theo hướng dẫn [tại đây](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
+
 #### Quy trình chuyển đổi trạng thái của ticket như sau:
 1. Tất cả công việc cần làm phải được tạo thành ticket redmine rồi mới bắt tay vào làm
 2. Tickets redmine phải điền đầy đủ Category, Target Version, Parent task, Start date, Due date, Estimated time
