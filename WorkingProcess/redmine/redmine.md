@@ -41,7 +41,7 @@ Xem ví dụ [tại đây](https://github.com/framgia/Training-Guideline/blob/ma
 
 #### 2. Khi làm xong task
 - Cập nhật Spent time : Thời gian thực tế đã dùng để hoàn thành ticket
-- Cập nhật % Done về 80%
+- Cập nhật % Done về 90%
 - Update link pull request và note "Reviewing PR"
 - Note *Scope:* phạm vi ảnh hưởng vào trong ticket.
 - Có thể update lại phần các thông tin khác của ticket ví dụ như về "*Solution* "
@@ -89,7 +89,7 @@ Theo dõi đến khi task được Team Leader chuyến status về Closed
 
 #### 2. Khi fix xong Bug
 - Cập nhật spent time
-- Cập nhật % Done về 80%
+- Cập nhật % Done về 90%
 - Update link pull request và note "Reviewing PR"
 - Note *Scope:* phạm vi ảnh hưởng vào trong ticket.
 - Ví dụ:
