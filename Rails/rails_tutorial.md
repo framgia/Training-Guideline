@@ -15,8 +15,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 8 ngày (Tối đa 10 ngày nếu trễ tiến độ)
 
 ## 3. Link tài liệu:
-Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www.railstutorial.org/book
-
+Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www.softcover.io/read/28fdb94f/ruby_on_rails_tutorial_4th_edition
 [Ruby on Rails Tutorial] Tạm thời sử dụng các link bên dưới
 - Chaper1: https://www.evernote.com/shard/s570/sh/5a77c563-d93f-48de-8ed0-c96d7a1c4e70/7d8f14660d3573a1ed3d851d092f9316
 - Chaper2: https://www.evernote.com/shard/s570/sh/3aa5e8b2-c637-4ab9-bf32-3860b3da9b74/8f514503b5264b535a58be7b4ce96aab
