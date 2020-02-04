@@ -16,8 +16,10 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc và làm theo cuốn Rails 5 - Tutorial theo link: https://www.softcover.io/read/28fdb94f/ruby_on_rails_tutorial_4th_edition
+hoặc
+https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning
 
-[Ruby on Rails Tutorial] Tạm thời sử dụng các link bên dưới
+[Ruby on Rails Tutorial] - Link trong trường hợp bản online không dùng được
 - Chaper1: https://www.evernote.com/shard/s570/sh/5a77c563-d93f-48de-8ed0-c96d7a1c4e70/7d8f14660d3573a1ed3d851d092f9316
 - Chaper2: https://www.evernote.com/shard/s570/sh/3aa5e8b2-c637-4ab9-bf32-3860b3da9b74/8f514503b5264b535a58be7b4ce96aab
 - Chaper3: https://www.evernote.com/shard/s570/sh/cb8c73d6-ed93-4af3-9564-8ad73430ac9b/c0458357e22e3dfb5496dbc5816a2050
