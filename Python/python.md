@@ -9,7 +9,7 @@ Vào cuối khóa học này, học viên sẽ có thể:
   - Hiểu được những điểm đặc trưng và khác biệt của Python và những ngôn ngữ lập trình hướng đối tượng khác.
 
 ## 2. Thời gian học:
-3 ngày (Tối đa 5 ngày nếu trễ tiến độ)
+7 ngày (Tối đa 10 ngày nếu trễ tiến độ)
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Python theo link:
