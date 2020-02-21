@@ -13,7 +13,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc và làm theo link: https://docs.djangoproject.com/en/3.0/intro/
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1ZtaDkarfg1Qo9Q1e_AvxB9jMWiCj-Mh5?usp=sharing
+Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/file/d/1c9Jy54TZw5vrqDLNDI4anGqby9uK3Ne2/view?usp=sharing
 
 ## 4. Về việc gửi pull request
 Sau mỗi part, các bạn thực hiện tạo pull request để gửi trainer review.
