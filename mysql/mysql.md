@@ -3,7 +3,7 @@
 ## 1. Mục tiêu
 Phân này sẽ giúp cho các bạn nắm được các nguyên tắc cơ bản về cơ sở dữ liệu quan hệ và các kỹ năng lập trình SQL. Các chủ đề bao gồm kiến trúc cơ sở dữ liệu quan hệ, kỹ thuật thiết kế cơ sở dữ liệu và các kỹ năng truy vấn đơn giản và phức tạp. Sau khi hoàn thành, các bạn sẽ hiểu các hàm SQL, tham gia các kỹ thuật, các đối tượng cơ sở dữ liệu và các ràng buộc và sẽ có thể viết các câu lệnh SELECT, INSERT, UPDATE và DELETE hữu ích.
 
-Trong 2 ngày các bạn focus vào các nội dung bên dưới:
+Trong 1 ngày các bạn focus vào các nội dung bên dưới:
 - Thiết kế cơ sở dữ liệu quan hệ
 - Thao tác tạo Cơ sở dữ liệu và tables
 - Viết được các truy vấn dữ liệu (cơ bản đến nâng cao)
@@ -22,10 +22,10 @@ Kết thúc khóa học, các bạn có thể nắm được:
 - Sử dụng triggers and stored procedures
 
 ## 2. Thời gian học:
-2 ngày
+1 ngày (Bao gồm buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
 ## 3. Link tài liệu:
-Các bạn đọc slide: https://drive.google.com/drive/folders/1ovrB3IFp6HmIEAPcSOsWw-8tgLMLHK6D?usp=sharing
+[Slide] https://link.sun-asterisk.vn/IsMVMg
 
 Book:
    For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
