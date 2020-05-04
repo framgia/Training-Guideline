@@ -20,8 +20,6 @@ Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link: https://lin
 [Slide]
 https://link.sun-asterisk.vn/TVb5lZ
 
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/drive/folders/1rbNhaszUQ8Dx5rWPwU1Ieks7Lz4S_dfp?usp=sharing
-
 ## 4. Về việc gửi pull request
 Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo pull request để gửi trainer review.
 
