@@ -5,6 +5,8 @@
 10 ngày (Tối đa 20 ngày nếu đi part time)
 #### Số lượng thành viên trong team:
 1 ~ 3 người
+#### Chủ đề tham khảo:
+https://docs.google.com/spreadsheets/d/1TjPuQu7fe6CxDWmlttp0LTjQs8nw7Equ/edit#gid=940143881
 #### Mô hình áp dụng:
 Scrum
 #### Coding convention
