@@ -49,7 +49,7 @@ Các bạn sử dụng hệ thống reviewboard để anh chị review code trư
 
 Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bước sau:
 - Khi tạo pull xong thì comment đầu tiên vào pull là pull này thực hiện chức năng gì
-- Sau đó comment thứ 2 với nội dung là ""ready"" (tức là OK rồi ae chi review đê)
+- Sau đó comment thứ 2 với nội dung là "ready" (tức là OK rồi ae chi review đê)
 - Sử dụng hệ thống ReviewBoard để quản lý các pull của mình, mọi người có thể thấy các trạng thái của pull trên đó nhé
 - Nếu có commented thì bạn sửa, sau khi sửa xong lại comment vào pull: "ready"
 
