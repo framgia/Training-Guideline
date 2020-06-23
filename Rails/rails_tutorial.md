@@ -21,6 +21,16 @@ Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link: https://lin
 https://link.sun-asterisk.vn/TVb5lZ
 
 ## 4. Về việc gửi pull request
+Pull đầu tiên sẽ là init_project :D .Các bạn lên github tạo 1 repo mới chọn Initialize this repository with a README, add .gitignore chọn Ruby => Tạo repo, Sau đó clone về máy. Sau đó
+```
+git checkout -b init_project
+rails new .
+git add .
+git commit -m "Init Project"
+git push origin init_project
+```
+Rồi kiểm tra trên git tạo 1 pull request mới, đọc hướng dẫn bên dưới để trainer có thể review pull.
+
 Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo pull request để gửi trainer review.
 
 #### Yêu cầu:
@@ -30,6 +40,18 @@ Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo 
   + Tên branch tương ứng với tên chapter. Ví dụ: **chapter_3**, **chapter_4**
   + Tiêu đề pull request (nội dung commit): Tiêu đề của chapter đó.
     Ví dụ: "Chapter 3: Mostly static pages", "Chapter 6: Modeling users"
+
+Các bạn sử dụng hệ thống reviewboard để anh chị review code trước khi được merged vào master. Các bạn cài đặt hệ thống theo các bước dưới đây:
+
+- Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
+- Cài đặt theo hướng dẫn: https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit
+- Báo trainer add vào box chatwork review pull request
+
+Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bước sau:
+- Khi tạo pull xong thì comment đầu tiên vào pull là pull này thực hiện chức năng gì
+- Sau đó comment thứ 2 với nội dung là ""ready"" (tức là OK rồi ae chi review đê)
+- Sử dụng hệ thống ReviewBoard để quản lý các pull của mình, mọi người có thể thấy các trạng thái của pull trên đó nhé
+- Nếu có commented thì bạn sửa, sau khi sửa xong lại comment vào pull: "ready"
 
 ## 5. Thiết lập [Rubocop](https://github.com/rubocop-hq/rubocop) vào Project
 #### Bước 1: Các bạn cài đặt gem rubocop vào Gemfile:
@@ -69,13 +91,6 @@ bundle exec rubocop
 ```
 
 #### Bước 4: Chụp lại hình đã pass hết rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
-
-## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
-Các bạn truy cập url này: http://prts.sun-asterisk.vn đăng nhập qua Github, rồi làm theo hướng dẫn ở mục  "User Guide"(https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit)
-
-- Cập nhật ngôn ngữ training tương ứng của mình (ví dụ: Ruby, PHP, ...)
-- Chọn box chatwork để nhận các thông báo review pull theo hướng dẫn của trainer khi add các bạn vào box.
-Ví dụ văn phòng Đà Nẵng là box: "[edu][DN] Pull Request's Status Checking"
 
 ## 7. Thiết lập Sublime Text
 Các bạn sử dụng setting này dành cho sublime để xử lý indent, trailing space và end of file, bằng cách:
