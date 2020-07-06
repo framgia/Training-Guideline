@@ -5,7 +5,7 @@ I. Ruby
 
 2. [Mysql](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
 
-3. [Ruby](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md)
+3. Ruby: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.en.md)
 
 4. [Rails](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md)
 
