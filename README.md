@@ -11,9 +11,9 @@ I. Ruby
 
 5. [Project1](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1.md)
 
-6. [Project2](https://#)
+6. [Project2](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2.md)
 
-7. [Rspec](https://#)
+7. [Rspec](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md)
 
 II. PHP
 
