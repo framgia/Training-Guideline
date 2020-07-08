@@ -1,19 +1,20 @@
 # GIT study guide
 
 ## 1. Goal
-- Understand Git and VCS fundamentals (version control software)
+- Understand Git and VCS fundamentals (Version Control System)
 - Install and configure Git
 - Using Git to control version during application development life cycle
 - Working with GitHub
-- Use other Git tools
 
-## 2. Class time:
-2 days (Based on working days, in case of part-time travel up to 5 consecutive days from the start date)
+## 2. Training time:
+ 2 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
+
+(*) NOTE: For Malaysia training course, the training time for this GIT module is: 4 lessons (20th July -23rd July)
 
 ## 3. Document link:
 [Slide]
-  - sub: https://drive.google.com/drive/u/1/folders/1RxWi807p9ZTxgzLj_UOneiUIBllcjb0h
-  - video: https://drive.google.com/drive/u/1/folders/1eSTzUcKEz3JHEkKhXQPYnJxiUrX9wP0w
+  - Sub: https://drive.google.com/drive/u/1/folders/1RxWi807p9ZTxgzLj_UOneiUIBllcjb0h
+  - videos: https://drive.google.com/drive/u/1/folders/1eSTzUcKEz3JHEkKhXQPYnJxiUrX9wP0w
 
 
 [References]
@@ -26,15 +27,16 @@
 - https://www.youtube.com/watch?v=OBCnmcgx4CE
 
 [Note]
-- You create an account at the link [https://github.com/] to practice
-- You must set an account similar to your account chatwork
+  - Trainees use company email (if any) or personal email registered with HR to register for an account.
+  - Trainees have to set the account name similar to your account chatwork name
+  - For Malaysia training course, Trainees use the personal email registered with Mr. Ikeuchi to create an account at this link: https://github.com/
 
-## 4. Link test:
+## 4. Test link:
 Host: http://training.sun-asterisk.vn
 
-Account: Use corporate mail (if any) or personal mail to register for an account
+Account: Use personal mail to register for an account
 
-Note: The name is the same as the chatwork
+NOTE:  You must set an account similar to your account chatwork
 
   `` For example:``
 
