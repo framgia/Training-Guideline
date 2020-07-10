@@ -1,4 +1,4 @@
-# My Sql Tutorial
+# My SQL Tutorial
 
 ## 1. Target
 This module will help you understand the basic principles of relational database and SQL programming skills. Topics include relational database architecture, database design techniques, and simple, complex query skills. Once completed, you will understand SQL functions, join techniques, database objects and constraints, and will be able to write useful SELECT, INSERT, UPDATE and DELETE statements.
@@ -28,10 +28,13 @@ At the end of this course, students will be able to:
 [Slide] https://link.sun-asterisk.vn/IsMVMg
 
 Book:
-   For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
-   For Mysql: https://drive.google.com/file/d/1J3G4kAVaZjG4q6miTV4ueEunR6ZXh2DR/view?usp=sharing
+
+   - For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
+   
+   - For Mysql: https://drive.google.com/file/d/1J3G4kAVaZjG4q6miTV4ueEunR6ZXh2DR/view?usp=sharing
 
 ## 4. Link exam:
+
 Host: http://training.sun-asterisk.vn
 
 Account: Use personal mail to register for an account
