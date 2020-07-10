@@ -16,13 +16,13 @@ At the end of this course, students will be able to:
 
 ## 3. Link document:
 
-[Videos]: https://drive.google.com/drive/u/1/folders/1yKMk5ZS9nvHhRSi5tUxagliyK2ADP4uA
+Videos: https://drive.google.com/drive/u/1/folders/1yKMk5ZS9nvHhRSi5tUxagliyK2ADP4uA
 
 
-[Book]: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
+Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 
 
-[Slide]: https://drive.google.com/drive/folders/1NSC9OXrTBItmf3-DbVzFgmB0-421X7ca?usp=sharing
+Slide: https://drive.google.com/drive/folders/1NSC9OXrTBItmf3-DbVzFgmB0-421X7ca?usp=sharing
 
 ## 4. Link for test:
 
