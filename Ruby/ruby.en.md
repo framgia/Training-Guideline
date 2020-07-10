@@ -9,8 +9,6 @@ At the end of this course, students will be able to:
    - Understand the characteristics and differences of Ruby and other object-oriented programming languages.
 
 ## 2. Study time:
-3 days for full time
-5 days for part time
 
  3 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
 
