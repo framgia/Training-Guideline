@@ -3,7 +3,7 @@
 I. Ruby
 1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
 
-2. Mysql: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md), [English](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.en.md)
+2. MySQL: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md), [English](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.en.md)
 
 3. Ruby: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.en.md)
 
