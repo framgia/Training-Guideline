@@ -12,6 +12,10 @@ At the end of this course, students will be able to:
 3 days for full time
 5 days for part time
 
+ 3 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
+
+(*) NOTE: For Malaysia training course, the training time for this GIT module is: 4 lessons (28th July -8th August)
+
 ## 3. Link document:
 Video: https://drive.google.com/drive/u/1/folders/1yKMk5ZS9nvHhRSi5tUxagliyK2ADP4uA
 Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
