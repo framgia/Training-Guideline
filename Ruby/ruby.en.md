@@ -12,7 +12,7 @@ At the end of this course, students will be able to:
 
  3 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
 
-(*) NOTE: For Malaysia training course, the training time for this R module is: 6 lessons (28th July - 8th August)
+(*) NOTE: For Malaysia training course, the training time for this module is: 6 lessons (28th July - 8th August)
 
 ## 3. Link document:
 
