@@ -12,7 +12,7 @@ At the end of this course, students will be able to:
 
  3 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
 
-(*) NOTE: For Malaysia training course, the training time for this GIT module is: 4 lessons (28th July -8th August)
+(*) NOTE: For Malaysia training course, the training time for this R module is: 4 lessons (28th July -8th August)
 
 ## 3. Link document:
 Video: https://drive.google.com/drive/u/1/folders/1yKMk5ZS9nvHhRSi5tUxagliyK2ADP4uA
