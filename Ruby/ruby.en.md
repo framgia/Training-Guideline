@@ -1,36 +1,36 @@
-# Ruby Guidline Study
+# Ruby Guidline Study  -> Ruby Guidline 
 
-## 1. Target
+## 1. Target -> Objective
 
-At the end of this course, students will be able to:
+At the end of this course, students will be able to: -> BỎ câu này đi
    - Know how to install and configure Ruby.
-   - Can recognize syntax of Ruby language
-   - Can apply Ruby language to specific problems
+   - Can recognize syntax of Ruby language -> Bỏ CAN
+   - Can apply Ruby language to specific problems-> Bỏ CAN
    - Understand the characteristics and differences of Ruby and other object-oriented programming languages.
 
-## 2. Study time:
+## 2. Study time-> Training Time
 
  3 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
 
-(*) NOTE: For Malaysia training course, the training time for this R module is: 4 lessons (28th July -8th August)
+(*) NOTE: For Malaysia training course, the training time for this module is: 4 lessons (28th July -8th August)
 
-## 3. Link document:
+## 3. Link document -> Document Link
 
-Videos: https://drive.google.com/drive/u/1/folders/1yKMk5ZS9nvHhRSi5tUxagliyK2ADP4uA
-
-
-Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
+[Videos]: https://drive.google.com/drive/u/1/folders/1yKMk5ZS9nvHhRSi5tUxagliyK2ADP4uA
 
 
-Slide: https://drive.google.com/drive/folders/1NSC9OXrTBItmf3-DbVzFgmB0-421X7ca?usp=sharing
+[Book]: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 
-## 4. Link for test:
+
+[Slide]: https://drive.google.com/drive/folders/1NSC9OXrTBItmf3-DbVzFgmB0-421X7ca?usp=sharing
+
+## 4. Link for test -> Test Link
 
 Host: http://training.sun-asterisk.vn
 
 Account: Use personal mail to register for an account
 
-NOTE:  You must set an account similar to your account chatwork
+NOTE:  You must set an account similar to your account chatwork  -> You must set an account similar to your Chatwork account
 
   `` For example:``
 
