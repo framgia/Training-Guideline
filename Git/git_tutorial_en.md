@@ -1,4 +1,4 @@
-# GIT study guide
+# GIT guideline
 
 ## 1. Goal
 - Understand Git and VCS fundamentals (Version Control System)
