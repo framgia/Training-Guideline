@@ -1,6 +1,6 @@
 # My SQL Tutorial
 
-## 1. Target
+## 1. Goal:
 This module will help you understand the basic principles of relational database and SQL programming skills. Topics include relational database architecture, database design techniques, and simple, complex query skills. Once completed, you will understand SQL functions, join techniques, database objects and constraints, and will be able to write useful SELECT, INSERT, UPDATE and DELETE statements.
 
 In 1 day you focus on the following content:
@@ -21,10 +21,13 @@ At the end of this course, students will be able to:
 - Understand what is a transaction and the role of a transaction
 - Use triggers and stored procedures
 
-## 2. Time:
+## 2. Training time:
 1 day (Including general knowledge review, individual self-review and test taking)
 
-## 3. Link document:
+(*) NOTE: For Malaysia training course, the training time for this SQL module is: 2 lessons (24th July - 27th July)
+
+
+## 3. Document link:
 [Slide] https://link.sun-asterisk.vn/IsMVMg
 
 Book:
@@ -33,7 +36,7 @@ Book:
    
    - For Mysql: https://drive.google.com/file/d/1J3G4kAVaZjG4q6miTV4ueEunR6ZXh2DR/view?usp=sharing
 
-## 4. Link exam:
+## 4. Test link:
 
 Host: http://training.sun-asterisk.vn
 
@@ -46,5 +49,6 @@ For example:
 Full name: Nguyen Van A
 
 Account name: [Malay_Ruby] Nguyen Van A
+```
 
 ### Happy coding!!!
