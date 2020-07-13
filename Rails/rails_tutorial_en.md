@@ -32,7 +32,7 @@ https://link.sun-asterisk.vn/6FW345
 The first pull request will be init project :
 + Go to github to create new repository name is `sample_app`, select `Initialize this repository with a README`, `add .gitignore` choose `Ruby` => Create repository. 
 After that, you clone this repository to local computer.
-+ in locale computer: open terminal `cd sample_app`
++ n locale computer: open terminal `cd sample_app`
 ```
 # create new branch name is init_project
 git checkout -b init_project 
@@ -57,9 +57,9 @@ From chapter 3 -> chapter 14.  After each chapter, you make a pull request.
   + Pull request title: The title of that chapter.
     Ex: "Chapter 3: Mostly static pages", "Chapter 6: Modeling users"
 
-You use the reviewboard system to review the code before being merged into the master. You install the system according to the steps below:
+You use the reviewboard system PRTS to review the code before being merged into the master. You install the system according to the steps below:
 
- - You log into the page https://prts.sun-asterisk.vn/ with your Github account.
+ - You log into the PRTS page https://prts.sun-asterisk.vn/ with your Github account.
 - Install according to the instructions:
 https://link.sun-asterisk.vn/Bxdu3v
 
