@@ -7,7 +7,7 @@ I. Ruby
 
 3. Ruby: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.en.md)
 
-4. [Rails](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md)
+4. Rails: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial_en.md)
 
 5. [Project1](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1.md)
 
