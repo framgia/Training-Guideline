@@ -1,4 +1,4 @@
-# Ruby Guidline
+# Ruby Guideline
 
 ## 1. Goal
 
