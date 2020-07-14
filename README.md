@@ -11,9 +11,9 @@ I. Ruby
 
 5. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1_en.md)
 
-6. [Project2](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2.md)
+6. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2_en.md)
 
-7. [Rspec](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md)
+7. Rspec: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec_en.md)
 
 II. PHP
 
