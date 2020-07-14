@@ -148,7 +148,10 @@ Preference -> User Settings -> remove the old one and paste the following code i
 
 ## 9. Coding convention
 You self-review individual code according to the company's coding convention by the following link:
-https://link.sun-asterisk.vn/6j5stN
+
+- Ruby: https://link.sun-asterisk.vn/tVYuqK
+- Rails: https://link.sun-asterisk.vn/TerjZi
+
 ## 10. Test Link
 Host: http://training.sun-asterisk.vn
 
