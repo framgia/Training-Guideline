@@ -140,11 +140,11 @@ Preference -> User Settings -> remove the old one and paste the following code i
 }
 ```
 ## 8. Some notes during the tutorial
--You are absolutely not allowed to wait for the merged pull request chapter first and then do the next chapter. On the other hand, you checkout new branch from the previous branch and continue rebase and conflict if any.
+- You are absolutely not allowed to wait for the merged pull request chapter first and then do the next chapter. Instead, checkout new branch from the previous branch and continue your work, then rebase and fix conflict if any.
 - Please wait up to 3 hours to get feedback after sending a pull request to the trainer. If you have not received a trainer review after 3 hours , please send them reminder message.
-- You should set a commit / pull during learning the tutorial.
-- Read and understand the instructions before using PRTS to avoid mistakes.
-- You should actively ask friends or Trainer for support if you have problems that cannot be solved by yourself during learning.
+- You should create only one commit per pull request.
+- Read and understand thoroughly the instructions before using `PRTS` to avoid mistakes.
+- You should actively ask friends or Trainer for support if you have problems that cannot be solved by yourself
 
 ## 9. Coding convention
 You self-review individual code according to the company's coding convention by the following link:
