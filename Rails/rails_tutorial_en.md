@@ -9,8 +9,8 @@ At the end of this course, students will be able to:
   - Model-View-Controller architecture application for server-side applications
   - Learn to program the main components of Rails, including Active Record, Action Controller and Action View
   - Learn Ruby's fundamentals
-  - Building data-driven applications with Rails
-  - Implementing TDD (test-driven development) for Rails applications.
+  - Build data-driven applications with Rails
+  - Implement TDD (test-driven development) for Rails applications.
   - Complete a blog application with basic functions.
   
 ## 2. Training time
@@ -140,11 +140,11 @@ Preference -> User Settings -> remove the old one and paste the following code i
 }
 ```
 ## 8. Some notes during the tutorial
-- Absolutely do not wait for the merged pull request chapter first and then do the next chapter. Instead, you checkout new branch from the previous branch and continue, later rebase and later conflict if any.
-- Pull request after sending the trainer, you wait for a maximum of 3 hours, if after 3 hours there is still no review, send the trainer reminder message.
-- Make a commit / pull during the tutorial learning process.
-- Read and understand the instructions before using PRTS, avoid mistakes.
-- In the course, if you encounter a problem that cannot be solved, please ask for help from another friend or Trainer for support.
+-You are absolutely not allowed to wait for the merged pull request chapter first and then do the next chapter. On the other hand, you checkout new branch from the previous branch and continue rebase and conflict if any.
+- Please wait up to 3 hours to get feedback after sending a pull request to the trainer. If you have not received a trainer review after 3 hours , please send them reminder message.
+- You should set a commit / pull during learning the tutorial.
+- Read and understand the instructions before using PRTS to avoid mistakes.
+- You should actively ask friends or Trainer for support if you have problems that cannot be solved by yourself during learning.
 
 ## 9. Coding convention
 You self-review individual code according to the company's coding convention by the following link:
