@@ -1,5 +1,6 @@
 # Training-Guideline
-
+# modification from branch 1
+# modification2 from branch 1
 I. Ruby
 1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
 
