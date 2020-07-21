@@ -7,33 +7,31 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
   - Hiểu về vòng đời một request trong Django
   - Ứng dụng kiến ​​trúc Model-View-Template cho các ứng dụng phía máy chủ
   - Tìm hiểu các nguyên tắc cơ bản của Python, Django
-  - Tự mình hoàn thiện được một ứng dụng web sử dụng Python và Django 
+  - Tự mình hoàn thiện được một ứng dụng web sử dụng Python và Django
 ## 2. Thời gian học:
-8 ngày (Tối đa 10 ngày nếu trễ tiến độ)
+9 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
 ## 3. Link tài liệu:
 Các bạn đọc và làm theo link: https://docs.djangoproject.com/en/3.0/intro/
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/file/d/1c9Jy54TZw5vrqDLNDI4anGqby9uK3Ne2/view?usp=sharing
 
-## 4. Về việc gửi pull request
+## 4. Thiết lập gửi pull request
 Sau mỗi part, các bạn thực hiện tạo pull request để gửi trainer review.
 
 #### Yêu cầu:
-- Mỗi 1 pull request tương ứng 1 chapter
+- Mỗi 1 pull request tương ứng 1 part
 - Cách đặt tên:
   + Tên repo github là: **mysite**
   + Tên branch tương ứng với tên part. Ví dụ: **part_1**, **part_2**
   + Tiêu đề pull request (nội dung commit): Tiêu đề của part đó.
     Ví dụ: " Part 1: Requests and responses", " Part 2: Models and the admin site"
 
-## 5. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
-Các bạn truy cập url này: http://prts.sun-asterisk.vn , chọn mục "User Guide" ở góc trên bên phải rồi làm theo hướng dẫn.
+Các bạn sử dụng hệ thống Pull Request Tracking System (PRTS) để gửi và theo dõi review pull request. Thực hiện theo các bước dưới đây:
+- Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
+- Cài đặt theo hướng dẫn ở mục "User Guide": https://docs.google.com/document/d/1B3n86p8S2_slltZdNGgzMtu8OnTH6ua6VNrN6w_0-6I/edit?usp=sharing
+- Báo trainer add vào box chatwork review pull request
 
-#### LƯU Ý:
-- Đăng nhập thông qua tài khoản trang education: https://education.sun-asterisk.vn
-- Chatwork room ID là 57274663 (Đối với văn phòng Đà Nẵng)
-
-## 6. Thiết lập Sublime Text
+## 5. Thiết lập Sublime Text
 Các bạn sử dụng setting này dành cho sublime để xử lý indent, trailing space và end of file, bằng cách:
 Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau vào:
 ```
@@ -56,27 +54,27 @@ Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau và
 	"trim_trailing_white_space_on_save": true
 }
 ```
-## 7. Một số lưu ý trong quá trình làm tutorial:
+## 6. Một số lưu ý trong quá trình làm tutorial:
 - Tuyệt đối không chờ đợi merged pull request part trước rồi mới làm part tiếp theo. Thay vào đó, các bạn checkout branch mới từ branch trước ra và làm tiếp, sau này sẽ rebase và fix conflict sau nếu có.
 - Pull request sau khi gửi trainer, các bạn chờ đợi trong thời gian tối đa là 3 tiếng, nếu sau 3 tiếng vẫn chưa có người review, các bạn hãy gửi message nhắc nhở trainer.
 - Nên để 1 commit/pull trong quá trình học tutorial.
 - Đối với pull request đầu tiên thì Chatbot sẽ không có thông báo, từ lần sau thì sẽ có thông báo khi sử dụng hệ thống PRTS.
 - Chú ý đọc hiểu hướng dẫn trước khi sử dụng PRTS, tránh tình trạng sai xót.
-- Trong quá trình làm nếu gặp vấn đề không giải quyết được thì hãy chủ động hỏi nhờ các bạn khác hoặc Trainer để được support.
+- Trong quá trình làm nếu gặp vấn đề không giải quyết sau khi tự tìm hiểu, hãy chủ động hỏi nhờ các bạn khác hoặc Trainer để được support.
 
-## 10. Link bài test:
-Host: http://training.sun-asterisk.vn
+## 7. Link bài test:
+Kết thúc quá trình tutorial, sinh viên phải thực hiện bài test online để ôn tập kiến thức
+Link: http://training.sun-asterisk.vn
 
-Account: Các bạn tự tạo bằng mail đăng ký với HR
+Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
 
 Lưu ý: Đặt tên giống với chatwork
 ```
 Ví dụ:
   Họ và tên: Nguyễn Văn A
-  Khóa: Ruby 03
+  Khóa: Python 03
   Vị trí: Open Education
   Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
+  Tên tài khoản: [DN_OE03_Python]Nguyen Van A
 ```
-
 ### Happy coding!!!

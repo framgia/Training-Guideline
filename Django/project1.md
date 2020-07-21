@@ -37,17 +37,16 @@ Thực hiện công việc theo từng bước như sau:
 7. Pull request được merged, dev update %DONE của ticket redmine thành 100%, status thành Resolved
 
 ## 4. Về pull request gửi review
-- Attchment link ticket redmine vào pull
-- Attchment hình ảnh chụp layout các chức năng làm của pull đó
+- Attchment link ticket redmine vào pull request
+- Attchment hình ảnh chụp layout các chức năng làm của pull request đó
 - Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/) đã làm ở tutorial
 - Đối với pull init model cần attachment hình ảnh thiết kế DB
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 85% chức năng yêu cầu của dự án
-- Yêu cầu deploy dự án trên heroku
-- Sử dụng link heroku để trình bày project
+- Sử dụng link deploy để trình bày project
 - Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
 - Chức năng thành viên nào làm thành viên đó trình bày
-- Trường hợp team hoàn thành dưới 85% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian
+- Trường hợp team hoàn thành dưới 85% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
 
 #### Happy coding!!!
