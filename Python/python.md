@@ -13,19 +13,17 @@ Vào cuối khóa học này, học viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Python theo link:
-
-Học theo flow: https://www.programiz.com/python-programming
-Tham khảo thêm tại:
-https://docs.python.org/3.8/
+  - Học theo flow: https://www.programiz.com/python-programming
+  - Tham khảo thêm tại:
+https://docs.python.org/3.8/ ,
 https://www.w3schools.com/Python/default.asp
 
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần - https://drive.google.com/drive/folders/16a9Kjq7ZuDfAZiu7BW8FgebTNtDeLDX0?usp=sharing
+  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần - https://drive.google.com/drive/folders/16a9Kjq7ZuDfAZiu7BW8FgebTNtDeLDX0?usp=sharing
 
 ## 4. Link bài test:
 Kết thúc quá trình học Python, sinh viên phải thực hiện bài test online để ôn tập kiến thức
-Link: http://training.sun-asterisk.vn
-
-Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
+  - Link: http://training.sun-asterisk.vn
+  - Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
 
 Lưu ý: Đặt tên giống với chatwork
 ```
