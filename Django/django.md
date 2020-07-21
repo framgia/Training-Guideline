@@ -12,8 +12,8 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 9 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
 ## 3. Link tài liệu:
-Các bạn đọc và làm theo link: https://docs.djangoproject.com/en/3.0/intro/
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương - https://drive.google.com/file/d/1c9Jy54TZw5vrqDLNDI4anGqby9uK3Ne2/view?usp=sharing
+  - Các bạn đọc và làm theo link: https://docs.djangoproject.com/en/3.0/intro/
+  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương th https://drive.google.com/file/d/1c9Jy54TZw5vrqDLNDI4anGqby9uK3Ne2/view?usp=sharing
 
 ## 4. Thiết lập gửi pull request
 Sau mỗi part, các bạn thực hiện tạo pull request để gửi trainer review.
@@ -64,9 +64,8 @@ Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau và
 
 ## 7. Link bài test:
 Kết thúc quá trình tutorial, sinh viên phải thực hiện bài test online để ôn tập kiến thức
-Link: http://training.sun-asterisk.vn
-
-Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
+  - Link: http://training.sun-asterisk.vn
+  - Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
 
 Lưu ý: Đặt tên giống với chatwork
 ```
