@@ -16,7 +16,6 @@ I. Ruby
 7. Rspec: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec_en.md)
 
 II. PHP
-
 1. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
 
 2. [Mysql](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
@@ -31,9 +30,7 @@ II. PHP
 
 7. [Unit Test](https://github.com/framgia/Training-Guideline/blob/master/Laravel/unittest.md)
 
-III. Android
-
-IV. Java
+III. Java
 1. [Settup](https://docs.google.com/document/d/1Bhce_meNfVhBhtTsPDtclI0Fz56VjB8-g1gKqjKMats/edit?usp=sharing)
 
 2. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
@@ -52,6 +49,22 @@ IV. Java
 
 9. [Project2](https://#)
 
-V. Front-end
+IV. Python
+1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
 
-VI. [Process working on Redmine](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
+2. MySQL: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md), [English](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.en.md)
+
+3. Python: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Python/python.md)
+
+4. Django: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Django/django.md)
+
+5. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Django/project1.md)
+
+6. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Django/project2.md)
+
+VI. Working Process
+1. [Working Process on Redmine](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
+
+2. Guidelines using Pull Request Tracking System (PRTS)
+[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_vi.pdf)
+[English](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_en.pdf)

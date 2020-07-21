@@ -8,7 +8,7 @@
 - Sử dụng các công cụ Git khác
 
 ## 2. Thời gian học:
-2 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 5 ngày liên tiếp tính từ ngày bắt đầu)
+2 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test. Tính theo ngày làm việc, trường hợp đi part-time tối đa 5 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
 [Slide]
