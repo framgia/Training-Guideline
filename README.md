@@ -63,8 +63,8 @@ IV. Python
 6. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Django/project2.md)
 
 VI. Working Process
-1. [Working Process on Redmine](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
+1. Working Process on Redmine: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
 
 2. Guidelines using Pull Request Tracking System (PRTS)
-[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_vi.pdf)
-[English](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_en.pdf)
+  - [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_vi.pdf)
+  - [English](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_en.pdf)
