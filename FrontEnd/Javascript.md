@@ -5,17 +5,17 @@ Vào cuối phần này, sinh viên sẽ có thể:
 
   - Hiểu được bản chất của Javascript
   - Nắm vững các kiến thức nền tảng:
-    Statements
-    Expressions
-    Executing a Program
-    Operators
-    Values & Types
-    Code Comments
-    Variables
-    Blocks
-    Conditionals
-    Loops
-    Functions
+    Statements,
+    Expressions,
+    Executing a Program,
+    Operators,
+    Values & Types,
+    Code Comments,
+    Variables,
+    Blocks,
+    Conditionals,
+    Loops,
+    Functions,
     Scope
   - Làm việc được với Events, DOM, Object
   - Làm việc được với Storing data in the browser
@@ -36,5 +36,5 @@ Bài tập thực hành cho phần Javascript Các bạn sẽ sử dụng lại 
 
 ## Lưu ý
 Sử dụng quy tắt đặt tên class: 
-http://getbem.com/introduction/
-https://goo.gl/BM7D8V
+- http://getbem.com/introduction/
+- https://goo.gl/BM7D8V

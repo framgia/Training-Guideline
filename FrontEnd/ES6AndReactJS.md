@@ -16,10 +16,10 @@ Vào cuối phần này, sinh viên sẽ có thể:
 Làm bài tập e-commerce đơn giản https://community.algolia.com/instantsearch.js/v1/examples/e-commerce/
 1. sử dụng reactJS thuần
 2. Sử dụng redux
-Yêu cầu chung sử dụng json-server để tạo web API 
-List product được lấy từ dữ liệu API 
+- Yêu cầu chung sử dụng json-server để tạo web API 
+- List product được lấy từ dữ liệu API 
 
 ## Lưu ý
 Sử dụng quy tắt đặt tên class: 
-http://getbem.com/introduction/
-https://goo.gl/BM7D8V
+- http://getbem.com/introduction/
+- https://goo.gl/BM7D8V
