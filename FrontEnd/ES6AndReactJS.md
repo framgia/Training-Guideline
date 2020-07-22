@@ -1,4 +1,4 @@
-# Hướng dẫn học ES6AndReactJS
+# Hướng dẫn học ES6 & ReactJS
 ## 1. Mục tiêu
 Phần này sẽ hướng dẫn cho các bạn cách phát triển một ứng dụng web sử dụng ES6 & ReactJS
 Vào cuối phần này, sinh viên sẽ có thể:
@@ -9,6 +9,11 @@ Vào cuối phần này, sinh viên sẽ có thể:
 ## 2. Thời gian học
 5 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 7 ngày liên tiếp tính từ ngày bắt đầu)
 ## 3. Link tài liệu
+#### ES6
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla#Expressions_and_operators
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla#Functions
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla#Other_features
+#### ReactJS
 - ReactJS: https://reactjs.org/docs/getting-started.html
 - Redux: https://redux.js.org/introduction/getting-started
 - Slide: https://drive.google.com/drive/u/0/folders/1t4YuHUb5Z0naOeq_TkqR4Qtag8QIS5ua
