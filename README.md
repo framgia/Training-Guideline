@@ -62,9 +62,25 @@ IV. Python
 
 6. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Django/project2.md)
 
+V. Front-end
+1. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
+
+2. [HTML,CSS](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/HtmlCss.md)
+
+3. [Bootstrap](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Bootstrap.md)
+
+4. [PUG & Framework](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/PugAndFramework.md)
+
+5. [Project 1](https://#)
+
+6. [Javascript](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Javascript.md)
+
+7. [ES6 & ReactJS](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/ES6AndReactJS.md)
+
+8. [Project 2](https://#)
+
 VI. Working Process
 1. Working Process on Redmine: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
-
 2. Guidelines using Pull Request Tracking System (PRTS)
   - [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_vi.pdf)
   - [English](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_en.pdf)
