@@ -22,7 +22,7 @@
 - Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 
 
-- Slide: https://drive.google.com/drive/folders/1NSC9OXrTBItmf3-DbVzFgmB0-421X7ca?usp=sharing
+- Slide: https://drive.google.com/drive/u/1/folders/13HpxXz8Z3eZ8tqwP7MowLhcpWi-HRAtN
 
 ## 4. Test Link
 
