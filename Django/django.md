@@ -11,20 +11,19 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 ## 2. Thời gian học:
 9 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
+- 3 ngày đọc và làm theo [link này](https://docs.djangoproject.com/en/3.0/intro/). Không cần gửi pull request, daily report gửi repository github hằng ngày cho trainer review tiến độ
+- 6 ngày đọc và làm theo [link này](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ part 2 trở đi phải gửi pull request sau mỗi part
+
 ## 3. Link tài liệu:
-  - Các bạn đọc và làm theo link: https://docs.djangoproject.com/en/3.0/intro/
-  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng chương theo link https://drive.google.com/file/d/1c9Jy54TZw5vrqDLNDI4anGqby9uK3Ne2/view?usp=sharing
+  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/file/d/1c9Jy54TZw5vrqDLNDI4anGqby9uK3Ne2/view?usp=sharing)
 
 ## 4. Thiết lập gửi pull request
-Sau mỗi part, các bạn thực hiện tạo pull request để gửi trainer review.
-
-#### Yêu cầu:
-- Mỗi 1 pull request tương ứng 1 part
+- Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit
 - Cách đặt tên:
   + Tên repo github là: **mysite**
-  + Tên branch tương ứng với tên part. Ví dụ: **part_1**, **part_2**
+  + Tên branch tương ứng với tên part. Ví dụ: **part2**, **part3**
   + Tiêu đề pull request (nội dung commit): Tiêu đề của part đó.
-    Ví dụ: " Part 1: Requests and responses", " Part 2: Models and the admin site"
+    Ví dụ: "Django Tutorial Part 2: Creating a skeleton website", "Django Tutorial Part 3: Using models"
 
 Các bạn sử dụng hệ thống Pull Request Tracking System (PRTS) để gửi và theo dõi review pull request. Thực hiện theo các bước dưới đây:
 - Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
