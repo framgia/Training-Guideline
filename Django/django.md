@@ -15,7 +15,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 - 6 ngày đọc và làm theo [link này](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ part 2 trở đi phải gửi pull request sau mỗi part
 
 ## 3. Link tài liệu:
-  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/file/d/1c9Jy54TZw5vrqDLNDI4anGqby9uK3Ne2/view?usp=sharing)
+  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/1xKe1-cZYNq2Yft3WftMxJzbZXL2y20VH?usp=sharing)
 
 ## 4. Thiết lập gửi pull request
 - Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit
