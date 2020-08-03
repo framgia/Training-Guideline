@@ -1,5 +1,6 @@
 ## Thời gian thực hiện:
-5 ngày (Tối đa 10 ngày nếu đi part time)
+3 ngày (Tối đa 5 ngày nếu đi part time)
+
 ## Link tài liệu:
 ### 1. Homepage
 http://rspec.info/<br>
@@ -10,7 +11,14 @@ https://relishapp.com/rspec
 <br>
 http://www.relishapp.com/rspec/rspec-expectations/v/3-2/docs/built-in-matchers/type-matchers
 <br>
-Link Slide: https://link.sun-asterisk.vn/9BzzO5
+
+[Slide]:
+
+https://link.sun-asterisk.vn/9BzzO5
+
+[Book]: 
+
+https://drive.google.com/drive/u/1/folders/14eHAwSI4HKCKYQyVs2o7L9junTEHDkpC
 
 ### 3. Test style guide
 [Vietnamese version](https://github.com/framgia/coding-standards/blob/master/vn/rails/test.md)
