@@ -1,23 +1,27 @@
 # Hướng dẫn một số thông tin về Project 2
 
-#### Thời gian thực hiện:
-7 ngày (Tối đa 14 ngày nếu đi part time) <br>
+## Thời gian thực hiện:
+10 ngày (Tối đa 20 ngày nếu đi part time) <br>
+
 Phát triển dựa trên Project 1 với các kỹ thuật sau:
-### Các kỹ thuật áp dụng trong rails project 2
+
+**Note:** Các gem* là những gem nên tìm hiểu và áp dụng vào project 2
+
+
 #### [Rails Advance 2]
-##### 1. Gem Devise
+##### 1. Gem Devise*
 https://github.com/plataformatec/devise
-##### 2. Gem CanCanCan
+##### 2. Gem CanCanCan*
 https://github.com/CanCanCommunity/cancancan
-##### 3. Gem Ransack
+##### 3. Gem Ransack*
 https://github.com/activerecord-hackery/ransack
-##### 4. Background job: sidekiq, resque, delayed job
+##### 4. Background job: sidekiq, resque, delayed job*
 https://github.com/mperham/sidekiq<br>
 https://github.com/resque/resque<br>
 https://github.com/codez/delayed_cron_job
 ##### 5. Cronjob: whenever
 https://github.com/javan/whenever
-##### 6. Unit Test (Rspec)
+##### 6. Unit Test (Rspec)*
 http://rspec.info/
 https://github.com/rspec/rspec
 ##### 7. Metaprogramming (send, eval, class_eval, ...)
@@ -57,6 +61,10 @@ https://github.com/bigtunacan/rails-jquery-autocomplete<br>
 https://www.lugolabs.com/articles/jquery-ui-autocomplete-with-ruby-on-rails
 ##### 22. Dynamic form (gem cocoon)
 https://github.com/nathanvda/cocoon
+
+## Chú ý
+- Các pull áp dụng gem Devise, Cancancan thì không cần viết Unit test
+- Các pull còn lại phải áp dụng viết Unit test khi thay đổi code tại controller và model
 
 #### Tham khảo thêm
 #### [Rails Advance 3]
