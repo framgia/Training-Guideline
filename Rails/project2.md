@@ -3,7 +3,7 @@
 ## Thời gian thực hiện:
 10 ngày (Tối đa 20 ngày nếu đi part time) <br>
 
-Phát triển dựa trên Project 1 với các kỹ thuật sau + V:
+Phát triển dựa trên Project 1 với các kỹ thuật sau:
 
 **Note:** Các gem* là những gem nên tìm hiểu và áp dụng vào project 2
 
