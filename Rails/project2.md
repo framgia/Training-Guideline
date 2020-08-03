@@ -66,7 +66,7 @@ https://github.com/nathanvda/cocoon
 - Các pull áp dụng gem Devise, Cancancan thì không cần viết Unit test
 - Các pull còn lại phải áp dụng viết Unit test khi thay đổi code tại controller và model
 
-#### Tham khảo thêm
+## Tham khảo thêm
 #### [Rails Advance 3]
 ##### 1. API
 http://apionrails.icalialabs.com/book
