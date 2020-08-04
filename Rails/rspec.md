@@ -1,5 +1,6 @@
 ## Mục tiêu
 - Nắm được tầm quan trọng của Unit test
+- Nắm được phương pháp và kỹ thuật phân tích khi viết Unit Test
 - Có thể viết test rspec được ở Controller và Model
 ## Thời gian thực hiện
 3 ngày (Tối đa 5 ngày nếu đi part time)
