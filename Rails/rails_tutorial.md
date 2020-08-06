@@ -53,44 +53,46 @@ Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bư
 - Sử dụng hệ thống ReviewBoard để quản lý các pull của mình, mọi người có thể thấy các trạng thái của pull trên đó nhé
 - Nếu có commented thì bạn sửa, sau khi sửa xong lại comment vào pull: "ready"
 
-## 5. Thiết lập [Rubocop](https://github.com/rubocop-hq/rubocop) vào Project
-#### Bước 1: Các bạn cài đặt gem rubocop vào Gemfile:
-##### > Với Ruby 2.5.x trở về trước
-```ruby
-group :development, :test do
-  gem "rubocop", "~> 0.54.0", require: false
-end
-```
+## 5. Thiết lập CI local vào Project
+#### Bước 1: Các bạn cài đặt gem vào Gemfile:
 
-##### > Với Ruby 2.6.x trở đi
 ```ruby
 group :development, :test do
+  gem "rails_best_practices"
   gem "rubocop", "~> 0.74.0", require: false
+  gem "rubocop-checkstyle_formatter", require: false
   gem "rubocop-rails", "~> 2.3.2", require: false
 end
 ```
+##### Cài đặt framgia-ci
+```bash
+sudo curl -o /usr/bin/framgia-ci https://raw.githubusercontent.com/framgia/ci-report-tool/master/dist/framgia-ci
+sudo chmod +x /usr/bin/framgia-ci
+sudo apt install python3-pip
+pip3 install framgia-ci
+pip3 uninstall cleo clikit
+pip3 install cleo==0.6.8
+```
+#### Bước 2: Tải tệp nén :
+Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local.tar.gz)
 
-#### Bước 2: Tải tệp nén tương ứng với phiên bản rubocop cài đặt ở bước 1:
-##### > Với Ruby 2.5.x trở về trước
-Tải file [Rubocop v0.54.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.54.0.tar.gz)
-
-##### > Với Ruby 2.6.x trở đi
-Tải file [Rubocop v0.74.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.74.0.tar.gz)
-
-Sau đó copy 3 file sau trong tệp nén vừa tải về gồm:
+Sau đó copy 6 file sau trong tệp nén vừa tải về gồm:
 ```
 .rubocop.yml
 .rubocop_disabled.yml
 .rubocop_enabled.yml
+.rails_best_practices.yml
+.rspec
+.framgia-ci.yml
 ```
 
 Dán vào thư mục project, ngang hàng với Gemfile
 #### Bước 3: Trước mỗi lần commit gửi pull thì chạy lệnh này:
 ```bash
-bundle exec rubocop
+framgia-ci run --local
 ```
 
-#### Bước 4: Chụp lại hình đã pass hết rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
+#### Bước 4: Chụp lại hình đã pass hết CI local cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 7. Thiết lập Sublime Text
 Các bạn sử dụng setting này dành cho sublime để xử lý indent, trailing space và end of file, bằng cách:
