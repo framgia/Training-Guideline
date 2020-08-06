@@ -69,6 +69,7 @@ end
 sudo curl -o /usr/bin/framgia-ci https://raw.githubusercontent.com/framgia/ci-report-tool/master/dist/framgia-ci
 sudo chmod +x /usr/bin/framgia-ci
 sudo apt install python3-pip
+sudo apt install libcurl4-openssl-dev libssl-dev
 pip3 install framgia-ci
 pip3 uninstall cleo clikit
 pip3 install cleo==0.6.8
