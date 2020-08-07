@@ -54,21 +54,21 @@ Scrum
 Thực hiện công việc theo từng bước như sau:
 1. Design database
 2. Add tasks on redmine + estimate time
-3. Init project
+3. Init project + setup CI local
 4. Init models, add relationship
 5. Design static pages
 6. Other pulls
 
 #### CHÚ Ý:
-- Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes
-- Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào
-- Sau khi đã review chéo ok thì mới gửi pull cho trainer review
+- Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes.
+- Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào.
+- Sau khi đã review chéo ok thì mới gửi pull cho trainer review.
 
 ## 3. Add tasks on redmine + estimate time
 - Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/)
 #### Chú ý:
 - Tham khảo cách đặt tên account [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
-- Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
+- Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện.
 - Chuyển đổi trạng thái ticket theo hướng dẫn [tại đây](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
 
 #### Quy trình chuyển đổi trạng thái của ticket như sau:

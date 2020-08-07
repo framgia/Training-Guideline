@@ -1,17 +1,29 @@
-## Mục tiêu
+## 1. Mục tiêu
 - Nắm được tầm quan trọng của Unit test
 - Nắm được phương pháp và kỹ thuật phân tích khi viết Unit Test
 - Có thể viết test rspec được ở Controller và Model
-## Thời gian thực hiện
+## 2. Thời gian thực hiện
 3 ngày (Tối đa 5 ngày nếu đi part time)
-## Cách thức thực hiện
+## 3. Cách thức thực hiện
 - Áp dụng kiến thức học và tìm hiểu được để viết rspec cho model và controller
 
 1.  Controller: Chọn 1 controller có đầy đủ các action để viết test
 2.  Model: Ngoài các rspec cho association, enum, .. chọn 5 method, scope để viết cho phần model 
 - Từ thời điểm này đến hết Project 2 các pull request đều phải viết unit test nếu có sự thay đổi controller và model
 
-## Link tài liệu
+## 4. Setup CI local for rspec
+- mở file .framgia-ci.yml sau đó uncomment dòng
+```
+rspec:
+    command: bundle exec rspec --format html --out .framgia-ci-reports/rspec.html spec/
+```
+sau đó chạy
+```bash
+framgia-ci run --local
+```
+Chụp lại hình đã pass hết CI local cho vào phần comment của pull request.
+
+## 5. Link tài liệu
 ### 1. Homepage
 http://rspec.info/<br>
 [Github](https://github.com/rspec/rspec)

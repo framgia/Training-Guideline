@@ -92,7 +92,11 @@ Dán vào thư mục project, ngang hàng với Gemfile
 ```bash
 framgia-ci run --local
 ```
-
+##### cho những file này vào .gitignore
+```
+.framgia-ci-reports/
+.framgia-ci-result.temp.yml
+```
 #### Bước 4: Chụp lại hình đã pass hết CI local cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 7. Thiết lập Sublime Text
