@@ -65,6 +65,7 @@ group :development, :test do
 end
 ```
 ##### Cài đặt framgia-ci
+Với Linux
 ```bash
 sudo curl -o /usr/bin/framgia-ci https://raw.githubusercontent.com/framgia/ci-report-tool/master/dist/framgia-ci
 sudo chmod +x /usr/bin/framgia-ci
@@ -73,6 +74,15 @@ sudo apt install libcurl4-openssl-dev libssl-dev
 pip3 install framgia-ci
 pip3 uninstall cleo clikit
 pip3 install cleo==0.6.8
+```
+Với Mac OS
+```bash
+brew install python3
+pip3 install framgia-ci
+pip3 install --upgrade framgia-ci
+brew reinstall openssl
+pip uninstall pycurl
+pip install --install-option="--with-openssl" --install-option="--openssl-dir=/usr/local opt/openssl" pycurl
 ```
 #### Bước 2: Tải tệp nén :
 Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local.tar.gz)
