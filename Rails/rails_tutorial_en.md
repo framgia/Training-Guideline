@@ -85,7 +85,7 @@ end
 Download file [Rubocop v0.54.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.54.0.tar.gz)
 
 ##### > With Ruby 2.6.x onwards
-Download file [Rubocop v0.74.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.74.0.tar.gz)
+Download file [Rubocop v0.74.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.74.tar.gz)
 
 Then copy the following 3 files in the downloaded zip file including:
 ```
