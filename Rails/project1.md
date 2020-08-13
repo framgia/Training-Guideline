@@ -6,7 +6,9 @@
 #### Số lượng thành viên trong team:
 1 ~ 3 người
 #### Chủ đề tham khảo:
+
 https://docs.google.com/spreadsheets/d/1TjPuQu7fe6CxDWmlttp0LTjQs8nw7Equ/edit#gid=940143881
+
 #### Mô hình áp dụng:
 Scrum
 #### Coding convention
@@ -49,6 +51,11 @@ Scrum
 29. [Jquery selector](https://api.jquery.com/category/selectors/)
 30. [CSS selector](https://www.w3schools.com/cssref/css_selectors.asp)
 31. [Ruby Nil Object](https://ruby-doc.org/core-2.4.0/NilClass.html)
+
+Các bạn focus vào các kĩ thuật Must và Should trong đây, vào buổi demo project trainer sẽ hỏi các bạn về các kĩ thuật này
+
+https://docs.google.com/spreadsheets/u/1/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChFow3YePk/edit#gid=0
+
 
 ## 2. Các bước thực hiện
 Thực hiện công việc theo từng bước như sau:
