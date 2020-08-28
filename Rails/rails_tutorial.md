@@ -58,7 +58,6 @@ Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bư
 
 ```ruby
 group :development, :test do
-  gem "rails_best_practices"
   gem "rubocop", "~> 0.74.0", require: false
   gem "rubocop-checkstyle_formatter", require: false
   gem "rubocop-rails", "~> 2.3.2", require: false
@@ -75,15 +74,6 @@ pip3 install framgia-ci
 pip3 uninstall cleo clikit
 pip3 install cleo==0.6.8
 ```
-Với Mac OS
-```bash
-brew install python3
-pip3 install framgia-ci
-pip3 install --upgrade framgia-ci
-brew reinstall openssl
-pip uninstall pycurl
-pip install --install-option="--with-openssl" --install-option="--openssl-dir=/usr/local opt/openssl" pycurl
-```
 #### Bước 2: Tải tệp nén :
 Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local.tar.gz)
 
@@ -92,7 +82,6 @@ Sau đó copy 6 file sau trong tệp nén vừa tải về gồm:
 .rubocop.yml
 .rubocop_disabled.yml
 .rubocop_enabled.yml
-.rails_best_practices.yml
 .rspec
 .framgia-ci.yml
 ```
