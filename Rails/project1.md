@@ -59,9 +59,20 @@ https://docs.google.com/spreadsheets/u/1/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChF
 
 ## 2. Các bước thực hiện
 Thực hiện công việc theo từng bước như sau:
-1. Design database
+1. Thiết kế Database, Requirements
 2. Add tasks on redmine + estimate time
-3. Init project + setup CI local
+3. Init project + setup CI tương tự rails tutorial<br>
+   Thêm gem sau vào Gemfile nếu chưa có:
+    ```ruby
+    group :development, :test do
+      gem "rspec-rails", "~> 4.0.1"
+    end
+    ```
+    sau đó chạy 
+    ```
+    bundle install
+    rails generate rspec:install
+    ```
 4. Init models, add relationship
 5. Design static pages
 6. Other pulls
@@ -72,7 +83,7 @@ Thực hiện công việc theo từng bước như sau:
 - Sau khi đã review chéo ok thì mới gửi pull cho trainer review.
 
 ## 3. Add tasks on redmine + estimate time
-- Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/)
+- Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/) rồi gửi thông tin cho trainer
 #### Chú ý:
 - Tham khảo cách đặt tên account [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện.
