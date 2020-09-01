@@ -19,14 +19,13 @@ Scrum
 
 ## 2. Steps to take
 1. Design database
-2. Add tasks on redmine + estimate time
-3. Init project
-4. Init models, add relationship
-5. Design static pages
-6. Other pulls
+2. Init project
+3. Init models, add relationship
+4. Design static pages
+5. Other pulls
 
 #### Note:
-- The pull request from section 6 onwards each pull does not exceed 15 file changes
+- The pull request from section 5 onwards each pull does not exceed 15 file changes
 - Everyone in the team cross review for each other then approve pull request when there are no errors
 - Then send a pull request to the trainer to review
 
