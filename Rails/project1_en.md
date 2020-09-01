@@ -44,7 +44,7 @@ Scrum
 - If your project hasn't done >=85% requirement, you must contact your trainer and discuss about extending time
 
 
-## 5. Reference techniques for further reading
+## 5. Reference techniques
 1. [Nested Attribute (fields_for, reject_if, allow_destroy, ...)](http://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html)
 2. [Batch Update](https://apidock.com/rails/ActiveRecord/Relation/update_all)
 3. [form_for](http://api.rubyonrails.org/v5.1/classes/ActionView/Helpers/FormHelper.html)
