@@ -31,9 +31,6 @@ Scrum
 - Then send a pull request to the trainer to review
 
 ## 3. Rules create a pull request
-- Add attchment the link ticket redmine in pull's description
-- Add attchment the result of task has passed test rubocop
-- Add attchment the result of task
 - Send and track pull request on the system [PRTS](https://prts.sun-asterisk.vn/)
 - For pull request init model, must have the attachment of the Database design image
 
