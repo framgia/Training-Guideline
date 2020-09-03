@@ -1,10 +1,12 @@
-# Bước 1: Enable CI 
-truy cập tại [đây](https://ci.sun-asterisk.com/account/github/repositories?scm=github&namespace=awesome-academy) <br>
-click enable CI cho project tương ứng
-# Bước 2: Tạo file .sun-ci.yml & database-ci.yml
-check image ruby hiện có tại [đây](https://hub.docker.com/r/sunci/ruby/builds) sau đó thay thế image tương ứng<br>
-> manhbnt/ruby:2.7.1 nếu ruby ver 2.7.1 
+# Tạo file .sun-ci.yml & database-ci.yml ngang hàng với Gemfile
 ## .sun-ci.yml:
+check image ruby hiện có tại [đây](https://hub.docker.com/r/sunci/ruby/builds) sau đó thay thế image tương ứng với phiên bản ruby trong project<br>
+**Ví dụ:** 
+<br>`image: sunci/ruby:2.6.5` nếu dùng ruby version 2.6.5<br>
+`image: sunci/ruby:2.7.0` nếu dùng ruby version 2.7.0<br>
+`image: manhbnt/ruby:2.7.1` duy nhất trường hợp ruby version 2.7.1
+
+hiện tại bản build cao nhất là ruby 2.7.1, trường hợp các bạn dùng phiên bản ruby cao hơn hoặc bản ruby chưa được build, vui lòng chuyển sang những phiên bản ruby có sẵn :D
 
 ```ruby
 workspace: true
@@ -51,6 +53,7 @@ jobs:
 ```
 
 ## database-ci.yml
+nếu các bạn dùng mysql thì chỉ cần copy & paste đoạn code bên dưới :D
 ```ruby
 default: &default
   adapter: mysql2
@@ -66,3 +69,4 @@ test:
   username: user_test
   password: password_test
 ```
+#### Trước khi tạo pull request các bạn báo cho trainer để enable CI project của mình nhé :D. Happy hacking !!!
