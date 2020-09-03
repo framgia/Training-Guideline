@@ -73,9 +73,10 @@ Thực hiện công việc theo từng bước như sau:
     bundle install
     rails generate rspec:install
     ```
-4. Init models, add relationship
-5. Design static pages
-6. Other pulls
+4. Tạo 1 pull Setup Sun*CI theo hướng dẫn tại [đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci.md)
+5. Init models, add relationship
+6. Design static pages
+7. Other pulls
 
 #### CHÚ Ý:
 - Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes.
