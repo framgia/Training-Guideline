@@ -57,7 +57,7 @@ jobs:
 
 ```
 
-## Sửa file .env.example.yml lại như sau:
+## Sửa file .env.example lại như sau:
 ```ruby
 DB_CONNECTION=mysql
 DB_HOST=mysql_test
