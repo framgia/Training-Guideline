@@ -15,6 +15,18 @@ https://github.com/plataformatec/devise
 https://github.com/CanCanCommunity/cancancan
 ##### 3. Gem Ransack*
 https://github.com/activerecord-hackery/ransack
+
+Khi áp dụng gem ransack khuyến khích áp dụng hết các tính năng và kĩ thuật này 
+
+| STT | Tính năng |
+| -------- | -------- |
+| 1     | Tìm kiếm trên 1 trường có thể tìm kiếm dc theo title, description, name, note...(nhớ sử dụng  ransack_alias)     |
+| 2     |  Tìm kiếm lớn hơn cái gì đó, nhỏ hơn cái gì đó (giá tiền, ngày tạo ...)     |
+| 3     |  Tìm kiếm 1 trường trong bảng quan hệ . Ví dụ ở màn search Employee có 1 trường search tên của department (Mỗi employee thuộc về 1 department)     | 
+| 4     | Dùng ransackable_attributes cho phép có thể search những trường nào. VD: là admin có thể search all các trường, nhưng là user bình thường chỉ có thể search 1 số, cho dù có submit params lên cũng k trả về kết quả theo điều kiện search nếu như k dc phép search     | 
+| 5     | Dùng ransacker để search theo ngày tạo  (https://github.com/activerecord-hackery/ransack/wiki/using-ransackers)     | 
+| 6     | Ứng dụng dùng ransackable_scopes để tìm kiếm (tìm kiếm theo tên scope, hoặc k dc tìm kiếm 1 số scope (dù có submit params tên scope thì cũng k dc trả về kết quả))     | 
+| 7     | Có 1 query group sử dụng OR thay vì mặc định AND     | 
 ##### 4. Background job: sidekiq, resque, delayed job*
 https://github.com/mperham/sidekiq<br>
 https://github.com/resque/resque<br>
