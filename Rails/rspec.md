@@ -5,10 +5,8 @@
 ## 2. Thời gian thực hiện
 3 ngày (Tối đa 5 ngày nếu đi part time)
 ## 3. Cách thức thực hiện
-- Áp dụng kiến thức học và tìm hiểu được để viết rspec cho model và controller
+- Áp dụng kiến thức học và tìm hiểu được để viết rspec tối thiểu cho 1 model và 1 controller v đầy đủ unit test để đạt coverage là 100% (cài gem https://github.com/simplecov-ruby/simplecov để đo coverage)
 
-1.  Controller: Chọn 1 controller có đầy đủ các action để viết test
-2.  Model: Ngoài các rspec cho association, enum, .. chọn 5 method, scope để viết cho phần model 
 - Từ thời điểm này đến hết Project 2 các pull request đều phải viết unit test nếu có sự thay đổi controller và model
 
 ## 4. Setup CI local for rspec
