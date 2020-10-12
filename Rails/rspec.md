@@ -5,9 +5,30 @@
 ## 2. Thời gian thực hiện
 3 ngày (Tối đa 5 ngày nếu đi part time)
 ## 3. Cách thức thực hiện
-- Áp dụng kiến thức học và tìm hiểu được để viết rspec tối thiểu cho 1 model và 1 controller v đầy đủ unit test để đạt coverage là 100% (cài gem https://github.com/simplecov-ruby/simplecov để đo coverage)
+- Áp dụng kiến thức học và tìm hiểu được để viết rspec tối thiểu cho 1 model và 1 controller viết đầy đủ unit test để đạt coverage là 100% 
 
 - Từ thời điểm này đến hết Project 2 các pull request đều phải viết unit test nếu có sự thay đổi controller và model
+- Coverage của model và controller cho đến lúc demo project 2 cần đạt >= 50%
+## 4. Cài gem đo coverage
+```
+gem "simplecov-rcov"
+gem "simplecov"
+```
+
+thêm vào spec_helper.rb
+```
+require "simplecov"
+require "simplecov-rcov"
+class SimpleCov::Formatter::MergedFormatter
+  def format(result)
+     SimpleCov::Formatter::HTMLFormatter.new.format(result)
+     SimpleCov::Formatter::RcovFormatter.new.format(result)
+  end
+end
+SimpleCov.formatter = SimpleCov::Formatter::MergedFormatter
+
+SimpleCov.start "rails"
+```
 
 ## 4. Setup CI local for rspec
 - mở file .framgia-ci.yml sau đó uncomment dòng
