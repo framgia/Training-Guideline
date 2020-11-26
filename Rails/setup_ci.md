@@ -41,6 +41,7 @@ jobs:
   before_script:
   - bundle _2.1.2_ install --path vendor/bundle
   script:
+  - RAILS_ENV=test bundle exec rails db:drop db:create db:migrate
   - bundle _2.1.2_ exec rspec
 
 - name: test:rubocop
