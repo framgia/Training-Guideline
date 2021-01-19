@@ -12,7 +12,7 @@ Vào cuối cuốn sách các bạn sẽ nắm được:
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu tại link:
 Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary.pdf
-https://drive.google.com/file/d/1g6XYYxec4bBiaJVxZN3rlsc7avMrIS5Y/view?usp=sharing
+https://drive.google.com/file/d/172F0yh5evQZu95FG7cK9fq2m7O58ubpk/view?usp=sharing
 
 Note:
 	- Tập trung vào các chương: 4, 5, 6, 11, 12, 13, 14
