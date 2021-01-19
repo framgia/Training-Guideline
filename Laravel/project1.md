@@ -33,7 +33,7 @@ Thực hiện công việc theo từng bước như sau:
 1. Design database
 2. Add tasks on redmine + estimate time
 3. Init project
-4. Add file pull_request_template to your project [here] (https://github.com/framgia/Training-Guideline/blob/master/Laravel/PULL_REQUEST_TEMPLATE.md)
+4. Add file pull_request_template to your project [here](https://github.com/framgia/Training-Guideline/blob/master/Laravel/PULL_REQUEST_TEMPLATE.md)
 5. Setup CI. Thực hiện theo hướng dẫn [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.md)
 6. Init models, add relationship
 7. Design static pages
