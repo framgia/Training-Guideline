@@ -42,7 +42,7 @@ Thực hiện công việc theo từng bước như sau:
 #### CHÚ Ý:
 - Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes
 - Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào
-- Sau khi đã review chéo ok thì mới gửi pull cho trainer review
+- Sau khi đã review chéo ok thì mới gửi pull cho trainer review (ready pull)
 
 ## 3. Add tasks on redmine + estimate time
 - Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/)
@@ -60,10 +60,10 @@ Thực hiện công việc theo từng bước như sau:
 
 ## 4. Về pull request gửi review
 - Attchment link ticket redmine vào pull
-- Attchment hình ảnh chụp kết quả đã pass test rubocop
+- Attchment hình ảnh chụp kết quả đã pass phpunit
 - Attchment hình ảnh chụp layout các chức năng làm của pull đó
 - Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/) đã làm ở tutorial
-- Đối với pull init model cần attachment hình ảnh thiết kế DB
+- Đối với pull init model/migration cần attachment hình ảnh thiết kế DB
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 85% chức năng yêu cầu của dự án
