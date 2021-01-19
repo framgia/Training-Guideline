@@ -1,4 +1,8 @@
-```<!--
+## Tạo file PULL_REQUEST_TEMPLATE.md trong thư mục dự án.
+## Thêm đoạn dưới đây vào file
+
+```
+<!--
   PLEASE DON'T DELETE THIS TEMPLATE UNTIL YOU HAVE READ THE FIRST SECTION.
 -->
 
