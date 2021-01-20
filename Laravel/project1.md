@@ -59,6 +59,11 @@ Thực hiện công việc theo từng bước như sau:
 7. Pull request được merged, dev update %DONE của ticket redmine thành 100%, status thành Resolved
 
 ## 4. Về pull request gửi review
+- Format title pull request: 
+```
+[Tracker#TicketID] Title ticket/Pull request
+Ví dụ: [Task#12345] Handle logic login
+```
 - Attchment link ticket redmine vào pull
 - Attchment hình ảnh chụp kết quả đã pass phpunit
 - Attchment hình ảnh chụp layout các chức năng làm của pull đó
