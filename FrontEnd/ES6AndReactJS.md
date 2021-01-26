@@ -10,9 +10,7 @@ Vào cuối phần này, sinh viên sẽ có thể:
 5 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 7 ngày liên tiếp tính từ ngày bắt đầu)
 ## 3. Link tài liệu
 #### ES6
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla#Expressions_and_operators
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla#Functions
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla#Other_features
+- https://github.com/lukehoban/es6features
 #### ReactJS
 - ReactJS: https://reactjs.org/docs/getting-started.html
 - Redux: https://redux.js.org/introduction/getting-started
