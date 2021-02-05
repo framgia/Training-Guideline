@@ -53,7 +53,14 @@ jobs:
   before_script:
   - composer install
   script:
-  - php vendor/bin/phpunit
+    - vendor/bin/phpunit --coverage-clover ./coverage.xml --coverage-html=coverage
+  coverage:
+    type: clover
+    path: coverage.xml
+  artifacts:
+    paths:
+    - coverage
+    expires_in: 3 days
 
 ```
 
