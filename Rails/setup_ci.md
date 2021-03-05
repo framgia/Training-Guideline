@@ -50,7 +50,7 @@ jobs:
   before_script:
   - bundle _2.1.2_ install --path vendor/bundle
   script:
-  - bundle exec rubocop --require rubocop/formatter/checkstyle_formatter --format RuboCop::Formatter::CheckstyleFormatter --no-color --out .framgia-ci-reports/rubocop.xml app/ lib/
+  - bundle exec rubocop --require rubocop/formatter/checkstyle_formatter --format RuboCop::Formatter::CheckstyleFormatter --no-color app/ lib/
 ```
 
 ## database-ci.yml
