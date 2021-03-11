@@ -20,7 +20,7 @@ Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link: https://lin
 Nội dung cần nắm sau mỗi chương [link](https://docs.google.com/spreadsheets/d/1S306g-Z6DWjkaJyMEkoZUJXZrdB5iLpVopARi9AdO4M/edit?usp=sharing)
 
 [Slide]
-https://link.sun-asterisk.vn/TVb5lZ
+https://drive.google.com/drive/u/1/folders/1LXEag3fLE6yN3ZJRTMUz8JE4-DIXe3Ce
 
 ## 4. Về việc gửi pull request
 Pull đầu tiên sẽ là init_project :D .Các bạn lên github tạo 1 repo mới chọn Initialize this repository with a README, add .gitignore chọn Ruby => Tạo repo, Sau đó clone về máy. Sau đó
