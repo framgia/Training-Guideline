@@ -17,7 +17,7 @@ Vào cuối phần này, sinh viên sẽ có thể:
 10 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 15 ngày liên tiếp tính từ ngày bắt đầu)
 ## 3. Link tài liệu
 #### HTML:
-- http://public.eprad.com/misc/webstuff/HTML5_%20The%20Missing%20Manual,%202nd%20Edition.pdf
+- https://itebooksfree.com/content/itebooksfree/files/20200405/HTML5%20The%20Missing%20Manual,%202nd%20Edition.pdf
 - Part One: Chapter 1, Chapter 2, Chapter 3 (đọc 2 phần đầu), Chapter 4
 - Part Two: Chap 6, Chap 7
 - Part Four: Appendixes
