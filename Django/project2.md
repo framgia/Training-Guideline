@@ -5,7 +5,7 @@ Thời gian thực hiện: Tối đa 10 ngày
 
 ## 2. Các bước thực hiện
 - Thực hiện công việc theo yêu cầu của trainer
-- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://docs.djangoproject.com/en/3.0/topics/testing/)
+- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://drive.google.com/drive/folders/1tg-pN_iaL0pR1lz_gJddT5Vjc5MBbbBt?usp=sharing)
 
 ## 3. Add tasks on redmine + estimate time
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
