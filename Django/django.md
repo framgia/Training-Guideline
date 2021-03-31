@@ -10,12 +10,10 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
   - Tự mình hoàn thiện được một ứng dụng web sử dụng Python và Django
 ## 2. Thời gian học:
 9 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
-
-- 3 ngày đọc và làm theo [link này](https://docs.djangoproject.com/en/3.0/intro/). Không cần gửi pull request, daily report gửi repository github hằng ngày cho trainer review tiến độ
-- 6 ngày đọc và làm theo [link này](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ part 2 trở đi phải gửi pull request sau mỗi part
+đọc và làm theo [link này](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ part 2 trở đi phải gửi pull request sau mỗi part
 
 ## 3. Link tài liệu:
-  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/1xKe1-cZYNq2Yft3WftMxJzbZXL2y20VH?usp=sharing)
+  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/12GvbMfFLsocHPLvHVwMQgbOUIfYaxeO0?usp=sharing)
 
 ## 4. Thiết lập gửi pull request
 - Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit
