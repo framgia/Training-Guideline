@@ -71,13 +71,13 @@ V. Front-end
 
 4. [PUG & Framework](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/PugAndFramework.md)
 
-5. [Project 1](https://#)
+5. [Project 1](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project1.md)
 
 6. [Javascript](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Javascript.md)
 
 7. [ES6 & ReactJS](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/ES6AndReactJS.md)
 
-8. [Project 2](https://#)
+8. [Project 2](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project2.md)
 
 VI. Working Process
 1. Working Process on Redmine: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
