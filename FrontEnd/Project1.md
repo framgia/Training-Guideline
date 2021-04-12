@@ -33,10 +33,8 @@ https://drive.google.com/file/d/1kPT59tgzgK-X0DxlQ0xYVldf-dH6_5yD/view?usp=shari
 
 ## 3. Về pull request gửi review
 - Attchment link ticket redmine vào pull
-- Attchment hình ảnh chụp kết quả đã pass test rubocop
 - Attchment hình ảnh chụp layout các chức năng làm của pull đó
 - Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/)
-- Đối với pull init model cần attachment hình ảnh thiết kế DB
 
 ## 4. Review project
 - Chỉ được review project khi team hoàn thành >= 85% chức năng yêu cầu của dự án
