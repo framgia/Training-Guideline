@@ -105,6 +105,22 @@ Thực hiện công việc theo từng bước như sau:
 - Attchment hình ảnh chụp layout các chức năng làm của pull đó
 - Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/) đã làm ở tutorial
 - Đối với pull init model cần attachment hình ảnh thiết kế DB
+- Giải thích cách làm và bằng chứng dựa theo template
+```
+## Related Tickets
+- [#TicketID](https://edu-redmine.sun-asterisk.vn/issues/???)
+
+## WHAT (optional)
+- Change number items `completed/total` in admin page.
+
+## HOW
+- I edit js file, inject not_vary_normal items in calculate function.
+
+## WHY (optional)
+- Because in previous version - number just depends on `normal` items. But in new version, we have `state` and `confirm_state` depends on both `normal` + `not_normal` items.
+
+## Evidence (Screenshot or Video)
+```
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 85% chức năng yêu cầu của dự án
