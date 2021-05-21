@@ -25,7 +25,7 @@ jobs:
   environment:
     APP_ENV: testing
   cache:
-  - key: comopser_vendor_$CI_BRANCH
+  - key: composer_vendor_$CI_BRANCH
     paths:
       - vendor
   before_script:
@@ -40,13 +40,14 @@ jobs:
   - composer install
   after_script:
   - echo "Finish job"
-
-- name: test:node
+- name: test:phpcs
   stage: test
-  image: node:12-alpine
+  image: sunasteriskrnd/php-workspace:7.4
+  before_script:
+  - composer global require "squizlabs/php_codesniffer=*"
+  - composer install
   script:
-  - yarn
-
+  - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage --standard=PSR2,PSR1 ./
 - name: test:phpunit
   stage: test
   image: sunasteriskrnd/php-workspace:7.4
