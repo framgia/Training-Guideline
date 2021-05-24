@@ -1,7 +1,7 @@
 # Hướng dẫn một số thông tin về Project 2
 
 ## 1. Một số thông tin chung
-Thời gian thực hiện: Tối đa 10 ngày
+Thời gian thực hiện: Tối đa 8 ngày
 
 ## 2. Các bước thực hiện
 - Thực hiện công việc theo yêu cầu của trainer
