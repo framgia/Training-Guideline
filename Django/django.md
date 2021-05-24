@@ -9,7 +9,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
   - Tìm hiểu các nguyên tắc cơ bản của Python, Django
   - Tự mình hoàn thiện được một ứng dụng web sử dụng Python và Django
 ## 2. Thời gian học:
-9 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
+8 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 đọc và làm theo [link này](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ part 2 trở đi phải gửi pull request sau mỗi part
 
 ## 3. Link tài liệu:
