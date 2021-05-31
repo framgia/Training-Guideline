@@ -14,6 +14,9 @@
 [Slide]
 https://link.sun-asterisk.vn/Y6m3tr
 
+[Slide Overview]
+https://drive.google.com/file/d/16RKWZMF1ydqYC51VuSExAara1_q7aWcr/view?usp=sharing
+
 [References]
 - http://git-scm.com/book - 4 chương đầu
 - http://backlogtool.com/git-guide/vn/intro/intro1_1.html
