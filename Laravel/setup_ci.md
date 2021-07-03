@@ -40,6 +40,16 @@ jobs:
   - composer install
   after_script:
   - echo "Finish job"
+- name: test:phpcs
+  stage: test
+  image: sunasteriskrnd/php-workspace:7.4
+  before_script:
+  - composer global require "squizlabs/php_codesniffer=*"
+  - composer install
+  script:
+  - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage,database,coverage,public,resources --standard=PSR2,PSR1 ./
+  - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/lang
+  - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/view
 - name: test:phpunit
   stage: test
   image: sunasteriskrnd/php-workspace:7.4
