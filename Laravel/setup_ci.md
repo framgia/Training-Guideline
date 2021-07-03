@@ -49,7 +49,7 @@ jobs:
   script:
   - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage,database,coverage,public,resources --standard=PSR2,PSR1 ./
   - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/lang
-  - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/view
+  - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/views
 - name: test:phpunit
   stage: test
   image: sunasteriskrnd/php-workspace:7.4
