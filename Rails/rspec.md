@@ -49,8 +49,8 @@ http://rspec.info/<br>
 
 ### 2. Document
 [Slide]:
-
-https://link.sun-asterisk.vn/9BzzO5
+Rspec: 
+https://drive.google.com/file/d/1wTFzJ72DGu00fuzIiiQF5R4ogJw-0TIJ/view?usp=sharing
 
 [Book]: 
 
