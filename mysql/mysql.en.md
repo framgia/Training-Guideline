@@ -22,7 +22,7 @@ At the end of this course, trainees will be able to:
 - Use triggers and stored procedures
 
 ## 2. Training time:
-From 21/7 -> 26/7
+From 21/7/2021 to 26/7/2021
 
 
 ## 3. Document link:
