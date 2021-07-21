@@ -62,6 +62,8 @@ IV. Python
 
 6. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Django/project2.md)
 
+7. Web API: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Django/api.md)
+
 V. Front-end
 1. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
 
