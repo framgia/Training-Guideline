@@ -7,9 +7,7 @@
 - Working with GitHub
 
 ## 2. Training time:
- 2 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
-
-(*) NOTE: For Malaysia training course, the training time for this GIT module is: 4 lessons (20th July -23rd July)
+ From 4/8/2021 t
 
 ## 3. Document link:
 [Slide]
