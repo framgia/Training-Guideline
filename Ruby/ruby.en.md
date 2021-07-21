@@ -10,9 +10,7 @@
 
 ## 2. Training Time
 
- 3 working days (In case of training part-time, training time is calculated up to 5 consecutive days from the start date)
-
-(*) NOTE: For Malaysia training course, the training time for this module is: 6 lessons (28th July - 8th August)
+Fr27/7/2021 to 3/8/2021
 
 ## 3. Document Link
 
