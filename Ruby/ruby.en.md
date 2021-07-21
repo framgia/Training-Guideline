@@ -10,7 +10,7 @@
 
 ## 2. Training Time
 
-Fr27/7/2021 to 3/8/2021
+From 27/7/2021 to 3/8/2021
 
 ## 3. Document Link
 
