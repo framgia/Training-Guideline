@@ -2,7 +2,7 @@
 
 ## 1. Some general information
 #### Execution time:
-10 working days (In case of training part-time, training time is calculated up to 20 consecutive days from the start date)
+From 15/9/2021 to 13/10/2021
 #### Number of members:
 1 ~ 3 people
 #### Reference topic:
