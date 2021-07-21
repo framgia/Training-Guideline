@@ -22,9 +22,7 @@ At the end of this course, trainees will be able to:
 - Use triggers and stored procedures
 
 ## 2. Training time:
-1 day (Including general knowledge review, individual self-review and test taking)
-
-(*) NOTE: For Malaysia training course, the training time for this SQL module is: 2 lessons (24th July - 27th July)
+From 21/7 -> 26/7
 
 
 ## 3. Document link:
