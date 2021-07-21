@@ -7,7 +7,7 @@
 - Working with GitHub
 
 ## 2. Training time:
- From 4/8/2021 t
+ From 4/8/2021 to 9/8/2021
 
 ## 3. Document link:
 [Slide]
