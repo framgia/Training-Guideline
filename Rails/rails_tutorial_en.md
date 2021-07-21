@@ -14,9 +14,7 @@ At the end of this course, students will be able to:
   - Complete a blog application with basic functions.
   
 ## 2. Training time
-9 working days (In case of training part-time, the training time is calculated up to 15 consecutive days from the start date)
-
-(*) NOTE: For Malaysia training course, the training time for this module is: 18 lessons (6th August - 3rd September)
+From 10/8/2021 to 10/9/2021
 
 ## 3.Document link
 
