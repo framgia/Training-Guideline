@@ -61,48 +61,9 @@ You use the reviewboard system PRTS to review the code before being merged into 
 - Install according to the instructions:
 https://link.sun-asterisk.vn/Bxdu3v
 
-## 5. Setup [Rubocop](https://github.com/rubocop-hq/rubocop) into Project
-#### Step 1:  Add rubocop into Gemfile:
-##### > With Ruby 2.5.x and earlier
-```ruby
-group :development, :test do
-  gem "rubocop", "~> 0.54.0", require: false
-end
-```
-
-##### > With Ruby 2.6.x onwards
-```ruby
-group :development, :test do
-  gem "rubocop", "~> 0.74.0", require: false
-  gem "rubocop-rails", "~> 2.3.2", require: false
-end
-```
-
-#### Step 2: Download the zip file corresponding to the rubocop version installed in step 1:
-##### >With Ruby 2.5.x and earlier
-Download file [Rubocop v0.54.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.54.0.tar.gz)
-
-##### > With Ruby 2.6.x onwards
-Download file [Rubocop v0.74.0 config file](https://github.com/framgia/Training-Guideline/blob/master/Rails/rubocop_config-0.74.tar.gz)
-
-Then copy the following 3 files in the downloaded zip file including:
-```
-.rubocop.yml
-.rubocop_disabled.yml
-.rubocop_enabled.yml
-```
-
-Paste into the project directory, on par with Gemfile
-#### Step 3: Before each commit, run this command:
-
-```bash
-bundle exec rubocop
-```
-
-#### Step 4: Take a screenshot of the pass rubocop, enter the comment of the pull request.
 
 
-## 7. Setting Sublime Text
+## 5. Setting Sublime Text
 You use this setting for sublime to handle indent, trailing space and end of file, by:
 Preference -> User Settings -> remove the old one and paste the following code into:
 ```yaml
@@ -137,20 +98,20 @@ Preference -> User Settings -> remove the old one and paste the following code i
   "word_wrap": true
 }
 ```
-## 8. Some notes during the tutorial
+## 6. Some notes during the tutorial
 - You are absolutely not allowed to wait for the merged pull request chapter first and then do the next chapter. Instead, checkout new branch from the previous branch and continue your work, then rebase and fix conflict if any.
 - Please wait up to 3 hours to get feedback after sending a pull request to the trainer. If you have not received a trainer review after 3 hours , please send them reminder message.
 - You should create only one commit per pull request.
 - Read and understand thoroughly the instructions before using `PRTS` to avoid mistakes.
 - You should actively ask friends or Trainer for support if you have problems that cannot be solved by yourself
 
-## 9. Coding convention
+## 7. Coding convention
 You self-review individual code according to the company's coding convention by the following link:
 
 - Ruby: https://link.sun-asterisk.vn/tVYuqK
 - Rails: https://link.sun-asterisk.vn/TerjZi
 
-## 10. Test Link
+## 8. Test Link
 Host: http://training.sun-asterisk.vn
 
 Account: Use personal mail to register for an account
