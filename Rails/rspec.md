@@ -57,7 +57,7 @@ https://drive.google.com/file/d/1wTFzJ72DGu00fuzIiiQF5R4ogJw-0TIJ/view?usp=shari
 https://drive.google.com/drive/u/1/folders/14eHAwSI4HKCKYQyVs2o7L9junTEHDkpC
 
 [References]
-
+https://github.com/awesome-academy/Practice_Rspec
 https://relishapp.com/rspec
 <br>
 http://www.relishapp.com/rspec/rspec-expectations/v/3-2/docs/built-in-matchers/type-matchers
