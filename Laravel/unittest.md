@@ -2,5 +2,5 @@
 5 ngày (Tối đa 7 ngày nếu trễ tiến độ)
 
 ## 2. Link tài liệu:
-https://drive.google.com/drive/folders/1ncBtJ3vFIwSf2m2y-X370GxyWV7hyjpz?usp=sharing
+https://drive.google.com/drive/folders/1HJJ_khkR8mKe8lnJD3CXtOaTfuOoaGka?usp=sharing
 
