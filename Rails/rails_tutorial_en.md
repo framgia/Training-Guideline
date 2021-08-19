@@ -21,7 +21,7 @@ From 10/8/2021 to 10/9/2021
 - [Book] https://link.sun-asterisk.vn/aJ2pQ9
 
 - [Slides]
-https://link.sun-asterisk.vn/TVb5lZ
+https://sal.vn/Kkk8lg
 
 - [Videos]
 https://link.sun-asterisk.vn/6FW345
