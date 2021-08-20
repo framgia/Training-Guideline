@@ -20,7 +20,7 @@ From 27/7/2021 to 3/8/2021
 - Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 
 
-- Slide: https://drive.google.com/drive/u/1/folders/13HpxXz8Z3eZ8tqwP7MowLhcpWi-HRAtN
+- Slide: https://drive.google.com/drive/u/0/folders/1mnA-gwT6fOWA8cc3rOu0B0VgAv6oriNd
 
 ## 4. Test Link
 
