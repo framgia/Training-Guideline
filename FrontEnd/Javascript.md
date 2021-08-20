@@ -24,7 +24,7 @@ Vào cuối phần này, sinh viên sẽ có thể:
 5 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 7 ngày liên tiếp tính từ ngày bắt đầu)
 ## 3. Link tài liệu
 - Javascript: https://javascript.info/
-- Slide: https://drive.google.com/drive/u/0/folders/1Oatya7yzCPBpPauVd0Kox_Y-nRGo8_jJ
+- Slide: https://drive.google.com/drive/folders/1iG8IDChPRZWxJOft4x1xsbIvBtGu-yvH?usp=sharing
 ## 4. Bài tập thực hành: 
 
 Bài tập thực hành cho phần Javascript Các bạn sẽ sử dụng lại templete ở P1 để hoàn hành các yêu cầu sau
