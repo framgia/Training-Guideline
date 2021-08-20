@@ -26,7 +26,7 @@ From 21/7/2021 to 26/7/2021
 
 
 ## 3. Document link:
-[Slide] https://link.sun-asterisk.vn/IsMVMg
+[Slide] https://drive.google.com/drive/u/0/folders/1ApyB65zqtYxDVZG5AxIxBRZW_T2Sj6OB
 
 Book:
 
