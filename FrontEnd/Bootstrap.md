@@ -12,7 +12,7 @@ Vào cuối phần này, sinh viên sẽ có thể:
 3 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 5 ngày liên tiếp tính từ ngày bắt đầu)
 ## 3. Link tài liệu
 - https://getbootstrap.com/
-- Slide: https://drive.google.com/drive/folders/1Smvje_agOFyaKzYTtzm-_GC_8fvAfoY6
+- Slide: https://drive.google.com/drive/folders/1EGvNDrKE5aTe9P6jxG1ip8gbJY8M7p7Y?usp=sharing
 ## 4. Bài tập thực hành: 
 Làm 1 trang đơn giản sử sụng Bootstrap kết hợp html,css 
 Ví dụ: https://sun-asterisk.vn/
