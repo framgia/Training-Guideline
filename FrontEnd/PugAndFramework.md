@@ -10,9 +10,9 @@ Vào cuối phần này, sinh viên sẽ có thể:
 5 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 7 ngày liên tiếp tính từ ngày bắt đầu)
 ## 3. Link tài liệu
 - SASS: https://sass-lang.com/guide
-- Slide: https://drive.google.com/drive/folders/1ewPAEq3EnsOeduj701E05LH9-J3zUFQ9
+- Slide: https://drive.google.com/drive/folders/1mBwT-Qs77RUmiA26mmusRIB_JYGB_GWm?usp=sharing
 - PUG: https://pugjs.org/api/getting-started.html
-- Slide: https://drive.google.com/drive/folders/16etURvo4WHMouUK4B2FJ446e57Dg908m
+- Slide: https://drive.google.com/drive/folders/1_Q4Fca_abCLUDnYBX0GfBbZfbbfmDpi3?usp=sharing
 ## 4. Bài tập thực hành: 
 - Làm 1 trang đơn giản sử sụng Pug,SCSS(SASS)
 - Ví dụ: https://sun-asterisk.vn/
