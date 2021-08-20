@@ -14,7 +14,7 @@ Vào cuối phần này, sinh viên sẽ có thể:
 #### ReactJS
 - ReactJS: https://reactjs.org/docs/getting-started.html
 - Redux: https://redux.js.org/introduction/getting-started
-- Slide: https://drive.google.com/drive/u/0/folders/1t4YuHUb5Z0naOeq_TkqR4Qtag8QIS5ua
+- Slide: https://drive.google.com/drive/folders/1ZjW7muHuuNRe43abgl30v7qDMVtvkQTv?usp=sharing
 ## 4. Bài tập thực hành: 
 Làm bài tập e-commerce đơn giản https://community.algolia.com/instantsearch.js/v1/examples/e-commerce/
 1. sử dụng reactJS thuần
