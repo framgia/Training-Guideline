@@ -70,7 +70,7 @@ Vậy làm sao biết được đây phải là lần commit đầu hay ko (dùn
 
     git diff a
   ```
-  Xem thay đổi (chưa đc add) của những file hiện tại: ```git diff```
+  Xem thay đổi (chưa được add) của những file hiện tại: ```git diff```
 
   Xem thay đổi (đã được add, chưa commit): ```git diff --cached```
 
@@ -81,7 +81,7 @@ Vậy làm sao biết được đây phải là lần commit đầu hay ko (dùn
 
 
 - Lỗi n commit trong 1 pull request:
-  Thực hànhthực hiện git rabse 2 commit
+  Thực hiện git rebase 2 commit
 
   ```
   git rebase -i HEAD~2
@@ -93,7 +93,7 @@ Vậy làm sao biết được đây phải là lần commit đầu hay ko (dùn
   // đứng tại branch của mình
   ```git rebase develop```
 
-  + có conflict:  fix conflict -> git add. -> git rebase --continue
+  + có conflict:  fix conflict -> git add . -> git rebase --continue
   + không có conflict
   ```git push origin name_branch```
 
@@ -107,7 +107,7 @@ git rm -r --cached folder
 
 - Vô tình fix comment nhầm branch (yaoming)
   1 Nếu qua đầu là bờ: tức là chưa chạy lệnh git commit
-  thì chỉ việc git checkout sang bracnh bị comment
+  thì chỉ việc git checkout sang branch bị comment
 
   2 Lỡ phóng lao thì phải theo lao: Lỡ bấm commit thì
   ``` git reflog ```
