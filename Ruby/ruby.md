@@ -14,7 +14,7 @@ Vào cuối khóa học này, học viên sẽ có thể:
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Ruby theo link: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần - https://drive.google.com/drive/u/1/folders/13HpxXz8Z3eZ8tqwP7MowLhcpWi-HRAtN
+Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần - https://drive.google.com/drive/u/0/folders/1mnA-gwT6fOWA8cc3rOu0B0VgAv6oriNd
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
