@@ -25,7 +25,7 @@ Kết thúc khóa học, các bạn có thể nắm được:
 1 ngày (Bao gồm buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
 ## 3. Link tài liệu:
-[Slide] https://link.sun-asterisk.vn/IsMVMg
+[Slide] https://drive.google.com/drive/u/0/folders/1ApyB65zqtYxDVZG5AxIxBRZW_T2Sj6OB
 
 Book:
    For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
