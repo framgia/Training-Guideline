@@ -12,7 +12,7 @@
 
 ## 3. Link tài liệu:
 [Slide]
-https://link.sun-asterisk.vn/Y6m3tr
+https://drive.google.com/drive/u/1/folders/1CfZqmA-IMvPVRY8-SZBGoHVzZDWSw0pX
 
 [Slide Overview]
 https://drive.google.com/file/d/16RKWZMF1ydqYC51VuSExAara1_q7aWcr/view?usp=sharing
