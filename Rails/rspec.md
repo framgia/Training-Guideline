@@ -54,7 +54,7 @@ https://drive.google.com/file/d/1wTFzJ72DGu00fuzIiiQF5R4ogJw-0TIJ/view?usp=shari
 
 [Book]: 
 
-https://drive.google.com/drive/u/1/folders/14eHAwSI4HKCKYQyVs2o7L9junTEHDkpC
+https://drive.google.com/file/d/1gJI16h18snr8TpOrUuvQDLO_MWLpS8qh/view?usp=sharing
 
 [References]
 https://github.com/awesome-academy/Practice_Rspec
