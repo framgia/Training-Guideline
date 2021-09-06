@@ -62,8 +62,8 @@ Thực hiện công việc theo từng bước như sau:
 1. Thiết kế Database, Requirements
 2. Add tasks on redmine + estimate time
 3. Install template <br>
-   Tải file pull_request_template.md ở [đây](https://github.com/awesome-academy/Web-Template)<br>
-   R
+   Tải file pull_request_template.md và .gitignore ở [đây](https://github.com/awesome-academy/Web-Template)<br>
+   Rồi thêm vào project
 4. Init project + setup CI tương tự rails tutorial<br>
 
    Thêm gem sau vào Gemfile nếu chưa có:
