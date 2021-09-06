@@ -61,9 +61,9 @@ https://docs.google.com/spreadsheets/u/1/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChF
 Thực hiện công việc theo từng bước như sau:
 1. Thiết kế Database, Requirements
 2. Add tasks on redmine + estimate time
-3. Install template 
-   Tạo một folder trong project tên .github
-   Tải file pull_request_template.md ở [đây](https://github.com/anlvq-1058/pull_request_template/tree/master)
+3. Install template <br>
+   Tạo một folder trong project tên .github<br>
+   Tải file pull_request_template.md ở [đây](https://github.com/anlvq-1058/pull_request_template/tree/master)<br>
    Rồi để vào trong thư mục .github vừa mới tạo
 4. Init project + setup CI tương tự rails tutorial<br>
 
