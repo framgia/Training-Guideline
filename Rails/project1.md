@@ -61,7 +61,12 @@ https://docs.google.com/spreadsheets/u/1/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChF
 Thực hiện công việc theo từng bước như sau:
 1. Thiết kế Database, Requirements
 2. Add tasks on redmine + estimate time
-3. Init project + setup CI tương tự rails tutorial<br>
+3. Install template 
+   Tạo một folder trong project tên .github
+   Tải file pull_request_template.md ở [đây](https://github.com/anlvq-1058/pull_request_template/tree/master)
+   Rồi để vào trong thư mục .github vừa mới tạo
+4. Init project + setup CI tương tự rails tutorial<br>
+
    Thêm gem sau vào Gemfile nếu chưa có:
     ```ruby
     group :development, :test do
@@ -73,10 +78,10 @@ Thực hiện công việc theo từng bước như sau:
     bundle install
     rails generate rspec:install
     ```
-4. Tạo 1 pull Setup Sun*CI theo hướng dẫn tại [đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci.md)
-5. Init models, add relationship
-6. Design static pages
-7. Other pulls
+5. Tạo 1 pull Setup Sun*CI theo hướng dẫn tại [đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci.md)
+6. Init models, add relationship
+7. Design static pages
+8. Other pulls
 
 #### CHÚ Ý:
 - Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes.
