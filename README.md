@@ -16,19 +16,21 @@ I. Ruby
 7. Rspec: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec_en.md)
 
 II. PHP
-1. [Git](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
+1. Git: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
 
-2. [Mysql](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
+2. Mysql: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md), [English](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.en.md)
 
-3. [PHP](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.md)
+3. PHP: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.md), [English](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.en.md)
 
-4. [Laravel](https://github.com/framgia/Training-Guideline/blob/master/Laravel/laravel.md)
+4. Laravel: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Laravel/laravel.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Laravel/laravel.en.md)
 
-5. [Project1](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project1.md)
+5. Project 1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project1.en.md) 
 
-6. [Project2](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project2.md)
+6. Project 2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Laravel/project2.en.md) 
 
-7. [Unit Test](https://github.com/framgia/Training-Guideline/blob/master/Laravel/unittest.md)
+7. Unit Test: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Laravel/unittest.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Laravel/unittest.en.md)
+
+8. Setup CI: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.en.md)
 
 III. Java
 1. [Settup](https://docs.google.com/document/d/1Bhce_meNfVhBhtTsPDtclI0Fz56VjB8-g1gKqjKMats/edit?usp=sharing)
