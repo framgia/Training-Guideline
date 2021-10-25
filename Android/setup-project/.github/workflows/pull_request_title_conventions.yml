@@ -1,0 +1,12 @@
+name: 'Check pull request title conventions'
+on: 
+  pull_request:
+    types: [edited, opened, synchronize, reopened]
+
+jobs:
+  title-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: null
+        with:
+          regex: '^[ ]*(refs|Refs)[ ]*\[(TASK|BUG|FEATURE|TEST|SUPPORT)*\][ ]*\[[0-9]*\][ ]*' # Regex the title should match.
