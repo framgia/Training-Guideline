@@ -43,10 +43,10 @@ Thực hiện công việc theo từng bước như sau:
 - Đối với pull init model cần attachment hình ảnh thiết kế DB
 
 ## 5. Review project
-- Chỉ được review project khi team hoàn thành >= 85% chức năng yêu cầu của dự án
+- Chỉ được review project khi team hoàn thành >= 80% chức năng yêu cầu của dự án
 - Sử dụng link deploy để trình bày project
 - Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
 - Chức năng thành viên nào làm thành viên đó trình bày
-- Trường hợp team hoàn thành dưới 85% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
+- Trường hợp team hoàn thành dưới 80% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
 
 #### Happy coding!!!

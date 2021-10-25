@@ -1,16 +1,13 @@
 # Ruby Guideline
 
 ## 1. Goal
-
-
    - Know how to install and configure Ruby.
    - Recognize syntax of Ruby language
    - Apply Ruby language to specific problems
    - Understand the characteristics and differences of Ruby and other object-oriented programming languages.
 
 ## 2. Training Time
-
-From 27/7/2021 to 3/8/2021
+3 days (Includes Lectures, individual self-review and perform exam)
 
 ## 3. Document Link
 

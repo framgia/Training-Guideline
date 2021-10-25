@@ -7,11 +7,11 @@
 - Working with GitHub
 
 ## 2. Training time:
- From 4/8/2021 to 9/8/2021
+3 days (Includes Lectures, individual self-review and perform exam)
 
 ## 3. Document link:
 [Slide]
-  - Sub: https://drive.google.com/drive/u/1/folders/1RxWi807p9ZTxgzLj_UOneiUIBllcjb0h
+  - Sub: https://drive.google.com/drive/folders/1yFm62BLF0q8hv18LRXRckUYu6fCwgzqV?usp=sharing
   - videos: https://drive.google.com/drive/u/1/folders/1eSTzUcKEz3JHEkKhXQPYnJxiUrX9wP0w
 
 
@@ -27,7 +27,7 @@
 [Note]
   - Trainees use company email (if any) or personal email registered with HR to register for an account.
   - Trainees have to set the account name similar to your account chatwork name
-  - For Malaysia training course, Trainees use the personal email registered with Mr. Ikeuchi to create an account at this link: https://github.com/
+  - For Malaysia training course, Trainees use the personal email registered with Mentor to create an account at this link: https://github.com/
 
 ## 4. Test link:
 Host: http://training.sun-asterisk.vn

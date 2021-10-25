@@ -1,10 +1,10 @@
-# My SQL Tutorial
+# MySQL Tutorial
 
 ## 1. Goal:
 This module will help you understand the basic principles of relational database and SQL programming skills. Topics include relational database architecture, database design techniques, and simple, complex query skills. Once completed, you will understand SQL functions, join techniques, database objects and constraints, and will be able to write useful SELECT, INSERT, UPDATE and DELETE statements.
 
 In 1 day, you should focus on the following content:
-- Design relational database 
+- Design relational database
 - Create databases and tables
 - Write data queries (basic to advanced)
 - Understand and use Transaction
@@ -26,13 +26,9 @@ From 21/7/2021 to 26/7/2021
 
 
 ## 3. Document link:
-[Slide] https://drive.google.com/drive/u/0/folders/1ApyB65zqtYxDVZG5AxIxBRZW_T2Sj6OB
+[Slide] https://drive.google.com/drive/folders/15NbRIWvjrDSv-j_Pwh4fW2dMc8QsXLFu?usp=sharing
 
-Book:
-
-   - For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
-   
-   - For Mysql: https://drive.google.com/file/d/1J3G4kAVaZjG4q6miTV4ueEunR6ZXh2DR/view?usp=sharing
+[Book] https://drive.google.com/drive/folders/13_u0gEbsxDPfjefEyJWj3hIA3pS5qI6M?usp=sharing
 
 ## 4. Test link:
 

@@ -27,9 +27,9 @@ Thời gian thực hiện: Tối đa 8 ngày
 - Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/) đã làm ở Project 1
 
 ## 5. Review project
-- Chỉ được review project khi team hoàn thành >= 85% chức năng yêu cầu của dự án
+- Chỉ được review project khi team hoàn thành >= 80% chức năng yêu cầu của dự án
 - Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
 - Chức năng thành viên nào làm thành viên đó trình bày
-- Trường hợp team hoàn thành dưới 85% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
+- Trường hợp team hoàn thành dưới 80% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
 
 #### Happy coding!!!

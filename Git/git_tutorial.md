@@ -12,10 +12,10 @@
 
 ## 3. Link tài liệu:
 [Slide]
-https://drive.google.com/drive/u/1/folders/1CfZqmA-IMvPVRY8-SZBGoHVzZDWSw0pX
+https://drive.google.com/drive/folders/1yFm62BLF0q8hv18LRXRckUYu6fCwgzqV?usp=sharing
 
 [Slide Overview]
-https://drive.google.com/file/d/16RKWZMF1ydqYC51VuSExAara1_q7aWcr/view?usp=sharing
+https://drive.google.com/file/d/1lAqzL9Z3KqpI2oOKuIV2fob8zOM3zBmO/view?usp=sharing
 
 [References]
 - http://git-scm.com/book - 4 chương đầu
