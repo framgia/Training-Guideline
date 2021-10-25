@@ -1,0 +1,46 @@
+workspace: true
+
+stages:
+  - lint 
+
+jobs:
+- name: Lint checking
+  stage: lint
+  image: androidsdk/android-29:latest
+  environment:
+      # This is Android review pull request box 
+    ROOM_ID: "YOUR_BOX_ID"
+      # Insert the chatwork accounts which you want to mention when the pull request was verified
+    MEMBERS: "[To:MEMBER1_ID] MEMBER 1 [To:MEMBER2_ID] MEMBER 2"
+  cache:
+  - key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
+    paths:
+      - ./gradle
+  before_script:
+  - chmod +x ./gradlew
+  - echo "failed (pray)(sweat);(" > .build_status
+  - echo "(devil)" > .build_icon
+  script:
+  - ./gradlew lint test
+  - echo "successful (F)(F)(F)" > .build_status
+  - echo "(handshake)" > .build_icon
+  artifacts:
+      paths:
+        - app/build/reports
+        - app/build/test-results
+      expires_in: 3 days
+  after_script:
+  - cut -d "/" -f2,3 <<< "$CI_COMMIT_REF" > .pull_end_point
+  - "curl -X POST -H \"X-ChatWorkToken: $CHATWORK_API_KEY\" -d \
+                \"body= $MEMBERS [info][title]Repository : $CI_REPOSITORY $(cat .build_icon)[/title]Your pull request is $(cat .build_status) \n
+              -> Click here for more detail: https://ci.sun-asterisk.com/$CI_GIT_PROVIDER/$CI_REPOSITORY/builds/$CI_BUILD_NUMBER \n
+              - Author: $CI_COMMIT_AUTHOR \n
+              - Pull request: https://$CI_GIT_PROVIDER.com/$CI_REPOSITORY/$(cat .pull_end_point) [/info]\" \
+                \"https://api.chatwork.com/v2/rooms/$ROOM_ID/messages\""
+  only:
+    branches:
+    - develop
+    - main
+    - master
+    events:
+    - pull_request
