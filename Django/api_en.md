@@ -13,7 +13,7 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs. 
 3 days (Includes Lectures, individual self-review and perform exam)
 
 ## 3. Document link:
-- Learn Django Rest Framework knowledge [here]](https://www.django-rest-framework.org/)
+- Learn Django Rest Framework knowledge [here(https://www.django-rest-framework.org/)
 
 - Knowledge summary slide [here](https://drive.google.com/drive/folders/1mO3zqCV5y96TL81kW5j0wajFOtRj1wzd?usp=sharing)
 
