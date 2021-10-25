@@ -6,11 +6,11 @@
 
 ## 2. Add Pull Request Title Checking Tool (For Trainees)
 1. Create file .github/workflows/pull_request_title_conventions.yml
-2. Copy content of file into recent created file.
+2. Copy content of [file](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/.github/workflows/pull_request_title_conventions.yml) into recent created file.
 
 ## 3. Add pull request template
 Create file .github/pull_request_template.md
-Copy content of [file](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/pull_request_template.md)into recent created file.
+Copy content of [file](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/.github/pull_request_template.md)into recent created file.
 
 ## 4. Add Sun* CI
 Create file .sun-ci.yml with template to your project root
