@@ -1,4 +1,4 @@
-# Hướng dẫn học My Sql
+# Hướng dẫn học MySQL
 
 ## 1. Mục tiêu
 Phân này sẽ giúp cho các bạn nắm được các nguyên tắc cơ bản về cơ sở dữ liệu quan hệ và các kỹ năng lập trình SQL. Các chủ đề bao gồm kiến trúc cơ sở dữ liệu quan hệ, kỹ thuật thiết kế cơ sở dữ liệu và các kỹ năng truy vấn đơn giản và phức tạp. Sau khi hoàn thành, các bạn sẽ hiểu các hàm SQL, tham gia các kỹ thuật, các đối tượng cơ sở dữ liệu và các ràng buộc và sẽ có thể viết các câu lệnh SELECT, INSERT, UPDATE và DELETE hữu ích.
@@ -25,11 +25,9 @@ Kết thúc khóa học, các bạn có thể nắm được:
 1 ngày (Bao gồm buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
 ## 3. Link tài liệu:
-[Slide] https://drive.google.com/drive/u/0/folders/1ApyB65zqtYxDVZG5AxIxBRZW_T2Sj6OB
+[Slide] https://drive.google.com/drive/folders/15NbRIWvjrDSv-j_Pwh4fW2dMc8QsXLFu?usp=sharing
 
-Book:
-   For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
-   For Mysql: https://drive.google.com/file/d/1J3G4kAVaZjG4q6miTV4ueEunR6ZXh2DR/view?usp=sharing
+[Book] https://drive.google.com/drive/folders/13_u0gEbsxDPfjefEyJWj3hIA3pS5qI6M?usp=sharing
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn

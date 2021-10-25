@@ -2,7 +2,7 @@
 
 ## 1. Some general information
 #### Execution time:
-From 15/9/2021 to 13/10/2021
+Up to 10 days
 #### Number of members:
 1 ~ 3 people
 #### Reference topic:
