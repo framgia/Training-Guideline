@@ -25,19 +25,33 @@ II. PHP
 6. Setup CI: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.en.md)
 
 III. Java
-1. [Settup](https://docs.google.com/document/d/1Bhce_meNfVhBhtTsPDtclI0Fz56VjB8-g1gKqjKMats/edit?usp=sharing)
+1. Settup:
+[Vietnamese](https://docs.google.com/document/d/1Bhce_meNfVhBhtTsPDtclI0Fz56VjB8-g1gKqjKMats/edit?usp=sharing),
+[English](https://docs.google.com/document/d/1Bhce_meNfVhBhtTsPDtclI0Fz56VjB8-g1gKqjKMats/edit?usp=sharing)
 
-2. [Java core](https://github.com/framgia/Training-Guideline/blob/master/JavaCore/javacore_tutorial.md)
+2. Java core
+[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Java/javacore_tutorial.md),
+[English](https://github.com/framgia/Training-Guideline/blob/master/Java/javacore_tutorial_en.md)
 
-3. [Hibernate](https://github.com/framgia/Training-Guideline/blob/master/Hibernate/hibernate_tutorial.md)
+3. Hibernate
+[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Java/hibernate_tutorial.md),
+[English](https://github.com/framgia/Training-Guideline/blob/master/Java/hibernate_tutorial_en.md)
 
-4. [Spring core](https://github.com/framgia/Training-Guideline/blob/master/SpringCore/SpringCore_tutorial.md)
+4. Spring core
+[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Java/SpringCore_tutorial.md),
+[English](https://github.com/framgia/Training-Guideline/blob/master/Java/SpringCore_tutorial_en.md)
 
-5. [Spring MVC/Spring Boot/Struts2](https://github.com/framgia/Training-Guideline/blob/master/SpringMVC/SpringMVC_tutorial.md)
+5. Spring MVC/Spring Boot
+[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Java/SpringMVC_tutorial.md),
+[English](https://github.com/framgia/Training-Guideline/blob/master/Java/SpringMVC_tutorial_en.md)
 
-6. [Project1](https://#)
+6. Project1
+[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Java/project_1.md),
+[English](https://github.com/framgia/Training-Guideline/blob/master/Java/project_1_en.md)
 
-7. [Project2](https://#)
+7. Project2
+[Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Java/project_2.md),
+[English](https://github.com/framgia/Training-Guideline/blob/master/Java/project_2_en.md)
 
 IV. Python
 
