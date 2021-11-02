@@ -18,7 +18,7 @@ Các bạn đọc tài liệu Swift theo link:
 - Website: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://sal.vn/GCrpIQ
+- Slide: https://sal.vn/1nzISq
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
