@@ -6,7 +6,7 @@ Vào cuối cuốn sách các bạn sẽ nắm được:
 	- Các thành phần cũng như folow làm việc của SPring Framework
 
 ## 2. Thời gian học:
-3 ngày
+5 ngày
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu tại link:
