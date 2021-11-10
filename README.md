@@ -90,9 +90,12 @@ VI. Android
 
 5. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/project1_en.md)
 
-6. Unit Test: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/unit_test.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/unit_test_en.md)
+6. Unit Test:  [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/unit_test.md),
+      [English](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/unit_test_en.md)
 
-7. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/project2_en.md)
+7. Android Advance: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/android_advanced.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/android_advanced_en.md)
+
+8. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/project2_en.md)
 
 VII. IOS
 1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
