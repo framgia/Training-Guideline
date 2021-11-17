@@ -27,8 +27,8 @@
 * Book: 
   + Swift 4: https://sal.vn/xxXB0y
   + IOS: https://sal.vn/a4v0Ou
-* Slide: https://sal.vn/0dPlK0
-* Ref: https://sal.vn/vBGx9o
+* Slide: https://sal.vn/kdU8fo
+* Ref: https://sal.vn/tGvVx6
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 

@@ -17,7 +17,7 @@
 
 - Website: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
-- Slide: https://sal.vn/GCrpIQ
+- Slide: https://sal.vn/1nzISq
 
 ## 4. Test Link
 
