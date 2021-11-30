@@ -1,13 +1,29 @@
-# Hướng dẫn một số thông tin về Project 2
+# Hướng dẫn một số thông tin về Project 1
 
 ## 1. Một số thông tin chung
-Thời gian thực hiện: Tối đa 8 ngày
+#### Thời gian thực hiện:
+Tối đa 15 ngày
+#### Số lượng thành viên trong team:
+1 ~ 3 người
 
 ## 2. Các bước thực hiện
-- Thực hiện công việc theo yêu cầu của trainer
-- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://drive.google.com/drive/folders/1tg-pN_iaL0pR1lz_gJddT5Vjc5MBbbBt?usp=sharing)
+Thực hiện công việc theo từng bước như sau:
+1. Design database
+2. Add tasks on redmine + estimate time
+3. Init project
+4. Init models, add relationship
+5. Design static pages
+6. Other pulls
+
+#### CHÚ Ý:
+- Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes
+- Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào
+- Sau khi đã review chéo ok thì mới gửi pull cho trainer review
 
 ## 3. Add tasks on redmine + estimate time
+- Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/)
+#### Chú ý:
+- Tham khảo cách đặt tên account [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
 - Chuyển đổi trạng thái ticket theo hướng dẫn [tại đây](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
 
@@ -23,11 +39,12 @@ Thời gian thực hiện: Tối đa 8 ngày
 ## 4. Về pull request gửi review
 - Attchment link ticket redmine vào pull request
 - Attchment hình ảnh chụp layout các chức năng làm của pull request đó
-- Đối với các pull request viết unit test cần attchment hình ảnh chụp kết quả run test
-- Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/) đã làm ở Project 1
+- Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/) đã làm ở tutorial
+- Đối với pull init model cần attachment hình ảnh thiết kế DB
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 80% chức năng yêu cầu của dự án
+- Sử dụng link deploy để trình bày project
 - Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
 - Chức năng thành viên nào làm thành viên đó trình bày
 - Trường hợp team hoàn thành dưới 80% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện

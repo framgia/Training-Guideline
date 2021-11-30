@@ -1,11 +1,11 @@
 # Hướng dẫn một số thông tin về Project 2
 
 ## 1. Một số thông tin chung
-Thời gian thực hiện: Tối đa 8 ngày
+Thời gian thực hiện: Tối đa 15 ngày
 
 ## 2. Các bước thực hiện
 - Thực hiện công việc theo yêu cầu của trainer
-- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://drive.google.com/drive/folders/1tg-pN_iaL0pR1lz_gJddT5Vjc5MBbbBt?usp=sharing)
+- Áp dụng unit test trong project
 
 ## 3. Add tasks on redmine + estimate time
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
