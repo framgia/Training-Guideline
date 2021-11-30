@@ -108,9 +108,9 @@ VII. IOS
 
 6. Unit Test: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit_test.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit_test_en.md)
 
-7. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2_en.md)
+7. IOS Advance: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced_en.md)
 
-8. IOS Advance: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced_en.md)
+8. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2_en.md)
 
 VIII. Working Process
 1. Working Process on Redmine:
