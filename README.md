@@ -81,17 +81,48 @@ V. Front-end
 
 7. [Project 2](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project2.md)
 
-VI. Working Process
+VI. Android
+1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
+
+2. Kotlin: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Kotlin/kotlin.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Kotlin/kotlin.en.md)
+
+4. Android Tutorials: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/android_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/android_tutorial_en.md)
+
+5. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/project1_en.md)
+
+6. Unit Test:  [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/unit_test.md),
+      [English](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/unit_test_en.md)
+
+7. Android Advance: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/android_advanced.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/android_advanced_en.md)
+
+8. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Android/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Android/project2_en.md)
+
+VII. IOS
+1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
+
+2. Swift: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Swift/swift.md) , [English](https://github.com/framgia/Training-Guideline/blob/master/Swift/swift.en.md)
+
+4. IOS Tutorials: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_tutorial_en.md)
+
+5. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project1_en.md)
+
+6. Unit Test: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit_test.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit_test_en.md)
+
+7. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2_en.md)
+
+8. IOS Advance: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced_en.md)
+
+VIII. Working Process
 1. Working Process on Redmine:
   - [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
 2. Guidelines using Pull Request Tracking System (PRTS)
   - [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_vi.pdf)
   - [English](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_en.pdf)
 
-VII. GIT
+IX. GIT
 1. [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
 2. [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
 
-VIII. MYSQL
+X. MYSQL
 1. [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
 2. [English](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.en.md)
