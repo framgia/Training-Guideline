@@ -67,19 +67,19 @@ IV. Python
 
 V. Front-end
 
-1. [HTML,CSS](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/HtmlCss.md)
+1. HTML,CSS: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/HtmlCss.md), [English](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/HtmlCss_en.md)
 
-2. [Bootstrap](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Bootstrap.md)
+2. Bootstrap: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Bootstrap.md), [English](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Bootstrap_en.md)
 
-3. [PUG & Framework](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/PugAndFramework.md)
+3. PUG & Framework: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/PugAndFramework.md), [English](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/PugAndFramework_en.md)
 
-4. [Project 1](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project1.md)
+4. Project 1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project1_en.md)
 
-5. [Javascript](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Javascript.md)
+5. Javascript: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Javascript.md), [English](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Javascript_en.md)
 
-6. [ES6 & ReactJS](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/ES6AndReactJS.md)
+6. ES6 & ReactJS: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/ES6AndReactJS.md), [English](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/ES6AndReactJS_en.md)
 
-7. [Project 2](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project2.md)
+7. Project 2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/FrontEnd/Project2_en.md)
 
 VI. Android
 1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)

@@ -2,7 +2,7 @@
 
 ## 1. Một số thông tin chung
 #### Thời gian thực hiện:
-10 ngày (Tối đa 20 ngày nếu đi part time)
+10 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 15 ngày liên tiếp tính từ ngày bắt đầu)
 #### Số lượng thành viên trong team:
 1
 #### Design:
@@ -32,8 +32,8 @@ https://drive.google.com/file/d/1kPT59tgzgK-X0DxlQ0xYVldf-dH6_5yD/view?usp=shari
 7. Pull request được merged, dev update %DONE của ticket redmine thành 100%, status thành Resolved
 
 ## 3. Về pull request gửi review
-- Attchment link ticket redmine vào pull
-- Attchment hình ảnh chụp layout các chức năng làm của pull đó
+- Attachment link ticket redmine vào pull
+- Attachment hình ảnh chụp layout các chức năng làm của pull đó
 - Gửi và theo dõi pull trên hệ thống [PRTS](https://prts.sun-asterisk.vn/)
 
 ## 4. Review project

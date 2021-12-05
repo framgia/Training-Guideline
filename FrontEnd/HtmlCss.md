@@ -28,10 +28,10 @@ Vào cuối phần này, sinh viên sẽ có thể:
 - Require: https://docs.google.com/spreadsheets/d/1FJyjIYfCpi-OWv2RmwMbauv7fXh9l3sGGAoK4HDbVCw/edit#gid=0  
 - Slide https://drive.google.com/drive/folders/1UJgUmluSOH0whSFCpqqDZCwK_yxw_yMP?usp=sharing
 ## 4. Bài tập thực hành: 
-- Làm 1 trang đơn giản sử dụng html,css 
+- Làm 1 trang đơn giản sử dụng HTML, CSS 
 - Ví dụ: https://sun-asterisk.vn/
 
 ## Lưu ý
-Sử dụng quy tắt đặt tên class: 
+Sử dụng quy tắc đặt tên class: 
 - http://getbem.com/introduction/
 - https://goo.gl/BM7D8V

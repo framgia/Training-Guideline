@@ -14,10 +14,10 @@ Vào cuối phần này, sinh viên sẽ có thể:
 - https://getbootstrap.com/
 - Slide: https://drive.google.com/drive/folders/1EGvNDrKE5aTe9P6jxG1ip8gbJY8M7p7Y?usp=sharing
 ## 4. Bài tập thực hành: 
-Làm 1 trang đơn giản sử sụng Bootstrap kết hợp html,css 
+Làm 1 trang đơn giản sử dụng Bootstrap kết hợp HTML, CSS 
 Ví dụ: https://sun-asterisk.vn/
 
 ## Lưu ý
-Sử dụng quy tắt đặt tên class: 
+Sử dụng quy tắc đặt tên class: 
 http://getbem.com/introduction/
 https://goo.gl/BM7D8V
