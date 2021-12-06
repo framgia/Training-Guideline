@@ -14,10 +14,10 @@ Vào cuối phần này, sinh viên sẽ có thể:
 - PUG: https://pugjs.org/api/getting-started.html
 - Slide: https://drive.google.com/drive/folders/1_Q4Fca_abCLUDnYBX0GfBbZfbbfmDpi3?usp=sharing
 ## 4. Bài tập thực hành: 
-- Làm 1 trang đơn giản sử sụng Pug,SCSS(SASS)
+- Làm 1 trang đơn giản sử dụng Pug, SCSS(SASS)
 - Ví dụ: https://sun-asterisk.vn/
 
 ## Lưu ý
-Sử dụng quy tắt đặt tên class: 
+Sử dụng quy tắt đặc tên class: 
 - http://getbem.com/introduction/
 - https://goo.gl/BM7D8V
