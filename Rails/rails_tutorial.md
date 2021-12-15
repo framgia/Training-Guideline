@@ -135,6 +135,28 @@ Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau và
   "word_wrap": true
 }
 ```
+
+VS code
+```yaml
+{
+    "explorer.confirmDelete": false,
+    "editor.tabSize": 2,
+    "explorer.confirmDragAndDrop": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Atom One Dark",
+    "javascript.format.enable": false,
+    "javascript.format.insertSpaceAfterCommaDelimiter": false,
+    "javascript.format.insertSpaceAfterConstructor": false,
+    "[ruby]": {
+        "editor.formatOnSave": false
+    },
+    "workbench.iconTheme": "vscode-great-icons"
+}
+```
 ## 8. Một số lưu ý trong quá trình làm tutorial:
 - Tuyệt đối không chờ đợi merged pull request chapter trước rồi mới làm chapter tiếp theo. Thay vào đó, các bạn checkout branch mới từ branch trước ra và làm tiếp, sau này sẽ rebase và fix conflict sau nếu có.
 - Pull request sau khi gửi trainer, các bạn chờ đợi trong thời gian tối đa là 3 tiếng, nếu sau 3 tiếng vẫn chưa có người review, các bạn hãy gửi message nhắc nhở trainer.
