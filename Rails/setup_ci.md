@@ -4,9 +4,10 @@ check image ruby hiện có tại [đây](https://hub.docker.com/r/sunci/ruby/bu
 **Ví dụ:** 
 <br>`image: sunci/ruby:2.6.5` nếu dùng ruby version 2.6.5<br>
 `image: sunci/ruby:2.7.0` nếu dùng ruby version 2.7.0<br>
-`image: manhbnt/ruby:2.7.1` và `bundle _2.1.4_` duy nhất trường hợp ruby version 2.7.1
+`image: sunci/ruby:3.0.2` nếu dùng ruby version 3.0.2 và `bundle _2.1.4_` <br>
+`image: manhbnt/ruby:2.7.1` và `bundle _2.1.4_`
 
-hiện tại bản build cao nhất là ruby 2.7.1, trường hợp các bạn dùng phiên bản ruby cao hơn hoặc bản ruby chưa được build, vui lòng chuyển sang những phiên bản ruby có sẵn :D
+hiện tại bản build cao nhất là ruby 3.0.2, trường hợp các bạn dùng phiên bản ruby cao hơn hoặc bản ruby chưa được build, vui lòng chuyển sang những phiên bản ruby có sẵn :D
 
 ```ruby
 workspace: true
@@ -21,7 +22,7 @@ jobs:
   image: sunci/ruby:2.7.0
   script:
   - cp database-ci.yml config/database.yml
-  - bundle _2.1.2_ install --path vendor/bundle
+  - bundle _2.1.2_ install --path vendor/bundle  # _2.1.4_ if ruby 2.7.1 or 3.0.2
   cache:
   - key: vendor_$CI_BRANCH
     paths:
@@ -39,16 +40,16 @@ jobs:
       MYSQL_PASSWORD: password_test
       MYSQL_ROOT_PASSWORD: password_test
   before_script:
-  - bundle _2.1.2_ install --path vendor/bundle
+  - bundle _2.1.2_ install --path vendor/bundle # _2.1.4_ if ruby 2.7.1 or 3.0.2
   script:
   - RAILS_ENV=test bundle exec rails db:drop db:create db:migrate
-  - bundle _2.1.2_ exec rspec
+  - bundle _2.1.2_ exec rspec # _2.1.4_ if ruby 2.7.1 or 3.0.2
 
 - name: test:rubocop
   stage: test
   image: sunci/ruby:2.7.0
   before_script:
-  - bundle _2.1.2_ install --path vendor/bundle
+  - bundle _2.1.2_ install --path vendor/bundle # _2.1.4_ if ruby 2.7.1 or 3.0.2
   script:
   - bundle exec rubocop --require rubocop/formatter/checkstyle_formatter --format RuboCop::Formatter::CheckstyleFormatter --no-color app/ lib/
 ```
