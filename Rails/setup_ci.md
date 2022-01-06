@@ -4,9 +4,8 @@ check image ruby hiện có tại [đây](https://hub.docker.com/r/sunci/ruby/bu
 **Ví dụ:** 
 <br>`image: sunci/ruby:2.6.5` nếu dùng ruby version 2.6.5<br>
 `image: sunci/ruby:2.7.0` nếu dùng ruby version 2.7.0<br>
-`image: manhbnt/ruby:2.7.1` và `bundle _2.1.4_` nếu dùng ruby version 2.7.1
+`image: manhbnt/ruby:2.7.1` và `bundle _2.1.4_` nếu dùng ruby version 2.7.1<br>
 `image: sunci/ruby:3.0.2` và `bundle _2.1.4_` nếu dùng ruby version 3.0.2<br>
-
 
 hiện tại bản build cao nhất là ruby 3.0.2, trường hợp các bạn dùng phiên bản ruby cao hơn hoặc bản ruby chưa được build, vui lòng chuyển sang những phiên bản ruby có sẵn :D
 
