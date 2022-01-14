@@ -2,7 +2,7 @@
 
 ## Các thông tin và bước thực hiện project 2 tương tự như project 1 ngoài có một số điểm khác sau đây
 #### Thời gian thực hiện:
-8 ngày (Tối đa 16 ngày nếu đi part time)
+7 ngày (Tối đa 14 ngày nếu đi part time)
 
 #### Danh sách project có thể tham khảo
 // TODO update link late
