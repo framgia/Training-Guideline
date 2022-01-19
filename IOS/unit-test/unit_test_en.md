@@ -13,8 +13,10 @@
 
 ## 4. Write Unit Test for Project 1
 1. Example of writing Unit Test for a presenter [here](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/HomeViewControllerTest.swift)
-    Take a picture of each screen's coverage as [image](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/CastDetailCoverage.png)và submit by pull request for trainer review
+    Take a picture of each screen's coverage as [image](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/HomeViewControllerCoverage.png) và submit by pull request for trainer review
 2. More reference:
+    
     https://sal.vn/RqPBAo
+
     https://sal.vn/fOEGP1
 
