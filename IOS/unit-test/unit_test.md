@@ -15,5 +15,7 @@
 1. Ví dụ về Unit Test cơ bản cho một ViewController ở [đây](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/HomeViewControllerTest.swift)
     Chụp ảnh coverage như [hình](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/HomeViewControllerCoverage.png) và gửi lên cùng pull request, gửi trainer review
 2. Link tham khảo thêm:
+
     https://sal.vn/RqPBAo
+    
     https://sal.vn/fOEGP1

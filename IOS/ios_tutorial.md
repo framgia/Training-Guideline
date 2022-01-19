@@ -6,7 +6,7 @@
 - Áp dụng Sun* GIT flow.
 
 ## 2. Thời gian học:
-7 ngày (Tối đa 10 ngày nếu trễ tiến độ)
+10 ngày
 
 ## 3. Các kiến thức cơ bản cần nắm được:
 1. Thành phần của IOS

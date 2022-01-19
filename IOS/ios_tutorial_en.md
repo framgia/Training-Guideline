@@ -6,7 +6,7 @@
 - Apply Sun* GIT flow.
 
 ## 2. Training Time
-7 working days (max 10 days)
+10 working days
 
 ## 3. Requiring Knowledge
 1. IOS Component
