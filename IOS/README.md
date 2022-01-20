@@ -30,7 +30,6 @@
 [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2.md) | [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2_en.md)
 
 ## VII. Optional
-- Automatic Reference Counting (ARC)
 - Localization
 - Realm
 - Codable
