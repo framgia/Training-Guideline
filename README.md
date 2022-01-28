@@ -106,7 +106,7 @@
 
 5. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project1_en.md)
 
-6. Unit Test: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit_test.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit_test_en.md)
+6. Unit Test: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/unit_test.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/unit_test_en.md)
 
 7. IOS Advance: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/ios_advanced_en.md)
 
