@@ -22,11 +22,14 @@ Trong đó, 5 ngày tự học --> review lần 1 --> 3 ngày làm Quicktask -->
 	- Middleware
 	- REST & RESTful
 6. Controller:
-	- Auth
+	- Validation
+	- Form request
+	- Authentication
 	- Eloquent orm + query builder
-	- CRFS Protection
+	- CSRF Protection
 7. Advance: 
 	- Transaction laravel, Helpers, Localization(i18n), repository, cache
+	- Authorization: Gate và policy
 	- Blade Template
 	- Bower, laravel mix
 	- Service provider, service container
@@ -37,7 +40,8 @@ Trong đó, 5 ngày tự học --> review lần 1 --> 3 ngày làm Quicktask -->
 
 ## 5. Hướng dẫn thực hiện Laravel Quicktask
 - Tiến hành làm Laravel Quick task theo hướng dẫn file sau: **(BỎ QUA BƯỚC 3)** https://docs.google.com/document/d/18s2S7JGEvhCUbITNnK5J0veaC5C2Oc1SzKr66Hi0a3o/edit
-- Tạo pull và làm theo https://laravel.com/docs/5.2/quickstart, kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
+- Tạo pull và làm theo https://sal.vn/iFus6c, kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
+Tham khảo: https://laravel.com/docs/5.2/quickstart
 - Đọc trước file convention của công ty để code đúng chuẩn hơn: https://github.com/framgia/coding-standards/blob/master/vn/README.md#php
 - Nếu  dùng sublime text có thể config theo đoạn code sau giúp việc kiểm soát convention của công ty, bằng cách:
 Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau vào:
