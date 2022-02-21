@@ -83,7 +83,7 @@ Thực hiện công việc theo từng bước như sau:
 8. Other pulls
 
 #### CHÚ Ý:
-- Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes.
+- Các pull từ mục 8. trở đi mỗi pull không quá 15 file changes.
 - Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào.
 - Sau khi đã review chéo ok thì mới gửi pull cho trainer review.
 
