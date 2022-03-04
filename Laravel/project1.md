@@ -30,19 +30,16 @@ Scrum
 
 ## 2. Các bước thực hiện
 Thực hiện công việc theo từng bước như sau:
-1. Design database
-2. Add tasks on redmine + estimate time
-3. Init project
-4. Add file pull_request_template to your project [here](https://github.com/framgia/Training-Guideline/blob/master/Laravel/PULL_REQUEST_TEMPLATE.md)
-5. Setup CI. Thực hiện theo hướng dẫn [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.md)
-6. Init models, add relationship
-7. Design static pages
-8. Other pulls
+1. Design database (Có thể sử dụng các công cụ online như: https://cacoo.com/ hoặc https://creately.com/) => Gửi trainer review
+2. Add tasks on redmine + estimate time (Hướng dẫn ở mục 3) => Gửi trainer review
+3. Nhận repository từ trainer => Init project
+4. Đẩy pull, làm project 1
 
 #### CHÚ Ý:
-- Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes
+- Pull 1: Init project + thêm [file pull_request_template](https://github.com/framgia/Training-Guideline/blob/master/Laravel/PULL_REQUEST_TEMPLATE.md) + [Setup CI](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.md)
+- Mỗi pull 1 commit, không quá 15 file changes (trừ pull init, auth, view)
 - Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào
-- Sau khi đã review chéo ok thì mới gửi pull cho trainer review (ready pull)
+- Sau khi đã review chéo => gửi pull cho trainer review (ready pull)
 
 ## 3. Add tasks on redmine + estimate time
 - Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/)
@@ -50,13 +47,13 @@ Thực hiện công việc theo từng bước như sau:
 - Tham khảo cách đặt tên account [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
 #### Quy trình chuyển đổi trạng thái của ticket như sau:
-1. Tất cả công việc cần làm phải được tạo thành ticket redmine rồi mới bắt tay vào làm
-2. Tickets redmine phải điền đầy đủ Category, Target Version, Parent task, Start date, Due date, Estimated time
-3. Dev nhận ticket, chuyển status "In Progress"
-4. Dev làm xong, gửi pull request, update vào ticket redmine link của pull request, chuyển %DONE thành 90%
-5. Pull request gửi cho cả team cùng review
+1. Tất cả công việc cần làm phải được tạo thành ticket redmine rồi mới bắt tay vào làm.
+2. Tickets redmine phải điền đầy đủ Category, Target Version, Parent task, Due date, Estimated time.
+3. Dev nhận ticket, chuyển status "In Progress", update Start date
+4. Dev làm xong, gửi pull request, update vào ticket redmine link của pull request, chuyển %DONE thành 90%, status = "Reviewing".
+5. Pull request gửi cho cả team cùng review.
 6. Pull request phải có member trong team review OK thì mới được gửi cho trainer review.
-7. Pull request được merged, dev update %DONE của ticket redmine thành 100%, status thành Resolved
+7. Pull request được merged, dev update %DONE của ticket redmine thành 100%, status thành Resolved.
 
 ## 4. Về pull request gửi review
 - Format title pull request: 
@@ -72,10 +69,9 @@ Ví dụ: [Task#12345] Handle logic login
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 85% chức năng yêu cầu của dự án
-- Yêu cầu deploy dự án trên heroku
-- Sử dụng link heroku để trình bày project
+- Deploy dự án trên heroku (Optional)
 - Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
-- Chức năng thành viên nào làm thành viên đó trình bày
+- Trainer có thể chọn ngẫu nhiên người trình bày, người đó phải trình bày toàn bộ các chức năng trong project
 - Trường hợp team hoàn thành dưới 85% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian
 
 #### Happy coding!!!
