@@ -40,6 +40,18 @@ jobs:
   - composer install
   after_script:
   - echo "Finish job"
+
+- name: test:node
+  stage: test
+  image: node:12-alpine
+  script:
+  - npm install
+  - npm run dev
+  cache:
+  - key: node_modules_$CI_BRANCH
+    paths:
+      - node_modules
+
 - name: test:phpcs
   stage: test
   image: sunasteriskrnd/php-workspace:7.4
@@ -49,6 +61,7 @@ jobs:
   script:
   - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage,database,coverage,public,resources --standard=PSR2,PSR1 ./
   - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/lang
+
 - name: test:phpunit
   stage: test
   image: sunasteriskrnd/php-workspace:7.4
