@@ -59,7 +59,7 @@ jobs:
   - composer global require "squizlabs/php_codesniffer=*"
   - composer install
   script:
-  - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage,database,coverage,public,resources --standard=PSR2,PSR1 ./
+  - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage,database,coverage,public,resources,node_modules --standard=PSR2,PSR1 ./
   - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/lang
 
 - name: test:phpunit
