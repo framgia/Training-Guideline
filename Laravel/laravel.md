@@ -3,10 +3,13 @@
 ## 1. Mục tiêu
 - Làm quen và sử dụng framework Laravel.
 - Áp dụng Sun* GIT flow.
-## 2. Thời gian học:
+## 2. Thời gian học và quy trình:
 8 ngày (Tối đa 10 ngày nếu trễ tiến độ)
 
-Trong đó, 5 ngày tự học --> review lần 1 --> 3 ngày làm Quicktask --> review lần 2
+**Quy trình:**
+- Tìm hiểu kiến thức và thực hành Quicktask theo hướng dẫn ở mục 5.
+- Demo và review sau khi kết thúc module Laravel.
+
 ## 3. Các kiến thức cơ bản cần nắm được:
 1. Init project, Directory Structure
 2. Migration
@@ -39,10 +42,11 @@ Trong đó, 5 ngày tự học --> review lần 1 --> 3 ngày làm Quicktask -->
 * Ebook: https://goo.gl/hft96o
 
 ## 5. Hướng dẫn thực hiện Laravel Quicktask
-- Tiến hành làm Laravel Quick task theo hướng dẫn file sau: **(BỎ QUA BƯỚC 3)** https://docs.google.com/document/d/18s2S7JGEvhCUbITNnK5J0veaC5C2Oc1SzKr66Hi0a3o/edit
-- Tạo pull và làm theo https://sal.vn/iFus6c, kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
+- Tiến hành làm Laravel Quick task theo [hướng dẫn](https://docs.google.com/document/d/18s2S7JGEvhCUbITNnK5J0veaC5C2Oc1SzKr66Hi0a3o/edit) **(BỎ QUA BƯỚC 3)** 
+- Thiết lập hệ thống pull request tracking (PRTS) như mục 6.
+- Tạo pull và làm theo [hướng dẫn](https://docs.google.com/spreadsheets/d/19JV30O_0BoQLmJWvrGqhnrAPvgiqrAUf_f0Dtx9bBQI/edit#gid=0), kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
 Tham khảo: https://laravel.com/docs/5.2/quickstart
-- Đọc trước file convention của công ty để code đúng chuẩn hơn: https://github.com/framgia/coding-standards/blob/master/vn/README.md#php
+- Đọc trước file [convention của công ty](https://github.com/framgia/coding-standards/blob/master/vn/README.md#php) để code đúng chuẩn hơn.
 - Nếu  dùng sublime text có thể config theo đoạn code sau giúp việc kiểm soát convention của công ty, bằng cách:
 Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau vào:
 ```
@@ -76,8 +80,9 @@ Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau và
 }
 ```
 ## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
-Các bạn truy cập url này: http://prts.sun-asterisk.vn đăng nhập qua Github, rồi làm theo hướng dẫn ở mục  "User Guide"(https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit)
+Các bạn truy cập url này: http://prts.sun-asterisk.vn đăng nhập qua Github, rồi làm theo hướng dẫn ở mục [User Guide](https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit)
 
 - Cập nhật ngôn ngữ training tương ứng của mình (ví dụ: Ruby, PHP, ...)
 - Chọn box chatwork để nhận các thông báo review pull theo hướng dẫn của trainer khi add các bạn vào box. 
-Ví dụ văn phòng Đà Nẵng là box: "[edu][DN] Pull Request's Status Checking"
+văn phòng Đà Nẵng là box: "[edu][DN] Pull Request's Status Checking"
+văn phòng Hà Nội là box: "[edu][HN] PHP checking pull request"
