@@ -30,10 +30,11 @@ Scrum
 
 ## 2. Các bước thực hiện
 Thực hiện công việc theo từng bước như sau:
-1. Design database (Có thể sử dụng các công cụ online như: https://cacoo.com/ hoặc https://creately.com/) => Gửi trainer review
-2. Add tasks on redmine + estimate time (Hướng dẫn ở mục 3) => Gửi trainer review
-3. Nhận repository từ trainer => Init project
-4. Đẩy pull, làm project 1
+1. Confirm requirement
+2. Design database (Có thể sử dụng các công cụ online như: https://cacoo.com/ hoặc https://creately.com/) => Gửi trainer review
+3. Add tasks on redmine + estimate time (Hướng dẫn ở mục 3) => Gửi trainer review
+4. Nhận repository từ trainer => Init project
+5. Đẩy pull, làm project 1
 
 #### CHÚ Ý:
 - Pull 1: Init project + thêm [file pull_request_template](https://github.com/framgia/Training-Guideline/blob/master/Laravel/PULL_REQUEST_TEMPLATE.md) + [Setup CI](https://github.com/framgia/Training-Guideline/blob/master/Laravel/setup_ci.md)
