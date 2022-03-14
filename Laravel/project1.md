@@ -43,7 +43,8 @@ Thực hiện công việc theo từng bước như sau:
 - Sau khi đã review chéo => gửi pull cho trainer review (ready pull)
 
 ## 3. Add tasks on redmine + estimate time
-- Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/)
+- Thực hiện đăng ký tài khoản redmine trên [website](https://edu-redmine.sun-asterisk.vn/)
+- Hướng dẫn sử dụng Redmine [tại đây](https://drive.google.com/file/d/1X9HHIv0eZu-rwkaeQ_a-7CZhAPXzBdTk/view)
 #### Chú ý:
 - Tham khảo cách đặt tên account [tại đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png)
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
