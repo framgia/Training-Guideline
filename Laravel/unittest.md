@@ -5,9 +5,13 @@
 - 1 buổi review sau module
 
 ## 2. Link tài liệu:
-https://drive.google.com/drive/folders/1HJJ_khkR8mKe8lnJD3CXtOaTfuOoaGka?usp=sharing
+https://drive.google.com/drive/folders/1fbXm10kZEmE-WVK5jwIkzgLQ1dmM8ny_
 
 ## 3. Yêu cầu
 - Viết Unittest cho 100% models
 - Mỗi dev viết Unittest cho ít nhất 1 controller trong Project 1
 - Làm bài test trên [website test](http://training.sun-asterisk.vn/), yêu cầu PASS >= 17/20 câu
+
+## 4. Hướng dẫn
+- Sử dụng repository cho controller dự định viết test
+- Cài đặt Code coverage: https://viblo.asia/p/php-unit-test-401-tao-bao-cao-coverage-reports-va-chi-so-crap-ByEZkWXWZQ0
