@@ -59,7 +59,15 @@ Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bư
 #### Bước 1: Các bạn cài đặt gem vào Gemfile:
 
 ```ruby
-group :development, :test do
+group :development, :test do # Với phiên bản ruby 3.0 và rails 6 trở lên
+  gem "rubocop", "~> 1.26", require: false
+  gem "rubocop-checkstyle_formatter", require: false
+  gem "rubocop-rails", "~> 2.14.0", require: false
+end
+```
+
+```ruby
+group :development, :test do # Với phiên bản ruby 3.0 và rails 6 trở xuông
   gem "rubocop", "~> 0.74.0", require: false
   gem "rubocop-checkstyle_formatter", require: false
   gem "rubocop-rails", "~> 2.3.2", require: false
@@ -77,7 +85,9 @@ pip3 uninstall cleo clikit
 pip3 install cleo==0.6.8
 ```
 #### Bước 2: Tải tệp nén :
-Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local.tar.gz)
+Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local_new.tar.gz) (Với phiên bản ruby 3.0 và rails 6 trở lên)
+
+Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local_old.tar.gz) (Với phiên bản ruby 3.0 và rails 6 trở xuống)
 
 Sau đó copy 6 file sau trong tệp nén vừa tải về gồm:
 ```
