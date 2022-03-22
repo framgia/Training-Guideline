@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1fbXm10kZEmE-WVK5jwIkzgLQ1dmM8ny_
 
 ## 3. Yêu cầu
 - Viết Unittest cho 100% models
-- Mỗi dev viết Unittest cho ít nhất 1 controller trong Project 1
+- Mỗi dev viết Unittest cho ít nhất 1 controller và 1 view trong Project 1
 - Làm bài test trên [website test](http://training.sun-asterisk.vn/), yêu cầu PASS >= 17/20 câu
 
 ## 4. Hướng dẫn
