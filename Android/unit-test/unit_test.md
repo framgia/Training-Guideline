@@ -4,12 +4,11 @@
 - Viết Unit Test cho Project 1
 
 ## 2. Thời gian thực hiện
- 3 ngày
+ 1 ngày
 
 ## 3. Unit Test mindset
-1. Tham gia lecture
-2. Document link: https://sal.vn/uW6mSX
-3. Link test: http://training.sun-asterisk.vn/
+1. Document link: https://sal.vn/uW6mSX
+2. Link test: http://training.sun-asterisk.vn/
 
 ## 4. Viết Unit Test cho Project 1
 1. Ví dụ về Unit Test cơ bản cho một class Presenter ở [đây](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/CastDetailPresenterTest.kt)
