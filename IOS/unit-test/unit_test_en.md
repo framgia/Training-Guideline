@@ -4,7 +4,7 @@
 - Write Unit Test for Project 1
 
 ## 2. Execution time
- 3 working days
+ 1 working days
 
 ## 3. Unit Test mindset
 1. Document link: https://sal.vn/uW6mSX
