@@ -7,9 +7,8 @@
  3 working days
 
 ## 3. Unit Test mindset
-1. Attend lecture
-2. Document link: https://sal.vn/uW6mSX
-3. Link test: http://training.sun-asterisk.vn/
+1. Document link: https://sal.vn/uW6mSX
+2. Link test: http://training.sun-asterisk.vn/
 
 ## 4. Write Unit Test for Project 1
 1. Example of writing Unit Test for a presenter [here](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/HomeViewControllerTest.swift)
