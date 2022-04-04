@@ -5,7 +5,7 @@
 - 1 buổi review sau module
 
 ## 2. Link tài liệu:
-https://drive.google.com/drive/folders/1fbXm10kZEmE-WVK5jwIkzgLQ1dmM8ny_
+https://sal.vn/tCzT1Y
 
 ## 3. Yêu cầu
 - Viết Unittest cho 100% models
