@@ -25,9 +25,9 @@ Kết thúc khóa học, các bạn có thể nắm được:
 1 ngày (Bao gồm buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
 ## 3. Link tài liệu:
-[Slide] https://drive.google.com/drive/folders/15NbRIWvjrDSv-j_Pwh4fW2dMc8QsXLFu?usp=sharing
+[Slide] https://drive.google.com/drive/folders/1ZgS2U9VWMkLMSzp9bkTssCP4IEbz3MXj
 
-[Book] https://drive.google.com/drive/folders/13_u0gEbsxDPfjefEyJWj3hIA3pS5qI6M?usp=sharing
+[Book] https://drive.google.com/drive/folders/1ovsoGzotmyHyWs86rn53FJcg_pkVf8jb
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
