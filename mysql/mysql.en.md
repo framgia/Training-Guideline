@@ -26,9 +26,9 @@ From 21/7/2021 to 26/7/2021
 
 
 ## 3. Document link:
-[Slide] https://drive.google.com/drive/folders/15NbRIWvjrDSv-j_Pwh4fW2dMc8QsXLFu?usp=sharing
+[Slide] https://drive.google.com/drive/folders/1ZgS2U9VWMkLMSzp9bkTssCP4IEbz3MXj
 
-[Book] https://drive.google.com/drive/folders/13_u0gEbsxDPfjefEyJWj3hIA3pS5qI6M?usp=sharing
+[Book] https://drive.google.com/drive/folders/1ovsoGzotmyHyWs86rn53FJcg_pkVf8jb
 
 ## 4. Test link:
 
