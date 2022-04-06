@@ -50,19 +50,18 @@ http://rspec.info/<br>
 ### 2. Document
 [Slide]:
 Rspec: 
-https://drive.google.com/file/d/1wTFzJ72DGu00fuzIiiQF5R4ogJw-0TIJ/view?usp=sharing
+https://drive.google.com/drive/folders/1pmGs9YK6ScWkM0jXTapcwGGdnSdbQrd1
 
 [Book]: 
-
-https://drive.google.com/file/d/1gJI16h18snr8TpOrUuvQDLO_MWLpS8qh/view?usp=sharing
+https://drive.google.com/drive/folders/1_v-mZJjWj-RFDr_nEl5Mq6nqGsjoeu84
 
 [References]
 https://github.com/awesome-academy/Practice_Rspec
+<br>
 https://relishapp.com/rspec
 <br>
 http://www.relishapp.com/rspec/rspec-expectations/v/3-2/docs/built-in-matchers/type-matchers
 <br>
-
 
 ### 3. Test style guide
 [Vietnamese version](https://github.com/framgia/coding-standards/blob/master/vn/rails/test.md)

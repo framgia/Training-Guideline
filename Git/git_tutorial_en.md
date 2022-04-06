@@ -11,9 +11,9 @@
 
 ## 3. Document link:
 [Slide]
-  - Sub: https://drive.google.com/drive/folders/1yFm62BLF0q8hv18LRXRckUYu6fCwgzqV?usp=sharing
-  - videos: https://drive.google.com/drive/u/1/folders/1eSTzUcKEz3JHEkKhXQPYnJxiUrX9wP0w
+  - Sub: https://drive.google.com/drive/folders/1mR7UdF5XwtC2RYkFUR2vnDWDtPuUrZjv
 
+  - videos: https://drive.google.com/drive/u/1/folders/1eSTzUcKEz3JHEkKhXQPYnJxiUrX9wP0w
 
 [References]
 - http://git-scm.com/book - the first 4 chapters

@@ -18,10 +18,10 @@ From 10/8/2021 to 10/9/2021
 
 ## 3.Document link
 
-- [Book] https://drive.google.com/drive/u/0/folders/1A1VobJKczKDJ7TvHSK_avTBlGOJr_JwK
+- [Book] https://drive.google.com/drive/folders/1y6xUxiFsuI3Qyx53yajYUcvRDJINPpUN
 
 - [Slides]
-https://drive.google.com/drive/u/0/folders/1hj5d-ItX4wq2vWGl4eFW69vG6CYDXnuF
+https://drive.google.com/drive/folders/1FZOQ4Zs4AqwAuI-80Qe22Kq10MPE_9xO
 
 - [Videos]
 https://link.sun-asterisk.vn/6FW345

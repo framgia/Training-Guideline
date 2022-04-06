@@ -86,6 +86,7 @@ Thực hiện công việc theo từng bước như sau:
 - Các pull từ mục 8. trở đi mỗi pull không quá 15 file changes.
 - Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào.
 - Sau khi đã review chéo ok thì mới gửi pull cho trainer review.
+- Truy cập vào file https://docs.google.com/spreadsheets/d/1oW0sX_ekfXu7aNKf5-OhtQw_WLAP38_M2KJo72LNxXU/edit?usp=sharing để dup lên 1 file mới và thực hiện cập nhật vào các kỹ thuật mình đã tìm hiểu hay áp dụng trong project
 
 ## 3. Add tasks on redmine + estimate time
 - Thực hiện đăng ký tài khoản redmine trên site [tại đây](https://edu-redmine.sun-asterisk.vn/) rồi gửi thông tin cho trainer
