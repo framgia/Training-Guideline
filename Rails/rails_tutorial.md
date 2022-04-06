@@ -15,12 +15,12 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 9 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 15 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link: https://drive.google.com/drive/u/0/folders/1A1VobJKczKDJ7TvHSK_avTBlGOJr_JwK
+Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link: https://drive.google.com/drive/folders/1y6xUxiFsuI3Qyx53yajYUcvRDJINPpUN
 
 Nội dung cần nắm sau mỗi chương [link](https://docs.google.com/spreadsheets/d/1S306g-Z6DWjkaJyMEkoZUJXZrdB5iLpVopARi9AdO4M/edit?usp=sharing)
 
 [Slide]
-https://drive.google.com/drive/u/0/folders/1hj5d-ItX4wq2vWGl4eFW69vG6CYDXnuF
+https://drive.google.com/drive/folders/1FZOQ4Zs4AqwAuI-80Qe22Kq10MPE_9xO
 
 ## 4. Về việc gửi pull request
 Pull đầu tiên sẽ là init_project :D .Các bạn lên github tạo 1 repo mới chọn Initialize this repository with a README, add .gitignore chọn Ruby => Tạo repo, Sau đó clone về máy. Sau đó

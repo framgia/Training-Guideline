@@ -12,9 +12,11 @@ Vào cuối khóa học này, học viên sẽ có thể:
 3 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 5 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-Các bạn đọc tài liệu Ruby theo link: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 
-Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần - https://drive.google.com/drive/u/0/folders/1mnA-gwT6fOWA8cc3rOu0B0VgAv6oriNd
+- Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
+- Slide: https://drive.google.com/drive/folders/1huh3q6GfFRN-UcJDm5N6ZGnbo9ePMXjY
+- Ngoài ra, Các bạn đọc tài liệu Ruby theo link: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
+
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
