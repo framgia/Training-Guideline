@@ -25,10 +25,9 @@
 ## 4. Document Link
 * Document: https://developer.apple.com/documentation/
 * Book: 
-  + Swift 4: https://sal.vn/xxXB0y
-  + IOS: https://sal.vn/a4v0Ou
-* Slide: https://sal.vn/kdU8fo
-* Ref: https://sal.vn/tGvVx6
+  + IOS: https://sal.vn/tPuTf1
+* Slide: https://sal.vn/FJYvDw
+* Ref: https://sal.vn/qlsyGE
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 

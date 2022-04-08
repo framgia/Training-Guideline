@@ -5,7 +5,7 @@
 - Hiểu và áp dụng được các kiến thức nâng cao của Android
 
 ## 2. Thời gian học:
-5 ngày (Tối đa 7 ngày nếu trễ tiến độ)
+6 ngày
 
 ## 3. Các kiến thức cơ bản cần nắm được:
 1. Display Image Libraries
@@ -17,7 +17,7 @@
 7. Android Archiectecture Components
 
 ## 4. Link tài liệu:
-* Slides: https://sal.vn/aoT34d
+* Slides: https://sal.vn/HbrROa
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:

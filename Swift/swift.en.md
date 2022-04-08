@@ -13,11 +13,11 @@
 
 ## 3. Document Link
 
-- Book: https://sal.vn/O70EVF
+- Book: https://sal.vn/iljIAx
 
 - Website: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
-- Slide: https://sal.vn/1nzISq
+- Slide: https://sal.vn/EfQoeF
 
 ## 4. Test Link
 
@@ -25,7 +25,7 @@ Host: http://training.sun-asterisk.vn
 
 Account: Use personal mail to register for an account
 
-NOTE:  You have to set an account similar to your Chatwork account
+NOTE:  You have to set an account similar to your Slack account
 ```
 Example:
   Full name: Nguyen Van A

@@ -29,8 +29,7 @@
 ## 4. Link tài liệu:
 * Document: https://developer.android.com/guide
 * Book: https://sal.vn/k75BJZ
-* Slide: https://sal.vn/qgrsZp
-* Ref: https://sal.vn/ulWCzm
+* Slide: https://sal.vn/xjt9NA
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:
@@ -51,9 +50,9 @@ Host: http://training.sun-asterisk.vn
 
 Account: Các bạn tự tạo bằng mail đăng ký với HR
 
-Lưu ý: Đặt tên giống với chatwork
+Lưu ý: Đặt tên giống với Slack
 ```
-Ví dụ:
+Example:
   Họ và tên: Nguyễn Văn A
   Khóa: Android 03
   Vị trí: Open Education

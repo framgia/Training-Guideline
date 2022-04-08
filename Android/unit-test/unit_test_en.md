@@ -7,7 +7,7 @@
  1 working days
 
 ## 3. Unit Test mindset
-1. Document link: https://sal.vn/uW6mSX
+1. Document link: https://sal.vn/aS0fIV
 2. Link test: http://training.sun-asterisk.vn/
 
 ## 4. Write Unit Test for Project 1
@@ -15,4 +15,3 @@
     Take a picture of each screen's coverage as [image](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/CastDetailCoverage.png)và submit by pull request for trainer review
 2. More reference:
     https://sal.vn/soG2c9
-    https://sal.vn/Q0uuwa

@@ -13,19 +13,19 @@ Vào cuối khóa học này, học viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Kotlin theo link: 
-- Book: https://sal.vn/QatmW6
+- Book: https://sal.vn/ZHOSVZ
 
 - Website: https://kotlinlang.org/docs/home.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://sal.vn/0PkEuf
+- Slide: https://sal.vn/lkwSgr
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
 
 Account: Các bạn tự tạo bằng mail đăng ký với HR
 
-Lưu ý: Đặt tên giống với chatwork
+Lưu ý: Đặt tên giống với Slack
 ```
 Ví dụ:
   Họ và tên: Nguyễn Văn A
