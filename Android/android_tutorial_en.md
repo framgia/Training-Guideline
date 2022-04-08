@@ -29,8 +29,7 @@
 ## 4. Document Link
 * Document: https://developer.android.com/guide
 * Book: https://sal.vn/k75BJZ
-* Slide: https://sal.vn/qgrsZp
-* Ref: https://sal.vn/ulWCzm
+* Slide: https://sal.vn/xjt9NA
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 
@@ -51,7 +50,7 @@ During the tutorial, there will be 3 applications you have to send pull requests
 
  Account: Use personal mail to register for an account
 
- NOTE:  You have to set an account similar to your Chatwork account
+ NOTE:  You have to set an account similar to your Slack account
  ```
  Ví dụ:
    Full name: Nguyen Van A

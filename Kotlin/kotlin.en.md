@@ -13,11 +13,11 @@
 
 ## 3. Document Link
 
-- Book: https://sal.vn/QatmW6
+- Book: https://sal.vn/ZHOSVZ
 
 - Website: https://kotlinlang.org/docs/home.html
 
-- Slide: https://sal.vn/0PkEuf
+- Slide: https://sal.vn/lkwSgr
 
 ## 4. Test Link
 
@@ -25,9 +25,9 @@ Host: http://training.sun-asterisk.vn
 
 Account: Use personal mail to register for an account
 
-NOTE:  You have to set an account similar to your Chatwork account
+NOTE:  You have to set an account similar to your Slack account
 ```
-Ví dụ:
+Example:
   Full name: Nguyen Van A
   Course: Android 03
   Position: Open Education

@@ -25,10 +25,9 @@
 ## 4. Link tài liệu:
 * Document: https://developer.apple.com/documentation/
 * Book:
-  + Swift 4: https://sal.vn/xxXB0y
-  + IOS: https://sal.vn/a4v0Ou
-* Slide: https://sal.vn/kdU8fo
-* Ref: https://sal.vn/tGvVx6
+  + IOS: https://sal.vn/tPuTf1
+* Slide: https://sal.vn/FJYvDw
+* Ref: https://sal.vn/qlsyGE
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:

@@ -38,7 +38,8 @@ Do the work step by step as follows:
     https://sal.vn/XscfSi
     And send the trainer review, approved, then notify the trainer to issue redmine (to import tasks instead of using sheet files)
     After breaking tasks on redmine, send trainer review, if approved, trainer will provide github repo for you
-    redmine guide: https://sal.vn/HxFYmR
+    
+    Redmine guide: https://sal.vn/JeaPe6
 4. After receiving the github repo, proceed to create a pull init project including:
     - Template pull request
     - Install CI

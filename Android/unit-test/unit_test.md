@@ -7,7 +7,7 @@
  1 ngày
 
 ## 3. Unit Test mindset
-1. Document link: https://sal.vn/uW6mSX
+1. Document link: https://sal.vn/aS0fIV
 2. Link test: http://training.sun-asterisk.vn/
 
 ## 4. Viết Unit Test cho Project 1
@@ -15,4 +15,3 @@
     Chụp ảnh coverage như [hình](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/CastDetailCoverage.png) và gửi lên cùng pull request, gửi trainer review
 2. Link tham khảo thêm:
     https://sal.vn/soG2c9
-    https://sal.vn/Q0uuwa

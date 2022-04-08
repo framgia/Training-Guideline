@@ -5,7 +5,7 @@
 - Understand and apply advanced knowledge of Android
 
 ## 2. Training Time
-5 working days (max 7 days)
+6 working days
 
 ## 3. Requiring Knowledge
 1. Display Image Libraries
@@ -17,7 +17,7 @@
 7. Android Archiectecture Components
 
 ## 4. Document Link
-* Slides: https://sal.vn/aoT34d
+* Slides: https://sal.vn/HbrROa
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 

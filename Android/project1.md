@@ -38,7 +38,7 @@ Thực hiện công việc theo từng bước như sau:
    Và gửi trainer review, được duyệt thì thông báo để trainer cấp redmine (để import tasks vào thay vì dùng file sheet)
    Breaks tasks trên redmine xong thì gửi trainer review, nếu được duyệt trainer sẽ cung cấp repo github cho các bạn
    
-   HDSD redmine: https://sal.vn/HxFYmR
+   HDSD redmine: https://sal.vn/JeaPe6
 4. Sau khi nhận repo github thì tiến hành tạo pull init project gồm:
   - Template pull request
   - Cài đặt CI
