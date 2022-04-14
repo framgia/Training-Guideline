@@ -1,15 +1,17 @@
 # Training-Guideline
 
 ### I. Ruby
-1. Ruby: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.en.md)
+1. Setup: [Vietnamese](https://docs.google.com/document/d/1AmASGK2ElxtXEKSh0ZFIBneZuVxtd6_1ofoYAauTicM/edit#)
 
-2. Rails: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial_en.md)
+2. Ruby: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Ruby/ruby.en.md)
 
-3. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1_en.md)
+3. Rails: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rails_tutorial_en.md)
 
-4. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2_en.md)
+4. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/project1_en.md)
 
-5. Rspec: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec_en.md)
+5. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/project2_en.md)
+
+6. Rspec: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec_en.md)
 
 ### II. PHP
 1. PHP: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.md), [English](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.en.md)
