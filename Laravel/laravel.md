@@ -42,7 +42,7 @@
 * Ebook: https://goo.gl/hft96o
 
 ## 5. Hướng dẫn thực hiện Laravel Quicktask
-- Tiến hành làm Laravel Quick task theo [hướng dẫn](https://docs.google.com/document/d/18s2S7JGEvhCUbITNnK5J0veaC5C2Oc1SzKr66Hi0a3o/edit) **(BỎ QUA BƯỚC 3)** 
+- Tiến hành làm Laravel Quick task theo [hướng dẫn](https://docs.google.com/document/d/1kHcZpufGJZrFWWmg_qAuTb3gahDzX14nnO-Cy43HsqQ/edit)
 - Thiết lập hệ thống pull request tracking (PRTS) như mục 6.
 - Tạo pull và làm theo [hướng dẫn](https://docs.google.com/spreadsheets/d/19JV30O_0BoQLmJWvrGqhnrAPvgiqrAUf_f0Dtx9bBQI/edit#gid=0), kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
 Tham khảo: https://laravel.com/docs/5.2/quickstart
