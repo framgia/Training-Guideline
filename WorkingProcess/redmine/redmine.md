@@ -13,7 +13,7 @@
 ### III. Hướng dẫn luồng chuyển đổi trạng thái của ticket (Status Flow)
 - NEW : QA/Dev/BrSE/Leader tạo ticket. Có thể assignee hoặc không
 - IN PROGRESS : Dev bắt tay vào làm
-- REVIEWING : Dev đã đẩy pull request (PR) và đang chờ leader review (% Done = 90%). Gắn link github vào trường "Pull request links"
+- REVIEWING : Dev đã đẩy pull request (PR) và đang chờ leader review (% Done = 90%), cập nhật log SP. Gắn link github vào trường "Pull request links"
 - APPROVED : PR của dev đã được merged và đang đợi deploy. Assign ticket qua cho leader
 - RESOLVED : Ticket đã được deploy và sẵn sàng chờ QA test
 - TESTING : QA test ticket
