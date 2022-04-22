@@ -47,7 +47,7 @@ Các bạn sử dụng hệ thống reviewboard để anh chị review code trư
 
 - Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
 - Cài đặt theo hướng dẫn: https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit
-- Báo trainer add vào box chatwork review pull request
+- Báo trainer add vào box slack review pull request
 
 Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bước sau:
 - Khi tạo pull xong thì comment đầu tiên vào pull là pull này thực hiện chức năng gì
@@ -184,7 +184,7 @@ Host: http://training.sun-asterisk.vn
 
 Account: Các bạn tự tạo bằng mail đăng ký với HR
 
-Lưu ý: Đặt tên giống với chatwork
+Lưu ý: Đặt tên giống với Slack
 ```
 Ví dụ:
   Họ và tên: Nguyễn Văn A
