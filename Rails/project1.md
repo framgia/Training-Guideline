@@ -7,7 +7,7 @@
 1 ~ 3 người
 #### Chủ đề tham khảo:
 
-https://docs.google.com/spreadsheets/d/1TjPuQu7fe6CxDWmlttp0LTjQs8nw7Equ/edit#gid=940143881
+https://docs.google.com/spreadsheets/d/10tnz0Ysc8xc5l2puueqBovz8VTUGjC2-EffugM48EDs/edit#gid=0
 
 #### Mô hình áp dụng:
 Scrum
@@ -54,8 +54,7 @@ Scrum
 
 Các bạn focus vào các kĩ thuật Must và Should trong đây, vào buổi demo project trainer sẽ hỏi các bạn về các kĩ thuật này
 
-https://docs.google.com/spreadsheets/u/1/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChFow3YePk/edit#gid=0
-
+https://docs.google.com/spreadsheets/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChFow3YePk/edit#gid=972136743
 
 ## 2. Các bước thực hiện
 Thực hiện công việc theo từng bước như sau:
