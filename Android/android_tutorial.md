@@ -29,7 +29,7 @@
 ## 4. Link tài liệu:
 * Document: https://developer.android.com/guide
 * Book: https://sal.vn/k75BJZ
-* Slide: https://sal.vn/xjt9NA
+* Slide: https://sal.vn/61GmP7
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:
