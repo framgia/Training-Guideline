@@ -29,7 +29,7 @@
 ## 4. Document Link
 * Document: https://developer.android.com/guide
 * Book: https://sal.vn/k75BJZ
-* Slide: https://sal.vn/xjt9NA
+* Slide: https://sal.vn/61GmP7
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 
