@@ -5,7 +5,7 @@
 - Hiểu và áp dụng được các kiến thức nâng cao của IOS
 
 ## 2. Thời gian học:
-2 ngày (Tối đa 7 ngày nếu trễ tiến độ)
+4 ngày (Tối đa 7 ngày nếu trễ tiến độ)
 
 ## 3. Các kiến thức cơ bản cần nắm được:
 1. [SDWebImage](https://sal.vn/tzLnWJ), [Kingfisher](https://sal.vn/QvXZ6A)
