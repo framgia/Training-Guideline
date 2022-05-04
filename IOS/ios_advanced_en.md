@@ -5,7 +5,7 @@
 - Understand and apply advanced knowledge of IOS
 
 ## 2. Training Time
-2 working days (max 7 days)
+4 working days (max 7 days)
 
 ## 3. Requiring Knowledge
 1. [SDWebImage](https://sal.vn/tzLnWJ), [Kingfisher](https://sal.vn/QvXZ6A)
