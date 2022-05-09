@@ -7,7 +7,7 @@
 1 ~ 3 người
 #### Chủ đề tham khảo:
 
-https://docs.google.com/spreadsheets/d/10tnz0Ysc8xc5l2puueqBovz8VTUGjC2-EffugM48EDs/edit#gid=0
+https://docs.google.com/spreadsheets/d/10tnz0Ysc8xc5l2puueqBovz8VTUGjC2-EffugM48EDs/edit?usp=sharing
 
 #### Mô hình áp dụng:
 Scrum
