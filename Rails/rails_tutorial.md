@@ -18,7 +18,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 - Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link: https://drive.google.com/drive/folders/1y6xUxiFsuI3Qyx53yajYUcvRDJINPpUN
 - Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
 
-Nội dung cần nắm sau mỗi chương [link](https://docs.google.com/spreadsheets/d/1S306g-Z6DWjkaJyMEkoZUJXZrdB5iLpVopARi9AdO4M/edit?usp=sharing)
+- Nội dung cần tự học và trả lời sau mỗi chương: [Link](https://docs.google.com/spreadsheets/d/1S306g-Z6DWjkaJyMEkoZUJXZrdB5iLpVopARi9AdO4M/edit?usp=sharing)
 
 - [Slide]
 https://drive.google.com/drive/folders/1FZOQ4Zs4AqwAuI-80Qe22Kq10MPE_9xO
