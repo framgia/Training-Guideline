@@ -15,7 +15,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 9 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 15 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-- Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link: https://drive.google.com/drive/folders/1y6xUxiFsuI3Qyx53yajYUcvRDJINPpUN
+- Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link (Bỏ phần Test, k đẩy lên git phần test): https://drive.google.com/drive/folders/1y6xUxiFsuI3Qyx53yajYUcvRDJINPpUN
 - Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
 
 - Nội dung cần tự học và trả lời sau mỗi chương: [Link](https://docs.google.com/spreadsheets/d/1S306g-Z6DWjkaJyMEkoZUJXZrdB5iLpVopARi9AdO4M/edit?usp=sharing)
