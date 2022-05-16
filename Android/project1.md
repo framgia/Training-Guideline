@@ -4,9 +4,9 @@
 #### Thời gian thực hiện:
 10 ngày (Tối đa 20 ngày nếu đi part time)
 #### Số lượng thành viên trong team:
-1 ~ 3 người
+1 ~ 2 người
 #### Chủ đề tham khảo:
-// TODO udpate link late
+// TODO udpate link later
 
 #### Coding convention
 https://sal.vn/8yo1Eq

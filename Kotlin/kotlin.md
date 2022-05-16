@@ -9,7 +9,7 @@ Vào cuối khóa học này, học viên sẽ có thể:
   - Hiểu được những điểm đặc trưng và khác biệt của Kotlin và những ngôn ngữ lập trình hướng đối tượng khác, đặc biệt là Java.
 
 ## 2. Thời gian học:
-3 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 5 ngày liên tiếp tính từ ngày bắt đầu)
+1.5 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 3 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Kotlin theo link: 

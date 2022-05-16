@@ -6,7 +6,7 @@
 - Apply Sun* GIT flow.
 
 ## 2. Training Time
-8 working days
+6 working days (Max 10 working days)
 
 ## 3. Requiring Knowledge
 1. Android Architecture
