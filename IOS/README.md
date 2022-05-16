@@ -1,12 +1,12 @@
 # Master plan - IOS training
 
-## I. Language - 3 days
-#### 1. Swift: 2 days
+## I. Swift Language - 2 days
+#### 1. Swift: 1.5 days
 [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Swift/swift.md) | [English](https://github.com/framgia/Training-Guideline/blob/master/Swift/swift.en.md)
 #### 2. Clean Code: 0.5 day
 [Vietnamese](https://github.com/awesome-academy/clean-code/blob/develop/README_SWIFT.md)
 
-#### 3. Presentation: 0.5 day
+#### 3. Presentation:
 - Prepare slide & present in 30 minutes
 
 ## II. IOS Tutorial - 10 days
@@ -15,7 +15,7 @@
 - Prepare slide & present in 60 minutes
 
 ## III. Scrum: 1 days
-[]()
+[English](https://drive.google.com/drive/u/0/folders/1me4EBVKnvrR_IYonvfZDf6S8Msgit3jk)
 
 ## IV. Project 1: 10 days
 [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project1.md) | [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project1_en.md)
@@ -29,7 +29,7 @@
 ## VI. Project 2: 7 days
 [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2.md) | [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2_en.md)
 
-## VII. Optional
+## VII. Optional:
 - Localization
 - Realm
 - Codable

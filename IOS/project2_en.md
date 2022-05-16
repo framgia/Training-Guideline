@@ -2,7 +2,7 @@
 
 ## The information and steps to implement project 2 are similar to project 1 apart from having some other points as follows:
 #### Execution time:
-8 working days 
+7 working days 
 
 #### List of projects you can refer to:
 // TODO update link late
