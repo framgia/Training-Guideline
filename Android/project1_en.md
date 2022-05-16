@@ -2,12 +2,12 @@
 
 ## 1. General Information
 #### Execution time:
-10 working days
+10 working days (Maximum 20 working days)
 #### Team size
-1 ~ 3 people
+1 ~ 2 people
 
 #### Reference topics:
-// TODO udpate link late
+// TODO udpate link later
 
 #### Coding convention
 https://sal.vn/8yo1Eq

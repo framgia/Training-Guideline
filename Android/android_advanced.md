@@ -5,7 +5,7 @@
 - Hiểu và áp dụng được các kiến thức nâng cao của Android
 
 ## 2. Thời gian học:
-6 ngày
+3 ngày
 
 ## 3. Các kiến thức cơ bản cần nắm được:
 1. Display Image Libraries

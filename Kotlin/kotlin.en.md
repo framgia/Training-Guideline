@@ -9,7 +9,7 @@
 
 ## 2. Training Time
 
-3 working days
+1.5 working days
 
 ## 3. Document Link
 

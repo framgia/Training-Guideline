@@ -6,7 +6,7 @@
 - Áp dụng Sun* GIT flow.
 
 ## 2. Thời gian học:
-8 ngày (Tối đa 10 ngày nếu trễ tiến độ)
+6 ngày (Tối đa 10 ngày nếu trễ tiến độ)
 
 ## 3. Các kiến thức cơ bản cần nắm được:
 1. Architecture của Android

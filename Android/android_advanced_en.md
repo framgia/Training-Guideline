@@ -5,7 +5,7 @@
 - Understand and apply advanced knowledge of Android
 
 ## 2. Training Time
-6 working days
+3 working days
 
 ## 3. Requiring Knowledge
 1. Display Image Libraries
