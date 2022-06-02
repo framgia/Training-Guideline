@@ -16,7 +16,7 @@ Vào cuối khóa học này, học viên sẽ có thể:
 - Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 - Slide: https://drive.google.com/drive/folders/1huh3q6GfFRN-UcJDm5N6ZGnbo9ePMXjY
 - Ngoài ra, Các bạn đọc tài liệu Ruby theo link: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
-
+- Videos: https://drive.google.com/drive/folders/1c_SqIyhyCBzxnqO1z1_YZnNJHF5qTTPG 
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
