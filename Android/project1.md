@@ -33,7 +33,7 @@ Thực hiện công việc theo từng bước như sau:
 2. Nếu được trainer duyệt thì design prototype trên:
    https://www.figma.com
    sau đó gửi trainer review, được duyệt thì chuyển sang bước 3
-3. Breaks tasks như temaplate trên, nhớ sắp xếp theo độ ưu tiên, mỗi task nhỏ hơn 4h
+3. Breaks tasks như template trên, nhớ sắp xếp theo độ ưu tiên, mỗi task nhỏ hơn 4h
    https://sal.vn/XscfSi
    Và gửi trainer review, được duyệt thì thông báo để trainer cấp redmine (để import tasks vào thay vì dùng file sheet)
    Breaks tasks trên redmine xong thì gửi trainer review, nếu được duyệt trainer sẽ cung cấp repo github cho các bạn
