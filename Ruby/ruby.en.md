@@ -6,8 +6,6 @@
    - Apply Ruby language to specific problems
    - Understand the characteristics and differences of Ruby and other object-oriented programming languages.
 
-## 2. Training Time
-3 days (Includes Lectures, individual self-review and perform exam)
 
 ## 3. Document Link
 
