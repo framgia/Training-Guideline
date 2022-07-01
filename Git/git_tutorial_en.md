@@ -7,7 +7,6 @@
 - Working with GitHub
 
 ## 2. Training time:
-3 days (Includes Lectures, individual self-review and perform exam)
 
 ## 3. Document link:
 [Slide]
