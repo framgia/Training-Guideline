@@ -19,6 +19,49 @@
 
 ## 4. Practices
 ##### Practice 1: Array
+arr = [1, 2, 3, 4, 5]
+
+- Print all the elements with format:
+```
+Output:
+print 1
+print 2                                              
+print 3                                              
+print 4                                              
+print 5
+```
+- Count the number of elements in the array
+```
+Output: 5
+```
+- Add the number 6 to the array
+```
+Output: arr = [1, 2, 3, 4, 5, 6]
+```
+- Remove 1 from the array
+```
+Output: arr = [2, 3, 4, 5, 6]
+```
+- Get the element at the 3rd position
+```
+Output: 5
+```
+- Get the element at the last position
+```
+Output: 6
+```
+- Get the first 3 elements
+```
+Output: [2, 3, 4]
+```
+- Check if array contains 10?
+```
+Output: false
+```
+- Sum the elements in the array:
+```
+Output: 20
+```
 ##### Practice 2: Hash
 ##### Practice 3: String
 ##### Practice 4: Number
