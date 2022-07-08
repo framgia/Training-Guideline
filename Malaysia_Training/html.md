@@ -3,6 +3,7 @@
 ## 1. Goal
 - Know-how to create a basic website
 - Development tool
+- Basic syntax of HTML
 - The structure of a Web site
 - Working with tags: Lists, Links, Images, Tables, Text
 - Working with HTML attributes
