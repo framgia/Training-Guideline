@@ -1,15 +1,17 @@
 # HTML Guideline
 
 ## 1. Goal
-
-
+- Know-how to create a basic website
+- Development tool
+- The structure of a Web site
+- Working with tags: Lists, Links, Images, Tables, Text
+- Working with HTML attributes
 
 ## 3. Document Link
+- Reference: https://html.com/#HTML_for_Absolute_Beginners
+- Slide:
 
-
-## 4. Practices (nếu có)
-
-## 5. Test Link
+## 4. Test Link
 
 Host: http://training.sun-asterisk.vn
 
