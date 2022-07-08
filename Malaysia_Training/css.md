@@ -1,15 +1,16 @@
 # CSS Guideline
 
 ## 1. Goal
+- Basic syntax of CSS
+- CSS selectors and its type
+- Common CSS properties
 
 
+## 2. Document Link
+ - Reference: https://www.w3schools.com/css/
+ - Slide: 
 
-## 3. Document Link
-
-
-## 4. Practices (nếu có)
-
-## 5. Test Link
+## 3. Test Link
 
 Host: http://training.sun-asterisk.vn
 
