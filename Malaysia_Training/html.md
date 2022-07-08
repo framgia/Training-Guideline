@@ -7,11 +7,11 @@
 - Working with tags: Lists, Links, Images, Tables, Text
 - Working with HTML attributes
 
-## 3. Document Link
-- Reference: https://html.com/#HTML_for_Absolute_Beginners
+## 2. Document Link
+- Reference: https://www.w3schools.com/html/
 - Slide:
 
-## 4. Test Link
+## 3. Test Link
 
 Host: http://training.sun-asterisk.vn
 
