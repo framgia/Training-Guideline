@@ -9,10 +9,11 @@ Django là một web framework high-level Python mã nguồn mở và miễn ph�
 
 ## 2. Thời gian học:
 8 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
-đọc và làm theo [link này](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ part 2 trở đi phải gửi pull request sau mỗi part
+
+Bạn **tìm hiểu và làm theo tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ **part 2** trở đi phải gửi pull request sau mỗi part
 
 ## 3. Link tài liệu:
-  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/12GvbMfFLsocHPLvHVwMQgbOUIfYaxeO0?usp=sharing)
+  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/1EZqU_ZDROkBjO8rg3luFy0S41mbFxksZ?usp=sharing)
 
 ## 4. Thiết lập gửi pull request
 - Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit
