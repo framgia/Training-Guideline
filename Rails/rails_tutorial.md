@@ -47,7 +47,7 @@ Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo 
 Các bạn sử dụng hệ thống reviewboard để anh chị review code trước khi được merged vào master. Các bạn cài đặt hệ thống theo các bước dưới đây:
 
 - Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
-- Cài đặt theo hướng dẫn: https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit
+- Cài đặt theo hướng dẫn: [https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit](https://docs.google.com/document/d/1-4rqYPmGpDBkjvecVkjICYfdLFjw4pvxVTNYf3ebnMo/edit)
 - Báo trainer add vào box slack review pull request
 
 Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bước sau:
