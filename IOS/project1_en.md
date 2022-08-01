@@ -4,10 +4,10 @@
 #### Execution time:
 10 working days
 #### Team size
-1 ~ 3 people
+1 ~ 2 people
 
 #### Reference topics:
-// TODO update link late
+https://sal.vn/kinsDW
 
 #### Coding convention
 https://sal.vn/fGVGFE

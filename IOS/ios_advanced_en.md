@@ -8,14 +8,13 @@
 4 working days (max 7 days)
 
 ## 3. Requiring Knowledge
-1. [SDWebImage](https://sal.vn/tzLnWJ), [Kingfisher](https://sal.vn/QvXZ6A)
-2. [Alamofire](https://sal.vn/dhcPKg), [ObjectMapper](https://sal.vn/CcktQ8)
-3. [RxSwift](https://sal.vn/gHaiVj), [RxCocoa](https://sal.vn/ooB9Sg) 
+1. SDWebImage, Kingfisher
+2. Alamofire, ObjectMapper
+3. RxSwift, RxCocoa 
 4. MVVM pattern
      
 ## 4. Document Link
-* Slide: https://sal.vn/ZYg3C7
-* Ref: https://sal.vn/o4tiuN
+* Slide: https://sal.vn/jQOpb2
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 
