@@ -5,7 +5,7 @@
 8 ngày (Tối đa 16 ngày nếu đi part time)
 
 #### Danh sách project có thể tham khảo
-// TODO udpate link late
+https://sal.vn/kinsDW
 
 #### Các kỹ thuật áp dụng trong project 2
 Ngoài các kỹ thuật cơ bản ở project 1 thì các bạn có thể áp dụng thêm:
@@ -13,7 +13,7 @@ Ngoài các kỹ thuật cơ bản ở project 1 thì các bạn có thể áp d
 2. Custom View
 3. Retrofit, Gson, ...
 4. Coroutine
-5. Dagger, Koin, ...
+5. Koin/ Dagger ...
 6. Rx
 7. Archiecture Component: 
    Room

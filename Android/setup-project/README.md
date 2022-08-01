@@ -59,6 +59,10 @@ Follow this link to get the source of library and the lastest version of ktlint:
    chmod +x gradlew
    ```
 
-## 4.Review
+## 4.Install Sun*CI
+1. Create file .sun-ci.yml in root
+2. Copy content of [file](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/.sun-ci.yml) into recent created file
+
+## 5.Review
 1. Add changes and create pull request
 2. Send to Trainers review

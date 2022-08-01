@@ -13,11 +13,11 @@
 
 ## 3. Document Link
 
-- Book: https://sal.vn/ZHOSVZ
+- Book: https://sal.vn/JIJV2P
 
 - Website: https://kotlinlang.org/docs/home.html
 
-- Slide: https://sal.vn/lkwSgr
+- Slide: https://sal.vn/1R8h1a
 
 ## 4. Test Link
 

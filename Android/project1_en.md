@@ -7,10 +7,10 @@
 1 ~ 2 people
 
 #### Reference topics:
-// TODO udpate link later
+https://sal.vn/kinsDW
 
 #### Coding convention
-https://sal.vn/8yo1Eq
+https://github.com/framgia/coding-standards/blob/master/eng/android/coding_convention_android_kotlin.md
 
 #### Techniques apply
 1. Android Architecture
@@ -35,15 +35,15 @@ Do the work step by step as follows:
    https://www.figma.com
    then send the trainer for review, if approved, go to step 3
 3. Breaks tasks like the above template, remember to arrange by priority, each task is less than 4h
-    https://sal.vn/XscfSi
+    https://sal.vn/trhiVs
     And send the trainer review, approved, then notify the trainer to issue redmine (to import tasks instead of using sheet files)
     After breaking tasks on redmine, send trainer review, if approved, trainer will provide github repo for you
     
     Redmine guide: https://sal.vn/JeaPe6
 4. After receiving the github repo, proceed to create a pull init project including:
     - Template pull request
-    - Install CI
     - File .gitignore
+    - Install Sun*CI
     on [here](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project)
 5. After being approved merged pull init, create the next pull request and send it to the trainer for review
 
