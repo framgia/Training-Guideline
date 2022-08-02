@@ -50,7 +50,7 @@ http://rspec.info/<br>
 ### 2. Document
 [Slide]:
 Rspec: 
-https://drive.google.com/drive/folders/1pmGs9YK6ScWkM0jXTapcwGGdnSdbQrd1
+https://drive.google.com/drive/folders/1u-FJAACSAZlEbhCX9hpzQX7OIGlFK6_K
 
 [Book]: 
 https://drive.google.com/drive/folders/1_v-mZJjWj-RFDr_nEl5Mq6nqGsjoeu84
