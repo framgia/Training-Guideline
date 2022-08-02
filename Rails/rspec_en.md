@@ -10,7 +10,7 @@ https://relishapp.com/rspec
 <br>
 http://www.relishapp.com/rspec/rspec-expectations/v/3-2/docs/built-in-matchers/type-matchers
 <br>
-Link Slide: https://drive.google.com/drive/folders/1pmGs9YK6ScWkM0jXTapcwGGdnSdbQrd1
+Link Slide: https://drive.google.com/drive/folders/1u-FJAACSAZlEbhCX9hpzQX7OIGlFK6_K
 
 ### 3. Test style guide
 [Vietnamese version](https://github.com/framgia/coding-standards/blob/master/vn/rails/test.md)
