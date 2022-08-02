@@ -7,7 +7,9 @@
 ## 2. Training Time
 8 days (Maximum: 10 days)
 
-Including: 5 days of self-study -> 1st review -> 3 days of doing Quicktask -> 2nd review
+**Process:**
+- Research and practice quicktask according to the following guideline at step 5.
+- Demo and review at the end of this module.
 
 ## 3. Basic knowledge:
 1. Init project, Directory Structure
