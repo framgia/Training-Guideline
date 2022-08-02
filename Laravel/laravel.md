@@ -44,7 +44,7 @@
 ## 5. Hướng dẫn thực hiện Laravel Quicktask
 - Tiến hành làm Laravel Quick task theo [hướng dẫn](https://docs.google.com/document/d/1kHcZpufGJZrFWWmg_qAuTb3gahDzX14nnO-Cy43HsqQ/edit)
 - Thiết lập hệ thống pull request tracking (PRTS) như mục 6.
-- Tạo pull và làm theo [hướng dẫn](https://docs.google.com/spreadsheets/d/19JV30O_0BoQLmJWvrGqhnrAPvgiqrAUf_f0Dtx9bBQI/edit#gid=0), kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
+- Tạo pull và làm theo [hướng dẫn](https://docs.google.com/spreadsheets/d/1POKcNBR3cjQpOdl444ZU2B3WlOzZr2Ml/edit?usp=sharing&ouid=110804383788796312369&rtpof=true&sd=true), kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
 Tham khảo: https://laravel.com/docs/5.2/quickstart
 - Đọc trước file [convention của công ty](https://github.com/framgia/coding-standards/blob/master/vn/README.md#php) để code đúng chuẩn hơn.
 - Nếu  dùng sublime text có thể config theo đoạn code sau giúp việc kiểm soát convention của công ty, bằng cách:
@@ -80,7 +80,7 @@ Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau và
 }
 ```
 ## 6. Thiết lập hệ thống pull request tracking (PRTS) vào repo github của project
-Các bạn truy cập url này: http://prts.sun-asterisk.vn đăng nhập qua Github, rồi làm theo hướng dẫn ở mục [User Guide](https://docs.google.com/document/d/10Cs0LPEYzvvySM1fFZmlZAP9bcdu9TDFDT0F4EBaZYU/edit)
+Các bạn truy cập url này: http://prts.sun-asterisk.vn đăng nhập qua Github, rồi làm theo hướng dẫn ở mục [User Guide](https://docs.google.com/document/d/1-4rqYPmGpDBkjvecVkjICYfdLFjw4pvxVTNYf3ebnMo/edit)
 
 - Cập nhật ngôn ngữ training tương ứng của mình (ví dụ: Ruby, PHP, ...)
 - Chọn box chatwork để nhận các thông báo review pull theo hướng dẫn của trainer khi add các bạn vào box. 
