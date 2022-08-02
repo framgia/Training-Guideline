@@ -5,7 +5,7 @@
 7 ngày (Tối đa 14 ngày nếu đi part time)
 
 #### Danh sách project có thể tham khảo
-// TODO update link late
+https://sal.vn/kinsDW
 
 #### Các kỹ thuật áp dụng trong project 2
 Ngoài các kỹ thuật cơ bản ở project 1 thì các bạn có thể áp dụng thêm:

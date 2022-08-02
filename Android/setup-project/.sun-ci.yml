@@ -1,0 +1,39 @@
+workspace: true
+
+stages:
+  - ktlint
+
+jobs:
+  - name: Ktlint checking
+    stage: ktlint
+    image: androidsdk/android-30:latest
+    cache:
+      - key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
+        paths:
+          - ./gradle
+    before_script:
+      - chmod +x ./gradlew
+      - echo "failed (pray)(sweat);(" > .build_status
+      - echo "(devil)" > .build_icon
+    script:
+      - ./gradlew ktlintCheck --daemon
+      - status1=$?
+      - if [[ "$status1" = 0 ]] ; then
+      - echo "*******************************************************"
+      - echo "             Ktlint runs successfully                  " > .build_status
+      - echo "                    (handshake)                        " > .build_icon
+      - echo "*******************************************************"
+      - else
+      - echo "*******************************************************"
+      - echo "                 Ktlint failed                         "
+      - echo "     Please fix the reported issues before commit.     "
+      - echo "*******************************************************"
+      - exit status1
+      - fi
+    only:
+      branches:
+        - develop
+        - main
+        - master
+      events:
+        - pull_request

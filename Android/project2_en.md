@@ -5,7 +5,7 @@
 8 working days 
 
 #### List of projects you can refer to:
-// TODO udpate link late
+https://sal.vn/kinsDW
 
 #### Techniques applied in project 2
 In addition to the basic techniques in project 1, you can also apply:
@@ -13,7 +13,7 @@ In addition to the basic techniques in project 1, you can also apply:
 2. Custom View
 3. Retrofit, Gson, ...
 4. Coroutine
-5. Dagger, Koin, ...
+5. Koin/ Dagger, ...
 6. Rx
 7. Architecture Component:
     Room

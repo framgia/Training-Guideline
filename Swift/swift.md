@@ -7,18 +7,19 @@ Vào cuối khóa học này, học viên sẽ có thể:
   - Có thể nhận biết được cú pháp của ngôn ngữ Swift.
   - Có thể vận dụng ngôn ngữ Swift vào những bài toán cụ thể.
   - Hiểu được những điểm đặc trưng và khác biệt của Swift và những ngôn ngữ lập trình hướng đối tượng khác.
+  - Hiểu & áp dụng lập trình hướng đối tượng (OOP) với Swift
 
 ## 2. Thời gian học:
 1,5 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 3 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Swift theo link: 
-- Book: https://sal.vn/iljIAx
+- Book: https://sal.vn/fHS1cE
 
 - Website: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://sal.vn/EfQoeF
+- Slide: https://sal.vn/MGaXDP
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
@@ -34,4 +35,8 @@ Ví dụ:
   Văn Phòng: Hà Nội
   Tên tài khoản: [HN_OE03_IOS]Nguyen Van A
 ```
+
+## 5. Ref:
+- https://fxstudio.dev/lap-trinh-huong-doi-tuong-oop-voi-swift/ 
+
 ### Happy coding!!!

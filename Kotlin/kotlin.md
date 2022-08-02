@@ -13,12 +13,12 @@ Vào cuối khóa học này, học viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Kotlin theo link: 
-- Book: https://sal.vn/ZHOSVZ
+- Book:  https://sal.vn/JIJV2P
 
 - Website: https://kotlinlang.org/docs/home.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://sal.vn/lkwSgr
+- Slide: https://sal.vn/1R8h1a 
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn

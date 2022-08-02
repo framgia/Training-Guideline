@@ -6,10 +6,10 @@
 #### Số lượng thành viên trong team:
 1 ~ 2 người
 #### Chủ đề tham khảo:
-// TODO udpate link later
+https://sal.vn/kinsDW
 
 #### Coding convention
-https://sal.vn/8yo1Eq
+https://github.com/framgia/coding-standards/blob/master/vn/android/coding_convention_android_kotlin.md
 
 #### Các kỹ thuật áp dụng trong project 1
 1. Android Architecture
@@ -34,15 +34,15 @@ Thực hiện công việc theo từng bước như sau:
    https://www.figma.com
    sau đó gửi trainer review, được duyệt thì chuyển sang bước 3
 3. Breaks tasks như template trên, nhớ sắp xếp theo độ ưu tiên, mỗi task nhỏ hơn 4h
-   https://sal.vn/XscfSi
+   https://sal.vn/trhiVs
    Và gửi trainer review, được duyệt thì thông báo để trainer cấp redmine (để import tasks vào thay vì dùng file sheet)
    Breaks tasks trên redmine xong thì gửi trainer review, nếu được duyệt trainer sẽ cung cấp repo github cho các bạn
    
    HDSD redmine: https://sal.vn/JeaPe6
 4. Sau khi nhận repo github thì tiến hành tạo pull init project gồm:
   - Template pull request
-  - Cài đặt CI
   - File .gitignore
+  - Cài đặt Sun*CI
   ở [đây](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project)
 5. Sau khi được approve merged pull init thì tạo các pull request tiếp theo và gửi lên để trainer review
 
