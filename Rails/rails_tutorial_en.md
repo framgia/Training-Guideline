@@ -21,7 +21,7 @@ From 10/8/2021 to 10/9/2021
 - [Book] https://drive.google.com/drive/folders/1y6xUxiFsuI3Qyx53yajYUcvRDJINPpUN
 
 - [Slides]
-https://drive.google.com/drive/folders/1FZOQ4Zs4AqwAuI-80Qe22Kq10MPE_9xO
+https://drive.google.com/drive/folders/1emu0CkbO0nSORHrJL6isgljCIugixa9s
 
 - [Videos]
 https://link.sun-asterisk.vn/6FW345
