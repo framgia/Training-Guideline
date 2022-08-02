@@ -2,4 +2,4 @@
 5 days (Maximum: 7 days)
 
 ## 2. Document Link:
-https://drive.google.com/drive/folders/1HJJ_khkR8mKe8lnJD3CXtOaTfuOoaGka?usp=sharing
+Slides: https://drive.google.com/drive/u/0/folders/1Y3rUEkCK3MpUBPUOgeDX-FeaaXIO021q
