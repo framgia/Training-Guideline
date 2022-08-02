@@ -14,7 +14,7 @@ Vào cuối khóa học này, học viên sẽ có thể:
 ## 3. Link tài liệu:
 
 - Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
-- Slide: https://drive.google.com/drive/folders/1huh3q6GfFRN-UcJDm5N6ZGnbo9ePMXjY
+- Slide: https://drive.google.com/drive/folders/1Rq6AWaMHpN-7oEWfUFyZWzPVliyKsohN
 - Ngoài ra, Các bạn đọc tài liệu Ruby theo link: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 - Videos: https://drive.google.com/drive/folders/1c_SqIyhyCBzxnqO1z1_YZnNJHF5qTTPG 
 
