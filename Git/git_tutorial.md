@@ -34,7 +34,10 @@ Host: http://training.sun-asterisk.vn
 
 Account: Sử dụng mail công ty (nếu có) hoặc mail cá nhân đăng ký với HR để đăng ký account
 
-Lưu ý: Đặt tên giống với chatwork
+Lưu ý: 
+- Đặt tên giống với slack
+- Nhập Slack ID: Là Slack ID của bạn trong workspace TIV
+- Nhập Room Slack ID: Là slack ID của channel training tương ứng với từng ngôn ngữ
 ```
 Ví dụ:
   Họ và tên: Nguyễn Văn A
