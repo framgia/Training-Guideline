@@ -18,7 +18,9 @@ Host: http://training.sun-asterisk.vn
 
 Account: Use personal mail to register for an account
 
-NOTE:  You have to set an account similar to your Slack account
+NOTE:
+- You have to set an account similar to your Slack account
+- You must set Slack ID, and Slack Room ID before starting the exam
 
   `` For example:``
 
