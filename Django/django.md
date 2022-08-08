@@ -25,8 +25,8 @@ Bạn **tìm hiểu và làm theo tutorial trong** [**link này**](https://devel
 
 Các bạn sử dụng hệ thống Pull Request Tracking System (PRTS) để gửi và theo dõi review pull request. Thực hiện theo các bước dưới đây:
 - Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
-- Cài đặt theo hướng dẫn ở mục "User Guide": https://docs.google.com/document/d/1B3n86p8S2_slltZdNGgzMtu8OnTH6ua6VNrN6w_0-6I/edit?usp=sharing
-- Báo trainer add vào box chatwork review pull request
+- Cài đặt theo hướng dẫn ở mục "User Guide": https://docs.google.com/document/d/1-4rqYPmGpDBkjvecVkjICYfdLFjw4pvxVTNYf3ebnMo/edit?usp=sharing
+- Báo trainer add vào box Slack review pull request
 
 ## 5. Một số lưu ý trong quá trình làm tutorial:
 - Tuyệt đối không chờ đợi merged pull request part trước rồi mới làm part tiếp theo. Thay vào đó, các bạn checkout branch mới từ branch trước ra và làm tiếp, sau này sẽ rebase và fix conflict sau nếu có.
@@ -41,7 +41,7 @@ Kết thúc quá trình tutorial, sinh viên phải thực hiện bài test onli
   - Link: http://training.sun-asterisk.vn
   - Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
 
-Lưu ý: Đặt tên giống với chatwork
+Lưu ý: Đặt tên giống với Slack
 ```
 Ví dụ:
   Họ và tên: Nguyễn Văn A
