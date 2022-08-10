@@ -41,9 +41,17 @@ jobs:
       MYSQL_ROOT_PASSWORD: password_test
   before_script:
   - bundle _2.1.2_ install --path vendor/bundle # _2.1.4_ if ruby 2.7.1 or 3.0.2
+  - mkdir .sun-ci
   script:
-  - RAILS_ENV=test bundle exec rails db:drop db:create db:migrate
-  - bundle _2.1.2_ exec rspec # _2.1.4_ if ruby 2.7.1 or 3.0.2
+  - bundle _2.1.2_ exec rspec --format html --out .sun-ci/rspec.html spec/ # _2.1.4_ if ruby 2.7.1 or 3.0.2
+  only:
+    branches:
+    - master
+  artifacts:
+    name: rspec_report
+    paths:
+    - .sun-ci
+    expires_in: 3 days
 
 - name: test:rubocop
   stage: test
