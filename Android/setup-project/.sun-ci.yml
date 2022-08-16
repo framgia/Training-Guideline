@@ -35,4 +35,3 @@ jobs:
         - master
       events:
         - pull_request
-1
