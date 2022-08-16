@@ -1,12 +1,10 @@
-workspace: true
-
 stages:
-  - ktlint
+  - check
 
 jobs:
-  - name: Ktlint checking
-    stage: ktlint
-    image: androidsdk/android-30:latest
+  - name: detekt
+    stage: check
+    image: 30121999/sunci-detekt:latest
     cache:
       - key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
         paths:
@@ -16,16 +14,16 @@ jobs:
       - echo "failed (pray)(sweat);(" > .build_status
       - echo "(devil)" > .build_icon
     script:
-      - ./gradlew ktlintCheck --daemon
+      - java -jar /usr/local/bin/detekt-cli-all.jar --all-rules
       - status1=$?
       - if [[ "$status1" = 0 ]] ; then
       - echo "*******************************************************"
-      - echo "             Ktlint runs successfully                  " > .build_status
+      - echo "             Detekt runs successfully                  " > .build_status
       - echo "                    (handshake)                        " > .build_icon
       - echo "*******************************************************"
       - else
       - echo "*******************************************************"
-      - echo "                 Ktlint failed                         "
+      - echo "                 Detekt failed                         "
       - echo "     Please fix the reported issues before commit.     "
       - echo "*******************************************************"
       - exit status1
@@ -37,3 +35,4 @@ jobs:
         - master
       events:
         - pull_request
+1
