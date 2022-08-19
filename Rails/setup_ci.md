@@ -41,10 +41,10 @@ jobs:
       MYSQL_ROOT_PASSWORD: password_test
   before_script:
   - bundle _2.1.2_ install --path vendor/bundle # _2.1.4_ if ruby 2.7.1 or 3.0.2
+  - bundle _2.1.2_ exec rake db:drop db:create db:migrate 
   - mkdir .sun-ci
   script:
-  - bundle _2.1.2_ exec rails db:drop db:create db:migrate 
-  - bundle _2.1.2_ exec rspec --format html --out .sun-ci/rspec.html spec/ # _2.1.4_ if ruby 2.7.1 or 3.0.2
+  - DISABLE_SPRING=1 bundle _2.1.2_ exec rspec --format html --out .sun-ci/rspec.html spec/ # _2.1.4_ if ruby 2.7.1 or 3.0.2
   only:
     branches:
     - master
@@ -64,7 +64,7 @@ jobs:
 ```
 
 ## database-ci.yml
-nếu các bạn dùng mysql thì chỉ cần copy & paste đoạn code bên dưới :D
+nếu các bạn dùng mysql, copy & paste đoạn code bên dưới.
 ```ruby
 default: &default
   adapter: mysql2
