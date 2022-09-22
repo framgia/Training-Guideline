@@ -14,7 +14,7 @@
 4. MVVM pattern
 
 ## 4. Link tài liệu:
-* Slide: https://sal.vn/jQOpb2
+* Slide: https://sal.vn/0MGfZE
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:

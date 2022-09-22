@@ -4,9 +4,6 @@
 #### Execution time:
 7 working days 
 
-#### List of projects you can refer to:
-https://sal.vn/kinsDW
-
 #### Techniques applied in project 2
 In addition to the basic techniques in project 1, you can also apply:
 1. SDWebImage or Kingfisher

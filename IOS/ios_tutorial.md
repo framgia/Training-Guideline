@@ -20,12 +20,17 @@
 8. GCD, NSOperation
 9. Notification
 10. SQLite, Core Data
-      => Demo ứng dụng có chức năng get dữ liệu từ api sử dụng các kỹ thuật trên
+11. Common design patterns (Singleton, Delegate, Repository)
 
 ## 4. Link tài liệu:
 * Document: https://developer.apple.com/documentation/
-* Book: https://sal.vn/Nb8Zjf
-* Slide: https://sal.vn/DaLxrO
+* Book: https://sal.vn/dHeNTk
+* Slide: https://sal.vn/Ypj5Uk
+
+Lưu ý: làm các bài tập ở cuối slide số 3,4,7,8,11,12
+- Bài tập ở cuối slide 3,4,7,8 chung 1 repo github
+- Bài tập ở cuối slide 11,12 chung 1 repo github
+- 2 bài tập này sẽ demo ở buổi thuyết trình
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:
@@ -35,7 +40,7 @@ Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team
 * Bước 4: Chia sẻ kiến thức và nhận đánh giá.
 
 ## 6. Hướng dẫn gửi pull request
-Trong quá trình tutorial sẽ có 2 ứng dụng các bạn phải gửi pull request đó là: Calculator, Demo API. Các bước cơ bản gửi pull request như sau:
+Trong quá trình tutorial sẽ có 2 ứng dụng các bạn phải gửi pull request đó là: App Music, Demo API. Các bước cơ bản gửi pull request như sau:
 * Bước 1: Các bạn lên github cá nhân tạo một repo mới với gitignore là IOS. Sau đó clone về máy
 * Bước 2: Các bạn tạo init project trên folder vừa clone bằng Xcode và tạo pull request đầu tiên, gửi lên để các trainers và mọi người review, comment
 * Bước 3: Nếu có comment thì sửa pull request và gửi lại, nếu được approve hết từ mọi người thì tự merge, chuyển xuống bước 4
@@ -46,7 +51,7 @@ Host: http://training.sun-asterisk.vn
 
 Account: Các bạn tự tạo bằng mail đăng ký với HR
 
-Lưu ý: Đặt tên giống với chatwork
+Lưu ý: Đặt tên giống với slack
 ```
 Ví dụ:
   Họ và tên: Nguyễn Văn A

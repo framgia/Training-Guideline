@@ -7,8 +7,7 @@
  1 ngày
 
 ## 3. Unit Test mindset
-1. Document link: https://sal.vn/GYwpGm
-2. Link test: http://training.sun-asterisk.vn/
+1. Document link: https://sal.vn/kyLjfA
 
 ## 4. Viết Unit Test cho Project 1
 1. Ví dụ về Unit Test cơ bản cho một ViewController ở [đây](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/HomeViewControllerTest.swift)

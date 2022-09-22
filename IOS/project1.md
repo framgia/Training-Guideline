@@ -5,8 +5,6 @@
 10 ngày (Tối đa 20 ngày nếu đi part time)
 #### Số lượng thành viên trong team:
 1 ~ 2 người
-#### Chủ đề tham khảo:
-https://sal.vn/kinsDW
 
 #### Coding convention
 https://sal.vn/fGVGFE
