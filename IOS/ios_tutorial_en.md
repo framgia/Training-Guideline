@@ -20,12 +20,17 @@
 8. GCD, NSOperation
 9. Notification
 10. SQLite, Core Data
-      => Demo application with function to get data from api using above techniques
+11. Common design patterns (Singleton, Delegate, Repository)
      
 ## 4. Document Link
 * Document: https://developer.apple.com/documentation/
-* Book: https://sal.vn/Nb8Zjf
-* Slide: https://sal.vn/DaLxrO
+* Book: https://sal.vn/dHeNTk
+* Slide: https://sal.vn/Ypj5Uk
+
+Note: Do exercises at the end of slides no 3,4,7,8,11,12
+- Exercise in Slides no 3,4,7,8 push into one GitHub repository
+- Exercise in Slides no 11,12 push into one GitHub repository
+- These exercises will demo at the presentation
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 
@@ -35,7 +40,7 @@
 * Step 4: Present knowledge and get reviews.
 
 ## 6. Instructions for sending pull requests
-During the tutorial, there will be two applications you have to send pull requests: Calculator, Demo API. The basic steps to send a pull request are as follows:
+During the tutorial, there will be two applications you have to send pull requests: App Music, Demo API. The basic steps to send a pull request are as follows:
 * Step 1: Go to your personal github to create a new repo with gitignore as IOS. Then clone to your device
 * Step 2: You create init project on the folder just cloned with Xcode and create the first pull request, send it to trainers and everyone to review and comment
 * Step 3: If there is a comment, edit the pull request and resend it, if it is approved by everyone, merge it yourself, go to step 4
@@ -46,7 +51,7 @@ During the tutorial, there will be two applications you have to send pull reques
 
  Account: Use personal mail to register for an account
 
- NOTE:  You have to set an account similar to your Chatwork account
+ NOTE:  You have to set an account similar to your Slack account
  ```
  Ví dụ:
    Full name: Nguyen Van A

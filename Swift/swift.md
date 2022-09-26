@@ -14,12 +14,12 @@ Vào cuối khóa học này, học viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Swift theo link: 
-- Book: https://sal.vn/fHS1cE
+- Book: https://sal.vn/a2qCFZ
 
 - Website: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://sal.vn/MGaXDP
+- Slide: https://sal.vn/mxj2z4
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn

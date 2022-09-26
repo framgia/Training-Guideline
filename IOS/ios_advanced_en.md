@@ -14,7 +14,7 @@
 4. MVVM pattern
      
 ## 4. Document Link
-* Slide: https://sal.vn/jQOpb2
+* Slide: https://sal.vn/0MGfZE
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 

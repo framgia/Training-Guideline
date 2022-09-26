@@ -6,9 +6,6 @@
 #### Team size
 1 ~ 2 people
 
-#### Reference topics:
-https://sal.vn/kinsDW
-
 #### Coding convention
 https://sal.vn/fGVGFE
 

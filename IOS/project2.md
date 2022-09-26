@@ -4,9 +4,6 @@
 #### Thời gian thực hiện:
 7 ngày (Tối đa 14 ngày nếu đi part time)
 
-#### Danh sách project có thể tham khảo
-https://sal.vn/kinsDW
-
 #### Các kỹ thuật áp dụng trong project 2
 Ngoài các kỹ thuật cơ bản ở project 1 thì các bạn có thể áp dụng thêm:
 1. SDWebImage hoặc Kingfisher
