@@ -7,7 +7,7 @@
  1 ngày
 
 ## 3. Unit Test mindset
-1. Document link: https://sal.vn/aS0fIV
+1. Document link: https://sal.vn/kyLjfA
 2. Link test: http://training.sun-asterisk.vn/
 
 ## 4. Viết Unit Test cho Project 1
