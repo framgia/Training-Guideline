@@ -13,7 +13,6 @@
 2. UIViews (UIView, UIImageView,...), UIControl (UIButton, UI Picker,...)
 3. Container views (UISrcollView, UITableView, UICollectionView,...)
 4. AutoLayout
-    => Demo ứng dụng Calculator sử dụng các kỹ thuật trên (Máy tính bấm tay với các chức năng cơ bản +, -, *, / , ...)
 5. Vòng đời của ứng dụng, vòng đời của viewController
 6. UINavigationController, UITabarController
 7. JSON, NSURLSession
