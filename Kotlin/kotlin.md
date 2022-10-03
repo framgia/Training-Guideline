@@ -12,13 +12,13 @@ Vào cuối khóa học này, học viên sẽ có thể:
 1.5 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 3 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-Các bạn đọc tài liệu Kotlin theo link: 
-- Book:  https://sal.vn/JIJV2P
+Các bạn đọc tài liệu Kotlin theo link:
+- Book: https://sal.vn/3IwJ5E
 
 - Website: https://kotlinlang.org/docs/home.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://sal.vn/1R8h1a 
+- Slide: https://sal.vn/jtfcEo
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn

@@ -17,7 +17,7 @@
 7. Android Archiectecture Components
 
 ## 4. Document Link
-* Slides: https://sal.vn/Xv7f6I
+* Slides: https://sal.vn/nDbR7y
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 
