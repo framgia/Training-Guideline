@@ -13,7 +13,6 @@
 2. UIViews (UIView, UIImageView,...), UIControl (UIButton, UI Picker,...)
 3. Container views (UISrcollView, UITableView, UICollectionView,...)
 4. AutoLayout
-    => Implementing Calculator app using above techniques (calculator with +, -, *, / functions)
 5. Application Lifecycle, ViewController Lifecycle
 6. UINavigationController, UITabarController
 7. JSON, NSURLSession
