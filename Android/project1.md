@@ -20,11 +20,11 @@ https://github.com/framgia/coding-standards/blob/master/vn/android/coding_conven
 6. Drawable, Style, Theme
 7. RecyclerView
 8. Menu, pickers, user navigation
-9. AsyncTask
+9. Executor
 10. Internet connection
 11. Broadcast receiver
 12. Service
-13. MVP partern (bắt buộc)
+13. MVP partern (bắt buộc) [tham khảo](https://github.com/daolq-2712/Structure_Android/tree/mvp_kotlin)
 
 ## 2. Các bước thực hiện
 Thực hiện công việc theo từng bước như sau:

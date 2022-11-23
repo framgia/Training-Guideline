@@ -21,11 +21,11 @@ https://github.com/framgia/coding-standards/blob/master/eng/android/coding_conve
 6. Drawable, Style, Theme
 7. RecyclerView
 8. Menu, pickers, user navigation
-9. AsyncTask
+9. Executor
 10. Internet connection
 11. Broadcast receiver
 12. Service
-13. MVP partern
+13. MVP partern (require) [reference](https://github.com/daolq-2712/Structure_Android/tree/mvp_kotlin)
 
 ## 2. Steps to take:
 Do the work step by step as follows:
