@@ -29,10 +29,10 @@ Vào cuối phần này, sinh viên sẽ có thể:
 
 Bài tập thực hành cho phần Javascript Các bạn sẽ sử dụng lại template ở Project 1 để hoàn thành các yêu cầu sau:
 1. Sử dụng json-server https://github.com/typicode/json-server tạo api manage product
-2. Dùng ajax load các product hiển thị trên trang web
+2. Dùng ajax load các product hiển thị trên trang web, có thể filter, search
 3. Thực hiện chức năng add to cart, dữ liệu của cart có thể lưu vào localstorage thay vì session
 4. Thực hiện chức năng thanh toán yêu cầu chức năng thanh toán phải thực hiện tuần tự thông qua các step. Ví dụ: Thông tin giỏ hàng -> Thông tin thanh toán -> Xác nhận (Các step này các bạn có thể tự tìm hiểu các trang web bán hàng online để làm, phải có thanh process thể hiện tiến trình của quá trình thanh toán)
-5. Sau khi thanh toán xóa toàn bộ dữ liệu của cart
+5. Sau khi thanh toán xóa toàn bộ dữ liệu của cart, lưu data vào json
 
 ## Lưu ý
 Sử dụng quy tắc đặt tên class: 
