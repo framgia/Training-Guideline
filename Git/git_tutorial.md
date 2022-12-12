@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1KLGGdgAXjttnLdq1CJJ7STrTJRr_dVzW
 - http://chris.beams.io/posts/git-commit/
 
 [Video]
-- https://www.youtube.com/watch?v=OBCnmcgx4CE
+- [https://www.youtube.com/watch?v=OBCnmcgx4CE](https://drive.google.com/drive/folders/1xPgMFi6CA6CJq3m1CJBapIDomFOE_nCE)
 
 [Note]
 - Các bạn tạo account ở link [https://github.com/] để thực hành nhé
