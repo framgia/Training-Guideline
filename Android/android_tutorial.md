@@ -48,13 +48,13 @@ Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team
 
 ## 6. Hướng dẫn gửi pull request
 
-Trong quá trình tutorial sẽ có 3 ứng dụng các bạn phải gửi pull request đó là: Calculator, Music và MVP. Các bước cơ bản
+Trong quá trình tutorial sẽ có các ứng dụng các bạn phải gửi pull request (mỗi bài tập 1 PR). Các bước cơ bản
 gửi pull request như sau:
 
-* Bước 1: Các bạn lên github cá nhân tạo một repo mới với gitignore là Android. Sau đó clone về máy
-* Bước 2: Các bạn tạo init project trên folder vừa clone bằng Android Studio và tạo pull request đầu tiên, gửi lên để
+* Bước 1: Nhận github training từ trainer. Sau đó clone về máy
+* Bước 2: Với m bài tập các bạn checkout branch mới: exercise_xxx và tiến hành coding, gửi lên để
   các trainers và mọi người review, comment
-* Bước 3: Nếu có comment thì sửa pull request và gửi lại, nếu được approve hết từ mọi người thì tự merge, chuyển xuống
+* Bước 3: Nếu có comment thì sửa pull request và gửi lại, nếu được approve hết từ mọi người thì chuyển xuống
   bước 4
 * Bước 4: Làm tiếp các phần còn lại của ứng dụng như bước 2 và bước 3
 
