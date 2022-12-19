@@ -52,7 +52,7 @@ Trong quá trình tutorial sẽ có các ứng dụng các bạn phải gửi pu
 gửi pull request như sau:
 
 * Bước 1: Nhận github training từ trainer. Sau đó clone về máy
-* Bước 2: Với m bài tập các bạn checkout branch mới: exercise_xxx và tiến hành coding, gửi lên để
+* Bước 2: Với m bài tập các bạn checkout branch mới từ master với branch name: *exercise_xxx* và tiến hành coding, gửi lên để
   các trainers và mọi người review, comment
 * Bước 3: Nếu có comment thì sửa pull request và gửi lại, nếu được approve hết từ mọi người thì chuyển xuống
   bước 4
