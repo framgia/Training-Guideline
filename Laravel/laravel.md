@@ -44,7 +44,7 @@
 ## 5. Hướng dẫn thực hiện Laravel Quicktask
 - Tiến hành làm Laravel Quick task theo [hướng dẫn](https://docs.google.com/document/d/1kHcZpufGJZrFWWmg_qAuTb3gahDzX14nnO-Cy43HsqQ/edit)
 - Thiết lập hệ thống pull request tracking (PRTS) như mục 6.
-- Tạo pull và làm theo [hướng dẫn](https://docs.google.com/spreadsheets/d/1POKcNBR3cjQpOdl444ZU2B3WlOzZr2Ml/edit?usp=sharing&ouid=110804383788796312369&rtpof=true&sd=true), kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
+- Tạo pull và làm theo [hướng dẫn](https://docs.google.com/spreadsheets/d/1luk5S5GsirCrur2tDMwvkgBh-RoJ1z2lr0nwFjI5jAM/edit?usp=drive_web&ouid=110804383788796312369), kết hợp với yêu cầu khác của trainer (trong khi code có thể trình bày code theo cách mình hiểu về flow của Laravel).
 Tham khảo: https://laravel.com/docs/5.2/quickstart
 - Đọc trước file [convention của công ty](https://github.com/framgia/coding-standards/blob/master/vn/README.md#php) để code đúng chuẩn hơn.
 - Nếu  dùng sublime text có thể config theo đoạn code sau giúp việc kiểm soát convention của công ty, bằng cách:
