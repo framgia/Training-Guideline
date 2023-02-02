@@ -29,8 +29,8 @@
 ## 4. Document Link
 
 * Document: https://developer.android.com/guide
-* Book: https://sal.vn/PHxVPs
-* Slide: https://sal.vn/83Poxh
+* Book: https://drive.google.com/drive/folders/1M_q4Q0NEBFPl0FTHcam7A2q5PS1FEkVO
+* Slide: https://drive.google.com/drive/folders/1wNzwP8Do11TaaohgwMM0K7Xd5PCNmrKK
 
 Note: Starting from slide ``3.Activities and Intents`` onwards, there will be exercises on the last slide, trainees
 follow the codelabs and push to github, attach the github link to the report at the end of the day.

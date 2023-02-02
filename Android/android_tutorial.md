@@ -30,8 +30,8 @@
 ## 4. Link tài liệu:
 
 * Document: https://developer.android.com/guide
-* Book: https://sal.vn/PHxVPs
-* Slide: https://sal.vn/83Poxh
+* Book: https://drive.google.com/drive/folders/1M_q4Q0NEBFPl0FTHcam7A2q5PS1FEkVO
+* Slide: https://drive.google.com/drive/folders/1wNzwP8Do11TaaohgwMM0K7Xd5PCNmrKK
 
 Lưu ý: Bắt đầu từ slide ``3.Activities and Intents`` trở về sau sẽ có bài tập ở slide cuối, trainee làm theo codelabs và
 push lên github, gắn link github vào report cuối ngày.

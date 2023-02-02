@@ -17,7 +17,7 @@
 7. Android Archiectecture Components
 
 ## 4. Link tài liệu:
-* Slides: https://sal.vn/nDbR7y
+* Slides: https://drive.google.com/drive/folders/1KunSLi1WAxQOpjOuG-qWL6un9U7o8P5_
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:
