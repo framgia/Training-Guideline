@@ -18,7 +18,7 @@ Các bạn đọc tài liệu Kotlin theo link:
 - Website: https://kotlinlang.org/docs/home.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://drive.google.com/drive/u/0/folders/1wNzwP8Do11TaaohgwMM0K7Xd5PCNmrKK
+- Slide: https://drive.google.com/drive/folders/1yBfrF20Q7hgjYYDJsv5pJ9m5pYlP_G1z
 
 ## 4. Link bài test:
 Host: http://training.sun-asterisk.vn
