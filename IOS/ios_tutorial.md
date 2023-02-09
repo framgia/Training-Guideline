@@ -24,7 +24,7 @@
 ## 4. Link tài liệu:
 * Document: https://developer.apple.com/documentation/
 * Book: https://sal.vn/dHeNTk
-* Slide: https://sal.vn/Ypj5Uk
+* Slide: https://sal.vn/i6EUjg
 
 Lưu ý: làm các bài tập ở cuối slide số 3,4,7,8,11,12
 - Bài tập ở cuối slide 3,4,7,8 chung 1 repo github
