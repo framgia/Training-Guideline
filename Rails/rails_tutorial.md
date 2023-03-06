@@ -15,12 +15,12 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 9 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 15 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-- Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link (Bỏ phần Test, k đẩy lên git phần test): [Rails Tutorial](https://drive.google.com/drive/u/2/folders/1xl6FmDQ2rXmEJOpcmZPGz-eZDbDLIAFk)
+- Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link (Bỏ phần Test, k đẩy lên git phần test): [Rails Tutorial](https://drive.google.com/drive/folders/1oJ9e8qfsjRIfO1W16qAVSuF67uGWSNuN)
 - Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
 - **Để đẩy nhanh tiến độ hoàn thành các chương, các bạn chủ động tham khảo hướng dẫn cụ thể và các task cần làm bổ sung sau mỗi chương tại [Link](https://docs.google.com/spreadsheets/d/1ME3lk9-kYoQwC-3Exrq9ZkA8F6o0ZJxgGH8PKru7Bug/edit#gid=0)**
 
-- [Slide](https://drive.google.com/drive/u/2/folders/1emu0CkbO0nSORHrJL6isgljCIugixa9s)
-- [Video](https://drive.google.com/drive/u/1/folders/1B7L_vaGPNRBqkDUnQ2No9lJkaobrIRBn)
+- [Slide](https://drive.google.com/drive/folders/19Gw65xm4BMPNLupgq1piw5TOyWzkzrIw)
+- [Video](https://drive.google.com/drive/folders/1Y7qrJzjUlPfBxowoFgbHYiMYA0T66JEA)
 
 ## 4. Về việc gửi pull request
 Pull đầu tiên sẽ là init_project :D .Các bạn lên github tạo 1 repo mới chọn Initialize this repository with a README, add .gitignore chọn Ruby => Tạo repo, Sau đó clone về máy. Sau đó
