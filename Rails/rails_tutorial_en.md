@@ -18,13 +18,13 @@ From 10/8/2021 to 10/9/2021
 
 ## 3.Document link
 
-- [Book] https://drive.google.com/drive/folders/1y6xUxiFsuI3Qyx53yajYUcvRDJINPpUN
+- [Book] https://drive.google.com/drive/folders/1oJ9e8qfsjRIfO1W16qAVSuF67uGWSNuN
 
 - [Slides]
-https://drive.google.com/drive/folders/1emu0CkbO0nSORHrJL6isgljCIugixa9s
+https://drive.google.com/drive/folders/19Gw65xm4BMPNLupgq1piw5TOyWzkzrIw
 
 - [Videos]
-https://link.sun-asterisk.vn/6FW345
+https://drive.google.com/drive/folders/1B7L_vaGPNRBqkDUnQ2No9lJkaobrIRBn
 
 ## 4. About send pull request
 The first pull request will be init project :
