@@ -5,7 +5,7 @@ Thời gian thực hiện: Tối đa 8 ngày
 
 ## 2. Các bước thực hiện
 - Thực hiện công việc theo yêu cầu của trainer
-- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://drive.google.com/drive/folders/1tg-pN_iaL0pR1lz_gJddT5Vjc5MBbbBt?usp=sharing)
+- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://drive.google.com/drive/folders/1a1zpwrE8VIR9FWot7nexBB5b-RU0kf88?usp=share_link)
 
 ## 3. Add tasks on redmine + estimate time
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện

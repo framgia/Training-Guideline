@@ -17,7 +17,7 @@ Read and follow [here]](https://developer.mozilla.org/en-US/docs/Learn/Server-si
 You can read document from links below:
 
 [Slide]
- - https://drive.google.com/drive/folders/1iojMUGEGgm1RndEq2ox0Zy9yd7fb-zW5?usp=sharing
+ - https://drive.google.com/drive/folders/1XragP0ZzSJmlM-Uxf5submHfwWDwvM4a?usp=share_link
 
 ## 4. Set up Pull request
 - Each pull request corresponds to a part, 1 pull request has 1 commit

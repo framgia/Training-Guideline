@@ -15,7 +15,7 @@ At the end of this module, students will be able to:
 You can read document from links below:
 
 [Slide]
- - https://drive.google.com/drive/folders/1QBnmoPYmj9T4QeLZi0wyOQyATivFgfth?usp=sharing
+ - https://drive.google.com/drive/folders/1C_8-NIXGeGmC0k6F4vCCYzmcr_FXgLUV?usp=share_link
 
 [References]
   - https://docs.python.org/
@@ -27,7 +27,7 @@ At the end of the Python module, the attendee must take an online exam to review
   - Link: http://training.sun-asterisk.vn
   - Account: Create with email registered with HR or company email if available
 
-NOTE:  You must set an account similar to your account chatwork
+NOTE:  You must set an account similar to your account Slack
 ```
 For example:
   Full name: Nguyen Van A
