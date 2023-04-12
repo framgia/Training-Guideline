@@ -13,11 +13,11 @@
 
 ## 3. Document Link
 
-- Book: https://drive.google.com/drive/folders/13qw6oJEKN2Fir4BZFRcxMdd_SkNZ4pTD
+- Book: https://drive.google.com/drive/folders/1E3BHAOwGcHdbVhSQOZZHoh9hVyisatti
 
 - Website: https://kotlinlang.org/docs/home.html
 
-- Slide: https://drive.google.com/drive/folders/1yBfrF20Q7hgjYYDJsv5pJ9m5pYlP_G1z
+- Slide: https://drive.google.com/drive/folders/1YOxKNHfV412YdEAehsNkA3CYOIkYeiTC
 
 ## 4. Test Link
 

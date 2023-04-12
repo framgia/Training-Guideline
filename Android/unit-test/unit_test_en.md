@@ -7,7 +7,7 @@
  1 working days
 
 ## 3. Unit Test mindset
-1. Document link: https://sal.vn/kyLjfA
+1. Document link: https://drive.google.com/drive/folders/1jkvR3aGte0-9Brjdyv8ZUyfZbVM0N5Ne
 2. Link test: http://training.sun-asterisk.vn/
 
 ## 4. Write Unit Test for Project 1
