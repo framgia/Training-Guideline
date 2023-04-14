@@ -13,11 +13,11 @@
 
 ## 3. Document Link
 
-- Book: https://sal.vn/a2qCFZ
+- Book: https://sal.vn/76vMHL
 
 - Website: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
-- Slide: https://sal.vn/mxj2z4
+- Slide: https://sal.vn/ChxO6L
 
 ## 4. Test Link
 
