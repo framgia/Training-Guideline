@@ -23,8 +23,8 @@
      
 ## 4. Document Link
 * Document: https://developer.apple.com/documentation/
-* Book: https://sal.vn/dHeNTk
-* Slide: https://sal.vn/i6EUjg
+* Book: https://sal.vn/LxNxlI
+* Slide: https://sal.vn/ZYcL27
 
 Note: Do exercises at the end of slides no 3,4,7,8,11,12
 - Exercise in Slides no 3,4,7,8 push into one GitHub repository
