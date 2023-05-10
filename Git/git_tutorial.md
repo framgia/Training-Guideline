@@ -12,10 +12,10 @@
 
 ## 3. Link tài liệu:
 [Slide]
-https://drive.google.com/drive/folders/1mR7UdF5XwtC2RYkFUR2vnDWDtPuUrZjv
+https://drive.google.com/drive/folders/1hT_W_lbVDUxkRmL1X88QCHO9eO_m5YiD
 
-[Slide Overview]
-https://drive.google.com/drive/folders/1KLGGdgAXjttnLdq1CJJ7STrTJRr_dVzW
+[Reference]
+https://drive.google.com/drive/folders/1Vdpgdt7jA21MQIjz0VDGyeqLX1J5XMim
 
 [References]
 - http://git-scm.com/book - 4 chương đầu
@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1KLGGdgAXjttnLdq1CJJ7STrTJRr_dVzW
 - http://chris.beams.io/posts/git-commit/
 
 [Video]
-- [https://www.youtube.com/watch?v=OBCnmcgx4CE](https://drive.google.com/drive/folders/1xPgMFi6CA6CJq3m1CJBapIDomFOE_nCE)
+- https://www.youtube.com/watch?v=OBCnmcgx4CE(https://drive.google.com/drive/folders/1bGRetkHXCtXV_3Jnzg75UXxEJv2F-Jfz)
 
 [Note]
 - Các bạn tạo account ở link [https://github.com/] để thực hành nhé
