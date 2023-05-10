@@ -12,7 +12,6 @@ Including: Theory + demo
 
 ## 3. Document Link
 https://goo.gl/dCcLA2
-https://drive.google.com/drive/u/0/folders/1bwBlMGimha4lK1AViytosVU8CkWf8x2A
 
 ## 4. Test Link
 Host: http://training.sun-asterisk.vn

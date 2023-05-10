@@ -11,17 +11,22 @@ By the end of the book you will have learned:
 
 ## 3. Document Link:
 You can read the document at the link:
-Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary.pdf
-https://drive.google.com/file/d/172F0yh5evQZu95FG7cK9fq2m7O58ubpk/view?usp=sharing
+- Slide: https://drive.google.com/drive/folders/1snhzRAYHXdS4NGkACWqbeivA6bK77BKv
+- Book: Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary.pdf
+https://drive.google.com/drive/folders/1-PMGcWynKvQmpR4SpnRPhWpbNfV9a94u
 
 Note:
+
 - Focus on chapters: 4, 5, 6, 11, 12, 13, 14
+
 - Skip chapters: 7, 8, 9, 10
 
 
 ## Content reports
 You prepare:
+
 - Slides include the content learned (only write keywords)
+
 - Prepare code example for important content (should be prepared)
 
 ## Coding Convention

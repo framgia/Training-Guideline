@@ -15,7 +15,7 @@ At the end of this module, students will be able to:
 You can read document from links below:
 
 [Slide]
- - https://drive.google.com/drive/folders/1C_8-NIXGeGmC0k6F4vCCYzmcr_FXgLUV?usp=share_link
+ - https://drive.google.com/drive/folders/1YAtKT5tHJoswhuA10hW_AXnzaIBmGvvt
 
 [References]
   - https://docs.python.org/

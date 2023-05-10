@@ -9,27 +9,35 @@ Vào cuối cuốn sách các bạn sẽ nắm được:
 5 ngày
 
 ## 3. Link tài liệu:
-Các bạn đọc tài liệu tại link:
-http://docs.jboss.org/hibernate/orm/5.0/manual/en-US/html/
-http://docs.jboss.org/hibernate/orm/4.2/devguide/en-US/html/
-https://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html
+Các bạn đọc tài liệu Doc tại link:
+
+[Slide] https://drive.google.com/drive/folders/1y97CT334qUQHU1bgo154ZFSbcF4qwyy2
+
+[Book]
+- http://docs.jboss.org/hibernate/orm/5.0/manual/en-US/html/
+- http://docs.jboss.org/hibernate/orm/4.2/devguide/en-US/html/
+- https://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html
+
 
 Tập trung vào nội dụng sau nhé:
-	- 2. Architecture
-	- 3. Configuration
-	- 4. Persistent class
-	- 5. Object mapping
-	- 7. Collection mapping
-	- 8. Association mapping
-	- 11. Working with Hibernate
-	- 13. Transaction
-	- 16. HQL
-	- 17. Criteria
-	- 20. Improving performance
+
+- 2. Architecture
+- 3. Configuration
+- 4. Persistent class
+- 5. Object mapping
+- 7. Collection mapping
+- 8. Association mapping
+- 11. Working with Hibernate
+- 13. Transaction
+- 16. HQL
+- 17. Criteria
+- 20. Improving performance
 
 ## Nội dung báo cáo
 Các bạn chuẩn bị:
+
 	- slide gồm nội dung đã học dc (chỉ ghi keyword)
+
 	- Chuẩn bị code example cho nội dung quan trọng (nên chuẩn bị hết)
 
 ## Coding Convention

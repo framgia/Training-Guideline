@@ -13,7 +13,7 @@ Django là một web framework high-level Python mã nguồn mở và miễn ph�
 Bạn **tìm hiểu và làm theo tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ **part 2** trở đi phải gửi pull request sau mỗi part
 
 ## 3. Link tài liệu:
-  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/1XragP0ZzSJmlM-Uxf5submHfwWDwvM4a?usp=share_link)
+  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/1F9gLirNsnR3oIetRbVSxFzlW4UUy1LAX)
 
 ## 4. Thiết lập gửi pull request
 - Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit

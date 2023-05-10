@@ -10,6 +10,8 @@ By the end of the book you will have learned:
 
 ## 3. Document Link:
 You can read the document at the link:
+- Slide: https://drive.google.com/drive/folders/1RMgGvp4ljy5U0y4ScLzHJKDK38YVP9k8
+- Doc:
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#spring-core
 https://docs.spring.io/spring/docs/current/spring-framework-reference/data-access.html#spring-data-tier
 

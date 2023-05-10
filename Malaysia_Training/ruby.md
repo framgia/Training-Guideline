@@ -9,13 +9,13 @@
 
 ## 3. Document Link
 
-- Videos: https://drive.google.com/drive/u/1/folders/1yKMk5ZS9nvHhRSi5tUxagliyK2ADP4uA
+- Videos: https://drive.google.com/drive/folders/17KLXxQXXOs-UGaqS30Z0e9W195HkCvgz
 
 
 - Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
 
 
-- Slide: https://drive.google.com/drive/folders/1huh3q6GfFRN-UcJDm5N6ZGnbo9ePMXjY
+- Slide: https://drive.google.com/drive/folders/1WdN0HyrnBsAlpa5OevuitNt-zYFjhX9v
 
 ## 4. Practices
 ##### Practice 1: Array
