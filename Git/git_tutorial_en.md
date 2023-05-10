@@ -10,9 +10,9 @@
 
 ## 3. Document link:
 [Slide]
-  - Sub: https://drive.google.com/drive/folders/1mR7UdF5XwtC2RYkFUR2vnDWDtPuUrZjv
+  - Sub: https://drive.google.com/drive/folders/1hT_W_lbVDUxkRmL1X88QCHO9eO_m5YiD
 
-  - videos: https://drive.google.com/drive/u/1/folders/1eSTzUcKEz3JHEkKhXQPYnJxiUrX9wP0w
+  - Reference: https://drive.google.com/drive/folders/1Vdpgdt7jA21MQIjz0VDGyeqLX1J5XMim
 
 [References]
 - http://git-scm.com/book - the first 4 chapters
@@ -21,7 +21,7 @@
 - http://chris.beams.io/posts/git-commit/
 
 [Video]
-- https://www.youtube.com/watch?v=OBCnmcgx4CE
+- https://www.youtube.com/watch?v=OBCnmcgx4CE(https://drive.google.com/drive/folders/1bGRetkHXCtXV_3Jnzg75UXxEJv2F-Jfz)
 
 [Note]
   - Trainees use company email (if any) or personal email registered with HR to register for an account.
