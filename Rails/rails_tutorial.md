@@ -19,8 +19,8 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 - Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
 - **Để đẩy nhanh tiến độ hoàn thành các chương, các bạn chủ động tham khảo hướng dẫn cụ thể và các task cần làm bổ sung sau mỗi chương tại [Link](https://docs.google.com/spreadsheets/d/1ME3lk9-kYoQwC-3Exrq9ZkA8F6o0ZJxgGH8PKru7Bug/edit#gid=0)**
 
-- [Slide](https://drive.google.com/drive/folders/19Gw65xm4BMPNLupgq1piw5TOyWzkzrIw)
-- [Video](https://drive.google.com/drive/folders/1Y7qrJzjUlPfBxowoFgbHYiMYA0T66JEA)
+- [Slide](https://drive.google.com/drive/folders/1M5uLQOktA7FBcfNPQK2EcQNG2UCZzDN-)
+- [Video](https://drive.google.com/drive/folders/1je0pPXAgTPx569Rk_0bfid1lAeRPdU8a)
 
 ## 4. Về việc gửi pull request
 Pull đầu tiên sẽ là init_project :D .Các bạn lên github tạo 1 repo mới chọn Initialize this repository with a README, add .gitignore chọn Ruby => Tạo repo, Sau đó clone về máy. Sau đó

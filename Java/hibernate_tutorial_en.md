@@ -10,6 +10,9 @@ By the end of the book you will have learned:
 
 ## 3. Document Link:
 You can read the document at the link:
+[Slide] https://drive.google.com/drive/folders/1y97CT334qUQHU1bgo154ZFSbcF4qwyy2
+
+[Book]
 http://docs.jboss.org/hibernate/orm/5.0/manual/en-US/html/
 http://docs.jboss.org/hibernate/orm/4.2/devguide/en-US/html/
 https://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html

@@ -10,7 +10,7 @@
 
 ## 3. Document link:
 [Slide]
-  - Sub: https://drive.google.com/drive/folders/1mR7UdF5XwtC2RYkFUR2vnDWDtPuUrZjv
+  - Sub: https://drive.google.com/drive/folders/1L06VxvUJdeKbEfgUdfMifL2gL4hFe33t
 
   - videos: https://drive.google.com/drive/u/1/folders/1eSTzUcKEz3JHEkKhXQPYnJxiUrX9wP0w
 

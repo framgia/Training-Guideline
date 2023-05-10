@@ -11,17 +11,22 @@ Vào cuối cuốn sách các bạn sẽ nắm được:
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu tại link:
-Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary.pdf
-https://drive.google.com/file/d/172F0yh5evQZu95FG7cK9fq2m7O58ubpk/view?usp=sharing
+- Slide: https://drive.google.com/drive/folders/1snhzRAYHXdS4NGkACWqbeivA6bK77BKv
+- Book: Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary.pdf
+https://drive.google.com/drive/folders/1-PMGcWynKvQmpR4SpnRPhWpbNfV9a94u
 
 Note:
+
 	- Tập trung vào các chương: 4, 5, 6, 11, 12, 13, 14
+
 	- Bỏ qua các chương: 7, 8, 9, 10
 
 
 ## Nội dung báo cáo
 Các bạn chuẩn bị:
+
 	- slide gồm nội dung đã học dc (chỉ ghi keyword)
+
 	- Chuẩn bị code example cho nội dung quan trọng (nên chuẩn bị hết)
 
 ## Coding Convention

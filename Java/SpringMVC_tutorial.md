@@ -3,6 +3,7 @@
 ## 1. Mục tiêu
 Phần này giúp các bạn nắm được cú pháp cơ bản của java
 Vào cuối cuốn sách các bạn sẽ nắm được:
+
 	- Các thành phần cũng như folow làm việc của SPring MVC Framework
 
 ## 2. Thời gian học:
@@ -10,12 +11,17 @@ Vào cuối cuốn sách các bạn sẽ nắm được:
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu tại link:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#spring-web
+
+- Slide: https://drive.google.com/drive/folders/1IS7bJBGW8oKYt4gOcen9OoVcJDNMvWbF
+
+- Book: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#spring-web
 
 ## Nội dung báo cáo
+
 Các bạn chuẩn bị:
-	- slide gồm nội dung đã học dc (chỉ ghi keyword)
-	- Chuẩn bị code example cho nội dung quan trọng (nên chuẩn bị hết)
+
+- slide gồm nội dung đã học dc (chỉ ghi keyword)
+- Chuẩn bị code example cho nội dung quan trọng (nên chuẩn bị hết)
 
 ## Coding Convention
 https://github.com/framgia/coding-standards/blob/master/vn/README.md

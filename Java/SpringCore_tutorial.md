@@ -9,9 +9,12 @@ Vào cuối cuốn sách các bạn sẽ nắm được:
 5 ngày
 
 ## 3. Link tài liệu:
+
 Các bạn đọc tài liệu tại link:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#spring-core
-https://docs.spring.io/spring/docs/current/spring-framework-reference/data-access.html#spring-data-tier
+- Slide: https://drive.google.com/drive/folders/1RMgGvp4ljy5U0y4ScLzHJKDK38YVP9k8
+- Book:
+    https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#spring-core
+    https://docs.spring.io/spring/docs/current/spring-framework-reference/data-access.html#spring-data-tier
 
 Tập trung vào nội dụng sau nhé:
 - Spring ORM + Hibernate

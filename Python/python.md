@@ -18,7 +18,7 @@ Các bạn đọc tài liệu Python theo link:
 https://docs.python.org/ ,
 https://www.w3schools.com/Python/default.asp
 
-  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần [tại đây](https://drive.google.com/drive/folders/1C_8-NIXGeGmC0k6F4vCCYzmcr_FXgLUV?usp=share_link)
+  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần [tại đây](https://drive.google.com/drive/folders/1YAtKT5tHJoswhuA10hW_AXnzaIBmGvvt)
 
 ## 4. Link bài test:
 Kết thúc quá trình học Python, sinh viên phải thực hiện bài test online để ôn tập kiến thức

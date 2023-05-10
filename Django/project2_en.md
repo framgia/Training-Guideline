@@ -6,7 +6,7 @@ Up to 10 days
 
 ## 2. Steps to take
 - Perform tasks as requested by the trainer
-- Apply unit test in the project, refer to the documentation [here](https://drive.google.com/drive/folders/1a1zpwrE8VIR9FWot7nexBB5b-RU0kf88?usp=share_link)
+- Apply unit test in the project, refer to the documentation [here](https://drive.google.com/drive/folders/1i6JGCHlTnGgudBElARu-KL5cwhmnoRDl)
 
 ## 3. Add tasks on redmine + estimate time
 - Each ticket task estimate takes no more than 8 hours, in case the task is large, should break down ticket

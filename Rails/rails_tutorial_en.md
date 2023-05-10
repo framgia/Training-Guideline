@@ -21,10 +21,10 @@ From 10/8/2021 to 10/9/2021
 - [Book] https://drive.google.com/drive/folders/1oJ9e8qfsjRIfO1W16qAVSuF67uGWSNuN
 
 - [Slides]
-https://drive.google.com/drive/folders/19Gw65xm4BMPNLupgq1piw5TOyWzkzrIw
+https://drive.google.com/drive/folders/1M5uLQOktA7FBcfNPQK2EcQNG2UCZzDN-
 
 - [Videos]
-https://drive.google.com/drive/folders/1B7L_vaGPNRBqkDUnQ2No9lJkaobrIRBn
+https://drive.google.com/drive/folders/1je0pPXAgTPx569Rk_0bfid1lAeRPdU8a
 
 ## 4. About send pull request
 The first pull request will be init project :

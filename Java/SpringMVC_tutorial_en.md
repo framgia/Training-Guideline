@@ -10,7 +10,9 @@ By the end of the book you will have learned:
 
 ## 3. Document Link:
 You can read the document at the link:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#spring-web
+
+- Slide: https://drive.google.com/drive/folders/1IS7bJBGW8oKYt4gOcen9OoVcJDNMvWbF
+- Book: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#spring-web
 
 ## Content reports
 You prepare:
