@@ -16,11 +16,11 @@ jobs:
   image: sunasteriskrnd/php-workspace:7.4
   services:
     - image: mysql:5.7
-      name: mysql_test
+      name: mysql-test
       environment:
          MYSQL_DATABASE: mysql
-         MYSQL_USER: user_test
-         MYSQL_PASSWORD: password_test
+         MYSQL_USER: user-test
+         MYSQL_PASSWORD: password-test
          MYSQL_ROOT_PASSWORD: root
   environment:
     APP_ENV: testing
@@ -82,10 +82,10 @@ jobs:
 ## Sửa file .env.example lại như sau:
 ```ruby
 DB_CONNECTION=mysql
-DB_HOST=mysql_test
+DB_HOST=mysql-test
 DB_PORT=3306
 DB_DATABASE=mysql
-DB_USERNAME=user_test
-DB_PASSWORD=password_test
+DB_USERNAME=user-test
+DB_PASSWORD=password-test
 
 ```
