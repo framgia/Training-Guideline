@@ -18,7 +18,7 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 - Sách Tutorial Rails 7: Các bạn tạo tài khoản rồi đăng nhập đọc online và làm theo các chapter trên link [Rails Tutorial 7](https://www.oreilly.com/library/view/ruby-on-rails/9780138050061/?_gl=1*mgpyfg*_ga*OTcxNjQ4NDM1LjE2ODg2MjkzMzI.*_ga_092EL089CH*MTY4ODYyOTMzMS4xLjEuMTY4ODYyOTM3Ny4xNC4wLjA.)
 
  **Để đẩy nhanh tiến độ hoàn thành các chương, các bạn chủ động tham khảo hướng dẫn cụ thể và các task cần làm bổ sung sau mỗi chương tại [Link](https://docs.google.com/spreadsheets/d/1ME3lk9-kYoQwC-3Exrq9ZkA8F6o0ZJxgGH8PKru7Bug/edit#gid=0)**
-- Video và slide có ở trên S-Learn: https://tpiv.wsm.vn/
+- Video và slide có ở trên khóa học "Ruby" của S-Learn: https://tpiv.wsm.vn/
   
 - Tài liệu khác tham khảo thêm: 
   
