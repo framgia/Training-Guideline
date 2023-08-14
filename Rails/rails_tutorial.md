@@ -15,12 +15,10 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 9 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 15 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-- Các bạn đọc và làm theo cuốn Rails 6 - Tutorial theo link (Bỏ phần Test, k đẩy lên git phần test): [Rails Tutorial](https://drive.google.com/drive/folders/1KpDipAHIF4Xpvro-e2_bVnhPyF4F3qdp)
-- Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
+- Sách Rails 6 [Rails Tutorial](https://drive.google.com/drive/folders/1KpDipAHIF4Xpvro-e2_bVnhPyF4F3qdp)
+- Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial Rails 6](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
 - **Để đẩy nhanh tiến độ hoàn thành các chương, các bạn chủ động tham khảo hướng dẫn cụ thể và các task cần làm bổ sung sau mỗi chương tại [Link](https://docs.google.com/spreadsheets/d/1ME3lk9-kYoQwC-3Exrq9ZkA8F6o0ZJxgGH8PKru7Bug/edit#gid=0)**
-
-- [Slide](https://drive.google.com/drive/folders/1M5uLQOktA7FBcfNPQK2EcQNG2UCZzDN-)
-- [Video](https://drive.google.com/drive/folders/1je0pPXAgTPx569Rk_0bfid1lAeRPdU8a)
+- Video và slide có ở trên S-Learn: https://tpiv.wsm.vn/
 
 ## 4. Về việc gửi pull request
 ### 4.1 Cài đặt code base
@@ -80,7 +78,7 @@ Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bư
 - Sử dụng hệ thống ReviewBoard để quản lý các pull của mình, mọi người có thể thấy các trạng thái của pull trên đó nhé
 - Nếu có commented thì bạn sửa, sau khi sửa xong lại comment vào pull: "ready"
 
-#### Chụp lại hình đã pass rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
+#### Chụp lại hình đã pass Rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
 
 ## 5. Thiết lập Sublime Text
 Các bạn sử dụng setting này dành cho sublime để xử lý indent, trailing space và end of file, bằng cách:
