@@ -68,6 +68,8 @@ git push origin chapter_3_4_5
 ```
 tương tự như các chapter tiếp theo
 
+Đọc thêm mô tả [Hướng dẫn thao tác với GIT](https://docs.google.com/spreadsheets/d/1ME3lk9-kYoQwC-3Exrq9ZkA8F6o0ZJxgGH8PKru7Bug/edit#gid=0)
+
 #### Yêu cầu:
 - Mỗi 1 pull request tương ứng 1 chapter(Riêng chapter 3, 4,5 có thể gộp vào thành 1 pull request)
 - Cách đặt tên:
