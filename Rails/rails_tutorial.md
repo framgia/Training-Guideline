@@ -23,23 +23,48 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 - [Video](https://drive.google.com/drive/folders/1je0pPXAgTPx569Rk_0bfid1lAeRPdU8a)
 
 ## 4. Về việc gửi pull request
-Pull đầu tiên sẽ là init_project :D .Các bạn lên github tạo 1 repo mới chọn Initialize this repository with a README, add .gitignore chọn Ruby => Tạo repo, Sau đó clone về máy. Sau đó
-```
-git checkout -b init_project
-rails new .
-git add .
-git commit -m "Init Project"
-git push origin init_project
-```
-Rồi kiểm tra trên git tạo 1 pull request mới, đọc hướng dẫn bên dưới để trainer có thể review pull.
+### 4.1 Cài đặt code base
+- B1: Vào repo mẫu trên github để kéo code base về:
+https://github.com/awesome-academy/rails_tutorial/tree/main
+Dùng câu lệnh `git clone git@github.com:awesome-academy/rails_tutorial.git`
+- B2: Đọc kĩ README: Cài đặt phiên bản dự án và config tương ứng https://github.com/awesome-academy/rails_tutorial/tree/main
+- B3: Trainee tự tạo 1 repo mới riêng của mình tên sample_app để chế độ public trên https://github.com/
+- B4: Tại terminal, truy cập vào repo mẫu rails đã clone về máy `cd rails_tutorial`
+  Sau đó đổi remote url thành url của repo đã tạo ở B3
+  ```
+    git remote set-url origin đườngdẫn
+  ```
+  VD:
+  ```
+  git remote set-url origin git@github.com:ngocvt-0484/sample_app.git
+  ```
+- B4: Đẩy code base lên Repo của mình
+  ```
+    git push origin main
+  ```
+### 4.2 Hướng dẫn trainee code các chapter tiếp theo
 
-Từ chapter 3 -> chapter 14. Sau mỗi chapter, các bạn thực hiện tạo pull request để gửi trainer review.
+- Tạo branch mới và checkout sang branch mới: git checkout -b chapter_3_4_5
+Sau đó code chapter, code xong thì chạy dòng lệnh sau để kiểm tra convention code (Đọc thêm về Rubocop: https://viblo.asia/p/su-dung-gem-rubocop-trong-rails-4P856NxA5Y3)
+
+```
+bundle exec rubocop
+```
+
+- Fix các lỗi rubocop để đảm bảo không còn lỗi convention, sau đó đẩy code lên git để review code
+
+```
+git add .
+git commit -m "Chapter 3,4,5"
+git add .
+git push origin chapter_3_4_5
+```
+tương tự như các chapter tiếp theo
 
 #### Yêu cầu:
-- Mỗi 1 pull request tương ứng 1 chapter
+- Mỗi 1 pull request tương ứng 1 chapter(Riêng chapter 3, 4,5 có thể gộp vào thành 1 pull request)
 - Cách đặt tên:
-  + Tên repo github là: **sample_app**
-  + Tên branch tương ứng với tên chapter. Ví dụ: **chapter_3**, **chapter_4**
+  + Tên branch tương ứng với tên chapter. Ví dụ: **chapter_6**, **chapter_7**
   + Tiêu đề pull request (nội dung commit): Tiêu đề của chapter đó.
     Ví dụ: "Chapter 3: Mostly static pages", "Chapter 6: Modeling users"
 
@@ -55,62 +80,9 @@ Từ bây giờ mỗi khi gửi pull request, các bạn sẽ làm theo các bư
 - Sử dụng hệ thống ReviewBoard để quản lý các pull của mình, mọi người có thể thấy các trạng thái của pull trên đó nhé
 - Nếu có commented thì bạn sửa, sau khi sửa xong lại comment vào pull: "ready"
 
-## 5. Thiết lập CI local vào Project
-#### Bước 1: Các bạn cài đặt gem vào Gemfile:
+#### Chụp lại hình đã pass rubocop cho vào phần comment của pull request rồi gửi link cho trainer.
 
-```ruby
-group :development, :test do # Với phiên bản ruby 3.0 và rails 6 trở lên
-  gem "rubocop", "~> 1.26", require: false
-  gem "rubocop-checkstyle_formatter", require: false
-  gem "rubocop-rails", "~> 2.14.0", require: false
-end
-```
-
-```ruby
-group :development, :test do # Với phiên bản ruby 3.0 và rails 6 trở xuông
-  gem "rubocop", "~> 0.74.0", require: false
-  gem "rubocop-checkstyle_formatter", require: false
-  gem "rubocop-rails", "~> 2.3.2", require: false
-end
-```
-##### Cài đặt framgia-ci
-Với Linux
-```bash
-sudo curl -o /usr/bin/framgia-ci https://raw.githubusercontent.com/framgia/ci-report-tool/master/dist/framgia-ci
-sudo chmod +x /usr/bin/framgia-ci
-sudo apt install python3-pip
-sudo apt install libcurl4-openssl-dev libssl-dev
-pip3 install framgia-ci
-pip3 uninstall cleo clikit
-pip3 install cleo==0.6.8
-```
-#### Bước 2: Tải tệp nén :
-Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local_new.tar.gz) (Với phiên bản ruby 3.0 và rails 6 trở lên)
-
-Tải file [setup_ci_local](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci_local_old.tar.gz) (Với phiên bản ruby 3.0 và rails 6 trở xuống)
-
-Sau đó copy 6 file sau trong tệp nén vừa tải về gồm:
-```
-.rubocop.yml
-.rubocop_disabled.yml
-.rubocop_enabled.yml
-.rspec
-.framgia-ci.yml
-```
-
-Dán vào thư mục project, ngang hàng với Gemfile
-#### Bước 3: Trước mỗi lần commit gửi pull thì chạy lệnh này:
-```bash
-framgia-ci run --local
-```
-##### cho những file này vào .gitignore
-```
-.framgia-ci-reports/
-.framgia-ci-result.temp.yml
-```
-#### Bước 4: Chụp lại hình đã pass hết CI local cho vào phần comment của pull request rồi gửi link cho trainer.
-
-## 7. Thiết lập Sublime Text
+## 5. Thiết lập Sublime Text
 Các bạn sử dụng setting này dành cho sublime để xử lý indent, trailing space và end of file, bằng cách:
 Preference -> Setting User -> xóa hết cái cũ và paste đoạn code sau vào:
 ```yaml
@@ -167,7 +139,7 @@ VS code
     "workbench.iconTheme": "vscode-great-icons"
 }
 ```
-## 8. Một số lưu ý trong quá trình làm tutorial:
+## 6. Một số lưu ý trong quá trình làm tutorial:
 - Tuyệt đối không chờ đợi merged pull request chapter trước rồi mới làm chapter tiếp theo. Thay vào đó, các bạn checkout branch mới từ branch trước ra và làm tiếp, sau này sẽ rebase và fix conflict sau nếu có.
 - Pull request sau khi gửi trainer, các bạn chờ đợi trong thời gian tối đa là 3 tiếng, nếu sau 3 tiếng vẫn chưa có người review, các bạn hãy gửi message nhắc nhở trainer.
 - Nên để 1 commit/pull trong quá trình học tutorial.
@@ -175,23 +147,8 @@ VS code
 - Chú ý đọc hiểu hướng dẫn trước khi sử dụng PRTS, tránh tình trạng sai xót.
 - Trong quá trình làm nếu gặp vấn đề không giải quyết được thì hãy chủ động hỏi nhờ các bạn khác hoặc Trainer để được support.
 
-## 9. Coding convention
+## 7. Coding convention
 Các bạn self review code của cá nhân theo coding convention của công ty theo link sau:
 https://github.com/framgia/coding-standards/blob/master/vn/README.md
-
-## 10. Link bài test:
-Host: http://training.sun-asterisk.vn
-
-Account: Các bạn tự tạo bằng mail đăng ký với HR
-
-Lưu ý: Đặt tên giống với Slack
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Ruby 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
-```
 
 ### Happy coding!!!
