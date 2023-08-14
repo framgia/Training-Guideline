@@ -30,10 +30,13 @@ Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial 
 ### 4.1 Cài đặt code base
 - B1: Vào repo mẫu trên github để kéo code base về:
 https://github.com/awesome-academy/rails_tutorial/tree/main
+
 Dùng câu lệnh `git clone git@github.com:awesome-academy/rails_tutorial.git`
 - B2: Đọc kĩ README: Cài đặt phiên bản dự án và config tương ứng https://github.com/awesome-academy/rails_tutorial/tree/main
 - B3: Trainee tự tạo 1 repo mới riêng của mình tên sample_app để chế độ public trên https://github.com/
-- B4: Tại terminal, truy cập vào repo mẫu rails đã clone về máy `cd rails_tutorial`
+- B4: Tại terminal, truy cập vào repo mẫu rails đã clone về máy
+  `cd rails_tutorial`
+  
   Sau đó đổi remote url thành url của repo đã tạo ở B3
   ```
     git remote set-url origin đườngdẫn
