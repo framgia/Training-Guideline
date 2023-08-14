@@ -15,9 +15,13 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 9 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 15 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
+- Sách Tutorial Rails 7: Các bạn tạo tài khoản rồi đăng nhập đọc online trên link [Rails Tutorial 7](https://www.oreilly.com/library/view/ruby-on-rails/9780138050061/?_gl=1*mgpyfg*_ga*OTcxNjQ4NDM1LjE2ODg2MjkzMzI.*_ga_092EL089CH*MTY4ODYyOTMzMS4xLjEuMTY4ODYyOTM3Ny4xNC4wLjA.)
+Tham khảo thêm tài liệu nếu cần:
 - Sách Rails 6 [Rails Tutorial](https://drive.google.com/drive/folders/1KpDipAHIF4Xpvro-e2_bVnhPyF4F3qdp)
 - Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial Rails 6](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
-- **Để đẩy nhanh tiến độ hoàn thành các chương, các bạn chủ động tham khảo hướng dẫn cụ thể và các task cần làm bổ sung sau mỗi chương tại [Link](https://docs.google.com/spreadsheets/d/1ME3lk9-kYoQwC-3Exrq9ZkA8F6o0ZJxgGH8PKru7Bug/edit#gid=0)**
+
+
+ **Để đẩy nhanh tiến độ hoàn thành các chương, các bạn chủ động tham khảo hướng dẫn cụ thể và các task cần làm bổ sung sau mỗi chương tại [Link](https://docs.google.com/spreadsheets/d/1ME3lk9-kYoQwC-3Exrq9ZkA8F6o0ZJxgGH8PKru7Bug/edit#gid=0)**
 - Video và slide có ở trên S-Learn: https://tpiv.wsm.vn/
 
 ## 4. Về việc gửi pull request
