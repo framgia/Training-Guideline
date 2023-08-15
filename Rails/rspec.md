@@ -48,12 +48,7 @@ http://rspec.info/<br>
 [Github](https://github.com/rspec/rspec)
 
 ### 2. Document
-[Slide]:
-Rspec: 
-https://drive.google.com/drive/folders/1qnEDUFoltCZDTmawkzNOXUOWnGI8HDy5
-
-[Video]
-https://drive.google.com/drive/folders/1fVCpRic57_LEoFACeZFLuiUG0nFdtQ-c
+Video và slide có ở trên khóa học "Ruby" của S-Learn: https://tpiv.wsm.vn/
 
 [Book]: 
 https://drive.google.com/drive/folders/1_v-mZJjWj-RFDr_nEl5Mq6nqGsjoeu84
