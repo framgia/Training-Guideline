@@ -12,27 +12,8 @@ Vào cuối khóa học này, học viên sẽ có thể:
 3 ngày (Tính theo ngày làm việc, trường hợp đi part-time tối đa 5 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-
 - Book: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
-- Slide: https://drive.google.com/drive/folders/1WdN0HyrnBsAlpa5OevuitNt-zYFjhX9v
 - Ngoài ra, Các bạn đọc tài liệu Ruby theo link: https://raw.githubusercontent.com/jay3126/various_imp_ebooks/master/the_ruby_programming_language.pdf
-- Videos: https://drive.google.com/drive/folders/17KLXxQXXOs-UGaqS30Z0e9W195HkCvgz
+- Video và slide có ở trên khóa học "Ruby" của S-Learn: https://tpiv.wsm.vn/
 
-## 4. Link bài test:
-Host: http://training.sun-asterisk.vn
-
-Account: Các bạn tự tạo bằng mail đăng ký với HR
-
-Lưu ý:
-- Đặt tên giống với slack
-- Nhập Slack ID: Là Slack ID của bạn trong workspace TIV
-- Nhập Room Slack ID: Là slack ID của channel training tương ứng với từng ngôn ngữ
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Ruby 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
-```
 ### Happy coding!!!
