@@ -60,23 +60,6 @@ https://docs.google.com/spreadsheets/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChFow3Y
 Thực hiện công việc theo từng bước như sau:
 1. Thiết kế Database, Requirements
 2. Add tasks on redmine + estimate time
-3. Install template <br>
-   Tải file pull_request_template.md và .gitignore ở [đây](https://github.com/awesome-academy/Web-Template)<br>
-   Rồi thêm vào project
-4. Init project + setup CI tương tự rails tutorial<br>
-
-   Thêm gem sau vào Gemfile nếu chưa có:
-    ```ruby
-    group :development, :test do
-      gem "rspec-rails", "~> 4.0.1"
-    end
-    ```
-    sau đó chạy 
-    ```
-    bundle install
-    rails generate rspec:install
-    ```
-5. Tạo 1 pull Setup Sun*CI theo hướng dẫn tại [đây](https://github.com/framgia/Training-Guideline/blob/master/Rails/setup_ci.md)
 6. Init models, add relationship
 7. Design static pages
 8. Other pulls
