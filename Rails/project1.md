@@ -60,12 +60,13 @@ https://docs.google.com/spreadsheets/d/1Wy41t95MLgk0aYb2-e_HQ818AZkReG7FxChFow3Y
 Thực hiện công việc theo từng bước như sau:
 1. Thiết kế Database, Requirements
 2. Add tasks on redmine + estimate time
-3. Init models, add relationship
-4. Design static pages
-5. Other pulls
+3. Kéo code base về sau đó đẩy lên repo git project 1 do trainer gửi(Code base: https://github.com/awesome-academy/rails_tutorial)
+4. Init models, add relationship
+5. Design static pages
+6. Other pulls
 
 #### CHÚ Ý:
-- Các pull từ mục 5. trở đi mỗi pull không quá 15 file changes.
+- Các pull từ mục 6. trở đi mỗi pull không quá 15 file changes.
 - Các bạn trong team review chéo cho nhau + approve pull sau khi review xong mà không có lỗi nào.
 - Sau khi đã review chéo ok thì mới gửi pull cho trainer review.
 - Truy cập vào file https://docs.google.com/spreadsheets/d/1oW0sX_ekfXu7aNKf5-OhtQw_WLAP38_M2KJo72LNxXU/edit?usp=sharing để dup lên 1 file mới và thực hiện cập nhật vào các kỹ thuật mình đã tìm hiểu hay áp dụng trong project
