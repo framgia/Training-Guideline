@@ -11,84 +11,90 @@ stages:
   - test
 
 jobs:
-- name: build
-  stage: build
-  image: sunasteriskrnd/php-workspace:7.4
-  services:
-    - image: mysql:5.7
-      name: mysql-test
-      environment:
-         MYSQL_DATABASE: mysql
-         MYSQL_USER: user-test
-         MYSQL_PASSWORD: password-test
-         MYSQL_ROOT_PASSWORD: root
-  environment:
-    APP_ENV: testing
-  cache:
-  - key: composer_vendor_$CI_BRANCH
-    paths:
-      - vendor
-  services:
-    - image: mysql:5.7
-      name: mysql-test
-      environment:
-         MYSQL_DATABASE: mysql
-         MYSQL_USER: user-test
-         MYSQL_PASSWORD: password-test
-         MYSQL_ROOT_PASSWORD: root
-  cache:
-    - key: composer_vendor_$CI_BRANCH
+  - name: build
+    stage: build
+    image: sunasteriskrnd/php-workspace:7.4
+    services:
+      - image: mysql:5.7
+        name: mysql-test
+        environment:
+          MYSQL_DATABASE: mysql
+          MYSQL_USER: user-test
+          MYSQL_PASSWORD: password-test
+          MYSQL_ROOT_PASSWORD: root
+    environment:
+      APP_ENV: testing
+    cache:
+      - key: composer_vendor_$CI_BRANCH
+        paths:
+          - vendor
+    before_script:
+      - cp .env.example .env.testing
+      - composer install
+      - php artisan key:generate
+      - php artisan migrate
+      - php artisan config:cache
+      - php artisan config:clear
+      - php artisan cache:clear
+    script:
+      - composer install
+    after_script:
+      - echo "Finish job"
+
+  - name: test:node
+    stage: test
+    image: node:12-alpine
+    script:
+      - npm install
+      - npm run dev
+    cache:
+      - key: node_modules_$CI_BRANCH
+        paths:
+          - node_modules
+
+  - name: test:phpcs
+    stage: test
+    image: sunasteriskrnd/php-workspace:7.4
+    before_script:
+      - composer global require "squizlabs/php_codesniffer=*"
+      - composer install
+    script:
+      - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage,database,coverage,public,resources,node_modules --standard=PSR2,PSR1 ./
+      - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/lang
+
+  - name: test:phpunit
+    stage: test
+    image: sunasteriskrnd/php-workspace:7.4
+    services:
+      - image: mysql:5.7
+        name: mysql-test
+        environment:
+          MYSQL_DATABASE: mysql
+          MYSQL_USER: user-test
+          MYSQL_PASSWORD: password-test
+          MYSQL_ROOT_PASSWORD: root
+    cache:
+      - key: composer_vendor_$CI_BRANCH
+        paths:
+          - vendor
+    workspace: shared
+    before_script:
+      - cp .env.example .env.testing
+      - composer install
+      - php artisan key:generate --env=testing
+      - php artisan config:cache
+      - php artisan config:clear
+      - php artisan cache:clear
+      - php artisan migrate --force --env=testing
+    script:
+      - vendor/bin/phpunit --coverage-clover ./coverage.xml --coverage-html=coverage
+    coverage:
+      type: clover
+      path: coverage.xml
+    artifacts:
       paths:
-        - vendor
-  workspace: shared
-  before_script:
-  - cp .env.example .env.testing
-  - composer install
-  - php artisan key:generate --env=testing
-  - php artisan migrate --env=testing --force
-  - php artisan config:cache
-  - php artisan config:clear
-  - php artisan cache:clear
-  script:
-  - composer install
-  after_script:
-  - echo "Finish job"
-
-- name: test:node
-  stage: test
-  image: node:12-alpine
-  script:
-  - npm install
-  - npm run dev
-  cache:
-  - key: node_modules_$CI_BRANCH
-    paths:
-      - node_modules
-
-- name: test:phpcs
-  stage: test
-  image: sunasteriskrnd/php-workspace:7.4
-  before_script:
-  - composer global require "squizlabs/php_codesniffer=*"
-  - composer install
-  script:
-  - ~/.composer/vendor/bin/phpcs --ignore=vendor,bootstrap/cache/,storage,database,coverage,public,resources,node_modules --standard=PSR2,PSR1 ./
-  - ~/.composer/vendor/bin/phpcs --standard=PSR2,PSR1 resources/lang
-
-- name: test:phpunit
-  stage: test
-  image: sunasteriskrnd/php-workspace:7.4
-  before_script:
-  - composer install
-  script:
-    - vendor/bin/phpunit --coverage-clover ./coverage.xml --coverage-html=coverage
-  coverage:
-    type: clover
-    path: coverage.xml
-  artifacts:
-    paths:
-    - coverage
-    expires_in: 3 days
+        - coverage
+      expires_in: 3 days
 
 ```
 
