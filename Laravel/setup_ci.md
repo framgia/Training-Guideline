@@ -28,11 +28,24 @@ jobs:
   - key: composer_vendor_$CI_BRANCH
     paths:
       - vendor
+  services:
+    - image: mysql:5.7
+      name: mysql-test
+      environment:
+         MYSQL_DATABASE: mysql
+         MYSQL_USER: user-test
+         MYSQL_PASSWORD: password-test
+         MYSQL_ROOT_PASSWORD: root
+  cache:
+    - key: composer_vendor_$CI_BRANCH
+      paths:
+        - vendor
+  workspace: shared
   before_script:
   - cp .env.example .env.testing
   - composer install
-  - php artisan key:generate
-  - php artisan migrate
+  - php artisan key:generate --env=testing
+  - php artisan migrate --env=testing --force
   - php artisan config:cache
   - php artisan config:clear
   - php artisan cache:clear
