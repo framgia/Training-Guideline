@@ -31,8 +31,8 @@ jobs:
     before_script:
       - cp .env.example .env.testing
       - composer install
-      - php artisan key:generate
-      - php artisan migrate
+      - php artisan key:generate --env=testing
+      - php artisan migrate --force --env=testing
       - php artisan config:cache
       - php artisan config:clear
       - php artisan cache:clear
@@ -82,10 +82,10 @@ jobs:
       - cp .env.example .env.testing
       - composer install
       - php artisan key:generate --env=testing
+      - php artisan migrate --force --env=testing
       - php artisan config:cache
       - php artisan config:clear
       - php artisan cache:clear
-      - php artisan migrate --force --env=testing
     script:
       - vendor/bin/phpunit --coverage-clover ./coverage.xml --coverage-html=coverage
     coverage:
