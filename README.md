@@ -114,17 +114,33 @@
 
 8. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/IOS/project2_en.md)
 
-### VIII. Working Process
+### VIII. Flutter
+1. GIT: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
+
+2. Dart: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Dart/dart.md) , [English](https://github.com/framgia/Training-Guideline/blob/master/Dart/dart.en.md)
+
+4. Flutter Tutorials: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Flutter/flutter_tutorial.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Flutter/flutter_tutorial.md)
+
+5. Project1: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Flutter/project1.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Flutter/project1_en.md)
+
+6. Unit Test: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Flutter/unit-test/unit_test.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Flutter/unit-test/unit_test_en.md)
+
+7. Flutter Advance: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Flutter/flutter_advanced.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Flutter/flutter_advanced.md)
+
+8. Project2: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Flutter/project2.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Flutter/project2_en.md)
+
+
+### IX. Working Process
 1. Working Process on Redmine:
   - [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md)
 2. Guidelines using Pull Request Tracking System (PRTS)
   - [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_vi.pdf)
   - [English](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/prts/prts_en.pdf)
 
-### IX. GIT
+### X. GIT
 1. [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial.md)
 2. [English](https://github.com/framgia/Training-Guideline/blob/master/Git/git_tutorial_en.md)
 
-### X. MYSQL
+### XI. MYSQL
 1. [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
 2. [English](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.en.md)
