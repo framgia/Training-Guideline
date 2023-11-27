@@ -1,15 +1,21 @@
 # Guide for Some Information on Flutter Project 1
 
 ## 1. General Information
+
 #### Project Timeline:
+
 10 days (Maximum 20 days if working part-time)
+
 #### Team Members:
+
 1 ~ 2 people
 
 #### Coding Convention
+
 [Link to Coding Convention](https://sal.vn/fGVGFE)
 
 #### Technologies Applied in Project 1
+
 1. Basics of Flutter
 2. Widgets of State
 3. Architecture
@@ -24,6 +30,7 @@
 12. Layered Architecture
 
 ## 2. Implementation Steps
+
 Execute the tasks in the following steps:
 
 1. Generate ideas, requirements, and submit for trainer review using the template:
@@ -41,18 +48,24 @@ Execute the tasks in the following steps:
 5. After approval and merging of the initial pull request, create subsequent pull requests and submit for trainer review.
 
 #### NOTE:
+
+- Slides are available on S-Learn's "Flutter" course: https://tiv.wsm.vn/learn/vi/course/1503/
 - Subsequent pull requests should not exceed 20 file changes and 500 lines of code.
 - Team members must cross-review and approve each other's pull requests.
 - Only after successful cross-reviews, submit the pull request for trainer review.
 
 ## 3. Add Tasks on Redmine + Estimate Time
+
 - Register a Redmine account at [this site](https://edu-redmine.sun-asterisk.vn/) and provide the information to the trainer.
+
 #### Note:
+
 - Refer to the account naming [here](https://github.com/framgia/Training-Guideline/blob/master/Rails/RegisterEduRedmine.png).
 - Each task estimate should not exceed 4 hours. For larger tasks, divide them into multiple tickets.
 - Follow the process for changing the status of a ticket [here](https://github.com/framgia/Training-Guideline/blob/master/WorkingProcess/redmine/redmine.md).
 
 #### Ticket Status Transition Procedure:
+
 1. All tasks must be created as Redmine tickets before starting work.
 2. Redmine tickets must be filled with Category, Target Version, Parent task, Start date, Due date, Estimated time.
 3. Developer takes the ticket, changes the status to "In Progress."
@@ -62,6 +75,7 @@ Execute the tasks in the following steps:
 7. Upon merge, the developer updates %DONE of the Redmine ticket to 100% and changes the status to Resolved.
 
 ## 4. Project Review
+
 - Project review is allowed when the team has completed >= 85% of the required project functionalities.
 - Always actively seek and incorporate feedback from the trainer and others.
 - If the team completes less than 85% of the requirements, contact the trainer two days before the deadline to request a schedule extension and additional time.

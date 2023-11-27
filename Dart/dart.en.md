@@ -4,11 +4,11 @@
 
 This section aims to introduce the Dart programming language through some of its most interesting features. By the end of this course, students will be able to:
 
-  - Know how to install and configure Dart.
-  - Recognize the syntax of the Dart language.
-  - Apply Dart to specific problem-solving scenarios.
-  - Understand the distinctive points and differences between Dart and other object-oriented programming languages.
-  - Understand and apply Object-Oriented Programming (OOP) with Dart.
+- Know how to install and configure Dart.
+- Recognize the syntax of the Dart language.
+- Apply Dart to specific problem-solving scenarios.
+- Understand the distinctive points and differences between Dart and other object-oriented programming languages.
+- Understand and apply Object-Oriented Programming (OOP) with Dart.
 
 ## 2. Duration
 
@@ -24,14 +24,14 @@ Students can access Dart documentation through the following links:
 
 Students are encouraged to refer to these materials to understand what to focus on in each section:
 
-- Slides: https://drive.google.com/drive/folders/1cHECvToay1TsF4BMo3e-gHmaGRYkRgv9
+- Videos and slides are available on S-Learn's "Flutter" course: https://tiv.wsm.vn/learn/vi/course/1503/
 
 ## 4. Test Link
 
 Test your knowledge at: https://tiv.wsm.vn/learn
 
 Account: Please create your account using the email registered with HR.
-    
+
 Note: Please use the same name as on Slack for your account.
 
 ```
