@@ -5,11 +5,11 @@
 Phần này nhằm giới thiệu về ngôn ngữ Dart thông qua một số tính năng thú vị nhất ngôn ngữ lập trình.
 Vào cuối khóa học này, học viên sẽ có thể:
 
-  - Biết cách cài đặt và cấu hình Dart.
-  - Có thể nhận biết được cú pháp của ngôn ngữ Dart.
-  - Có thể vận dụng ngôn ngữ Dart vào những bài toán cụ thể.
-  - Hiểu được những điểm đặc trưng và khác biệt của Dart và những ngôn ngữ lập trình hướng đối tượng khác.
-  - Hiểu & áp dụng lập trình hướng đối tượng (OOP) với Dart
+- Biết cách cài đặt và cấu hình Dart.
+- Có thể nhận biết được cú pháp của ngôn ngữ Dart.
+- Có thể vận dụng ngôn ngữ Dart vào những bài toán cụ thể.
+- Hiểu được những điểm đặc trưng và khác biệt của Dart và những ngôn ngữ lập trình hướng đối tượng khác.
+- Hiểu & áp dụng lập trình hướng đối tượng (OOP) với Dart
 
 ## 2. Thời gian học:
 
@@ -17,7 +17,7 @@ Vào cuối khóa học này, học viên sẽ có thể:
 
 ## 3. Link tài liệu:
 
-Các bạn đọc tài liệu Dart theo link: 
+Các bạn đọc tài liệu Dart theo link:
 
 - Book: https://drive.google.com/drive/folders/1j5CW4hP-TekN7TpIgXjm5kD2moDDJzrF
 
@@ -25,7 +25,7 @@ Các bạn đọc tài liệu Dart theo link:
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
 
-- Slide: https://drive.google.com/drive/folders/1cHECvToay1TsF4BMo3e-gHmaGRYkRgv9
+- Video và slide có ở trên khóa học "Flutter" của S-Learn: https://tiv.wsm.vn/learn/vi/course/1503/
 
 ## 4. Link bài test:
 
