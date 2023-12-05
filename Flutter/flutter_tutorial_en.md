@@ -37,7 +37,7 @@ Note: Complete exercises at the end of slides 2, 4, 6, 7, 8, and 12. These exerc
 
 During the learning process, you will share your knowledge with the team through 1 to 2 presentations:
 
-- Step 1: Find a topic and post it on Chatwork for trainers and other team members to provide feedback (prioritize topics with depth and high value).
+- Step 1: Find a topic and post it on slack for trainers and other team members to provide feedback (prioritize topics with depth and high value).
 - Step 2: Research and create slides, then send them for feedback.
 - Step 3: After completing the slides, notify the trainer to schedule the presentation.
 - Step 4: Share your knowledge and receive evaluations.
@@ -53,19 +53,6 @@ During the tutorial, you will have exercises that require you to send pull reque
 
 ## 7. Test Link
 
-Host: https://tiv.wsm.vn/learn
-
-Account: Please create your account using the email registered with HR.
-
-Note: Please use the same name as on Slack.
-
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: IOS 03
-  Vị trí: Open Education
-  Văn Phòng: Hà Nội
-  Tên tài khoản: [HN_OE03_IOS]Nguyen Van A
-```
+- https://tiv.wsm.vn/learn
 
 ### Happy coding!!!

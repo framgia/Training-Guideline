@@ -14,11 +14,11 @@
 4. MVVM pattern
 
 ## 4. Link tài liệu:
-* Slide: https://sal.vn/eKRpl1
+* Tài nguyên học tập có sẵn trên: https://tiv.wsm.vn/learn/vi/course/1491/
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:
-* Bước 1: Tìm chủ đề và gửi lên chatwork để các trainers và các bạn khác feedback (ưu tiên những chủ đề về chiều sâu mà mang lại nhiều giá trị)
+* Bước 1: Tìm chủ đề và gửi lên slack để các trainers và các bạn khác feedback (ưu tiên những chủ đề về chiều sâu mà mang lại nhiều giá trị)
 * Bước 2: Tiến hành tìm hiểu và làm slide, sau đó gửi lên để nhận feedback
 * Bước 3: Sau khi hoàn thành slide thì thông báo để trainer xếp lịch
 * Bước 4: Chia sẻ kiến thức và nhận đánh giá.

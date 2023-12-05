@@ -30,19 +30,6 @@ Students are encouraged to refer to these materials to understand what to focus 
 
 Test your knowledge at: https://tiv.wsm.vn/learn
 
-Account: Please create your account using the email registered with HR.
-
-Note: Please use the same name as on Slack for your account.
-
-```
-Example:
-  Họ và tên: Nguyễn Văn A
-  Khóa: IOS 03
-  Vị trí: Open Education
-  Văn Phòng: Hà Nội
-  Tên tài khoản: [HN_OE03_IOS]Nguyen Van A
-```
-
 ## 5. Ref:
 
 - https://dart.dev/language
