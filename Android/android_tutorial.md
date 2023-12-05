@@ -30,8 +30,8 @@
 ## 4. Link tài liệu:
 
 * Document: https://developer.android.com/guide
-* Book: https://drive.google.com/drive/folders/1DNXd0DPaPHK8OM9jNAwCh2LMjhu5Sh2C
-* Slide: https://drive.google.com/drive/folders/1olV78tEs3xoOk1GPM6-zSYiZgcNcMxOj
+* Video và slide có ở trên khóa học "Android" của S-Learn:
+https://tiv.wsm.vn/learn/vi/learning/1509/content/1353/
 
 Lưu ý: Bắt đầu từ slide ``3.Activities and Intents`` trở về sau sẽ có bài tập ở slide cuối, trainee làm theo codelabs và
 push lên github, gắn link github vào report cuối ngày.
@@ -60,19 +60,6 @@ gửi pull request như sau:
 
 ## 7. Link Bài Test
 
-Host: http://training.sun-asterisk.vn
-
-Account: Các bạn tự tạo bằng mail đăng ký với HR
-
-Lưu ý: Đặt tên giống với Slack
-
-```
-Example:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Android 03
-  Vị trí: Open Education
-  Văn Phòng: Hà Nội
-  Tên tài khoản: [HN_OE03_Android]Nguyen Van A
-```
+Host: https://tiv.wsm.vn/learn/vi/learning/1509/content/1390/
 
 ### Happy coding!!!

@@ -13,26 +13,12 @@
 
 ## 3. Document Link
 
-- Book: https://drive.google.com/drive/folders/1E3BHAOwGcHdbVhSQOZZHoh9hVyisatti
-
 - Website: https://kotlinlang.org/docs/home.html
 
-- Slide: https://drive.google.com/drive/folders/1YOxKNHfV412YdEAehsNkA3CYOIkYeiTC
+- Slides and videos: https://tiv.wsm.vn/learn/vi/learning/1509/content/1334/
 
 ## 4. Test Link
 
-Host: http://training.sun-asterisk.vn
-
-Account: Use personal mail to register for an account
-
-NOTE:  You have to set an account similar to your Slack account
-```
-Example:
-  Full name: Nguyen Van A
-  Course: Android 03
-  Position: Open Education
-  Office: Hanoi
-  Account name: [HN_OE03_Android]Nguyen Van A
-```
+Host: https://tiv.wsm.vn/learn/vi/learning/1509/content/1389/
 
 ### Happy coding!!!

@@ -29,8 +29,8 @@
 ## 4. Document Link
 
 * Document: https://developer.android.com/guide
-* Book: https://drive.google.com/drive/folders/1DNXd0DPaPHK8OM9jNAwCh2LMjhu5Sh2C
-* Slide: https://drive.google.com/drive/folders/1olV78tEs3xoOk1GPM6-zSYiZgcNcMxOj
+* Videos and slides are available on S-Learn's "Android" course:
+https://tiv.wsm.vn/learn/vi/learning/1509/content/1353/
 
 Note: Starting from slide ``3.Activities and Intents`` onwards, there will be exercises on the last slide, trainees
 follow the codelabs and push to github, attach the github link to the report at the end of the day.
@@ -59,20 +59,7 @@ steps to send a pull request are as follows:
 
 ## 7. Test Link
 
-Host: http://training.sun-asterisk.vn
-
-Account: Use personal mail to register for an account
-
-NOTE:  You have to set an account similar to your Slack account
-
- ```
- Ví dụ:
-   Full name: Nguyen Van A
-   Course: Android 03
-   Position: Open Education
-   Office: Hanoi
-   Account name: [HN_OE03_Android]Nguyen Van A
- ```
+Host: https://tiv.wsm.vn/learn/vi/learning/1509/content/1390/
 
 ### Happy coding!!!
  
