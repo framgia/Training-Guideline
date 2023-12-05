@@ -21,7 +21,7 @@ Các bạn đọc tài liệu Swift theo link:
 https://tiv.wsm.vn/learn/vi/course/1491/
 
 ## 4. Link làm bài test:
-- http://training.sun-asterisk.vn
+- https://tiv.wsm.vn/learn
 
 ## 5. Ref:
 - https://developer.apple.com/swift/ 

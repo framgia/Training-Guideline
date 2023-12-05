@@ -45,6 +45,6 @@ During the tutorial, there will be two applications you have to send pull reques
 * Step 4: Continue with the rest of the application like step 2 and step 3
 
 ## 7. Test Link
- - http://training.sun-asterisk.vn
+* Test your knowledge at: https://tiv.wsm.vn/learn
 
  ### Happy coding!!!

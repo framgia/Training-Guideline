@@ -45,6 +45,6 @@ Trong quá trình tutorial sẽ có 2 ứng dụng các bạn phải gửi pull 
 * Bước 4: Làm tiếp các phần còn lại của ứng dụng như bước 2 và bước 3
 
 ## 7. Link Bài Test
-- http://training.sun-asterisk.vn
+- https://tiv.wsm.vn/learn
 
 ### Happy coding!!!
