@@ -39,7 +39,7 @@ Lưu ý: làm các bài tập ở cuối slide số 2, 4, 6, 7, 8, 12
 
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:
 
-- Bước 1: Tìm chủ đề và gửi lên chatwork để các trainers và các bạn khác feedback (ưu tiên những chủ đề về chiều sâu mà mang lại nhiều giá trị)
+- Bước 1: Tìm chủ đề và gửi lên slack để các trainers và các bạn khác feedback (ưu tiên những chủ đề về chiều sâu mà mang lại nhiều giá trị)
 - Bước 2: Tiến hành tìm hiểu và làm slide, sau đó gửi lên để nhận feedback
 - Bước 3: Sau khi hoàn thành slide thì thông báo để trainer xếp lịch
 - Bước 4: Chia sẻ kiến thức và nhận đánh giá.
@@ -55,19 +55,6 @@ Trong quá trình tutorial sẽ có các bài tập bạn phải gửi pull requ
 
 ## 7. Link Bài Test
 
-Host: https://tiv.wsm.vn/learn
-
-Account: Các bạn tự tạo bằng mail đăng ký với HR
-
-Lưu ý: Đặt tên giống với slack
-
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: IOS 03
-  Vị trí: Open Education
-  Văn Phòng: Hà Nội
-  Tên tài khoản: [HN_OE03_IOS]Nguyen Van A
-```
+- https://tiv.wsm.vn/learn
 
 ### Happy coding!!!

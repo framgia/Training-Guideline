@@ -14,11 +14,11 @@
 4. MVVM pattern
      
 ## 4. Document Link
-* Slide: https://sal.vn/eKRpl1
+* Resource for learn available on: https://tiv.wsm.vn/learn/vi/course/1491/
 
 ## 5. Step-by-step instructions for knowledge sharing presentations
  In the process of learning, you will share knowledge with the team in 1 or 2 lessons: 
-* Step 1: Find a topic and send it to the chatwork for feedback from trainers and other trainees (prioritize topics with depth that brings a lot of values) 
+* Step 1: Find a topic and send it to the slack for feedback from trainers and other trainees (prioritize topics with depth that brings a lot of values) 
 * Step 2: Conduct research and make slides, then submit to receive feedback 
 * Step 3: After completing the slide, notify the trainer to schedule 
 * Step 4: Present knowledge and get reviews.

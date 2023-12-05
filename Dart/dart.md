@@ -31,19 +31,6 @@ Các bạn tham khảo thêm để biết được những điều cần tập t
 
 Host: https://tiv.wsm.vn/learn
 
-Account: Các bạn tự tạo bằng mail đăng ký với HR
-mả
-Lưu ý: Đặt tên giống với Slack
-
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: IOS 03
-  Vị trí: Open Education
-  Văn Phòng: Hà Nội
-  Tên tài khoản: [HN_OE03_IOS]Nguyen Van A
-```
-
 ## 5. Ref:
 
 - https://dart.dev/language

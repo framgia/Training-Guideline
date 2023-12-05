@@ -7,7 +7,7 @@
  1 ngày
 
 ## 3. Unit Test mindset
-1. Document link: https://sal.vn/o4q2kg
+1. Tài nguyên học tập có sẵn trên: https://tiv.wsm.vn/learn/vi/course/1491/
 
 ## 4. Viết Unit Test cho Project 1
 1. Ví dụ về Unit Test cơ bản cho một ViewController ở [đây](https://github.com/framgia/Training-Guideline/blob/master/IOS/unit-test/HomeViewControllerTest.swift)

@@ -13,29 +13,16 @@
 
 ## 3. Document Link
 
-- Book: https://sal.vn/76vMHL
-
 - Website: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
-- Slide: https://sal.vn/ChxO6L
+- Videos and slides are available on S-Learn's "iOS" course:
+https://tiv.wsm.vn/learn/vi/course/1491/
 
 ## 4. Test Link
 
-Host: http://training.sun-asterisk.vn
-
-Account: Use personal mail to register for an account
-
-NOTE:  You have to set an account similar to your Slack account
-```
-Example:
-  Full name: Nguyen Van A
-  Course: IOS 03
-  Position: Open Education
-  Office: Hanoi
-  Account name: [HN_OE03_IOS]Nguyen Van A
-```
+Test your knowledge at: https://tiv.wsm.vn/learn
 
 ## 5. Ref:
-- https://fxstudio.dev/lap-trinh-huong-doi-tuong-oop-voi-swift/ 
+- https://developer.apple.com/swift/ 
 
 ### Happy coding!!!

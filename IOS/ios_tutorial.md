@@ -23,8 +23,7 @@
 
 ## 4. Link tài liệu:
 * Document: https://developer.apple.com/documentation/
-* Book: https://sal.vn/LxNxlI
-* Slide: https://sal.vn/ZYcL27
+* Tài nguyên học tập có sẵn trên: https://tiv.wsm.vn/learn/vi/course/1491/
 
 Lưu ý: làm các bài tập ở cuối slide số 3,4,7,8,11,12
 - Bài tập ở cuối slide 3,4,7,8 chung 1 repo github
@@ -33,7 +32,7 @@ Lưu ý: làm các bài tập ở cuối slide số 3,4,7,8,11,12
 
 ## 5. Hướng dẫn các bước để thuyết trình chia sẻ kiến thức
 Trong quá trình tìm hiểu các bạn sẽ chia sẻ kiến thức với team từ 1 đến 2 bài:
-* Bước 1: Tìm chủ đề và gửi lên chatwork để các trainers và các bạn khác feedback (ưu tiên những chủ đề về chiều sâu mà mang lại nhiều giá trị)
+* Bước 1: Tìm chủ đề và gửi lên slack để các trainers và các bạn khác feedback (ưu tiên những chủ đề về chiều sâu mà mang lại nhiều giá trị)
 * Bước 2: Tiến hành tìm hiểu và làm slide, sau đó gửi lên để nhận feedback
 * Bước 3: Sau khi hoàn thành slide thì thông báo để trainer xếp lịch
 * Bước 4: Chia sẻ kiến thức và nhận đánh giá.
@@ -46,17 +45,6 @@ Trong quá trình tutorial sẽ có 2 ứng dụng các bạn phải gửi pull 
 * Bước 4: Làm tiếp các phần còn lại của ứng dụng như bước 2 và bước 3
 
 ## 7. Link Bài Test
-Host: http://training.sun-asterisk.vn
+- https://tiv.wsm.vn/learn
 
-Account: Các bạn tự tạo bằng mail đăng ký với HR
-
-Lưu ý: Đặt tên giống với slack
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: IOS 03
-  Vị trí: Open Education
-  Văn Phòng: Hà Nội
-  Tên tài khoản: [HN_OE03_IOS]Nguyen Van A
-```
 ### Happy coding!!!
