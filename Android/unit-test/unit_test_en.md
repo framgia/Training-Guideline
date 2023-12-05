@@ -7,8 +7,8 @@
  1 working days
 
 ## 3. Unit Test mindset
-1. Document link: https://drive.google.com/drive/folders/1jkvR3aGte0-9Brjdyv8ZUyfZbVM0N5Ne
-2. Link test: http://training.sun-asterisk.vn/
+1. Document link: https://tiv.wsm.vn/learn/vi/learning/1509/content/1374/
+2. Link test: https://tiv.wsm.vn/learn/vi/learning/1509/content/1376/
 
 ## 4. Write Unit Test for Project 1
 1. Example of writing Unit Test for a presenter [here](https://github.com/framgia/Training-Guideline/blob/master/Android/unit-test/CastDetailPresenterTest.kt)

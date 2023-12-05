@@ -13,25 +13,14 @@ Vào cuối khóa học này, học viên sẽ có thể:
 
 ## 3. Link tài liệu:
 Các bạn đọc tài liệu Kotlin theo link:
-- Book: https://drive.google.com/drive/folders/1E3BHAOwGcHdbVhSQOZZHoh9hVyisatti
 
 - Website: https://kotlinlang.org/docs/home.html
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần :
-- Slide: https://drive.google.com/drive/folders/1YOxKNHfV412YdEAehsNkA3CYOIkYeiTC
+- Slide and video: https://tiv.wsm.vn/learn/vi/learning/1509/content/1334/
 
 ## 4. Link bài test:
-Host: http://training.sun-asterisk.vn
 
-Account: Các bạn tự tạo bằng mail đăng ký với HR
+Host: https://tiv.wsm.vn/learn/vi/learning/1509/content/1389/
 
-Lưu ý: Đặt tên giống với Slack
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Android 03
-  Vị trí: Open Education
-  Văn Phòng: Hà Nội
-  Tên tài khoản: [HN_OE03_Android]Nguyen Van A
-```
 ### Happy coding!!!
