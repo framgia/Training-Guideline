@@ -13,7 +13,7 @@ Sau khi tìm hiểu và hoàn thành module này, học viên có thể:
 ## 2. Thời gian học:
 10 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và xây dựng ứng dụng)
 
-Bạn **tìm hiểu và tham khảo thêm tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs). Yêu cầu từ **part 2** trở đi phải gửi pull request sau mỗi part
+Bạn **tìm hiểu và tham khảo thêm tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
 ## 3. Link tài liệu:
   Các bạn tham khảo slide tổng hợp kiến thức và tiến hành xây dựng ứng dụng theo các bước trong slides [tại đây](https://drive.google.com/drive/u/0/folders/1fFzjp6IAwRGC8SpzjD1fetVkNGA633Zb)
