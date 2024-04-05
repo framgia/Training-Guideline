@@ -13,6 +13,8 @@
 
 6. Rspec: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec.md), [English](https://github.com/framgia/Training-Guideline/blob/master/Rails/rspec_en.md)
 
+7. [Các kỹ thuật nâng cao áp dụng cho dự án thực tế ở CEV](https://github.com/framgia/Training-Guideline/blob/master/Rails/advance_knowledge.md)
+
 ### II. PHP
 1. PHP: [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.md), [English](https://github.com/framgia/Training-Guideline/blob/master/PHP/php.en.md)
 
