@@ -1,10 +1,13 @@
+workspace: true
+
 stages:
-  - check
+  - ktlint
+  - detekt
 
 jobs:
-  - name: detekt
-    stage: check
-    image: 30121999/sunci-detekt:latest
+  - name: Ktlint checking
+    stage: ktlint
+    image: amazoncorretto:17.0.10
     cache:
       - key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
         paths:
@@ -14,9 +17,35 @@ jobs:
       - echo "failed (pray)(sweat);(" > .build_status
       - echo "(devil)" > .build_icon
     script:
-      - java -jar /usr/local/bin/detekt-cli-all.jar --all-rules
+      - ./gradlew ktlintCheck --daemon
       - status1=$?
       - if [[ "$status1" = 0 ]] ; then
+      - echo "*******************************************************"
+      - echo "             Ktlint runs successfully                  " > .build_status
+      - echo "                    (handshake)                        " > .build_icon
+      - echo "*******************************************************"
+      - else
+      - echo "*******************************************************"
+      - echo "                 Ktlint failed                         "
+      - echo "     Please fix the reported issues before commit.     "
+      - echo "*******************************************************"
+      - exit status1
+      - fi
+    only:
+      branches:
+        - develop
+        - main
+        - master
+      events:
+        - pull_request
+
+  - name: Detekt checking
+    stage: detekt
+    image: amazoncorretto:17.0.10
+    script:
+      - ./gradlew detekt --daemon
+      - status2=$?
+      - if [[ "$status2" = 0 ]] ; then
       - echo "*******************************************************"
       - echo "             Detekt runs successfully                  " > .build_status
       - echo "                    (handshake)                        " > .build_icon
@@ -26,7 +55,7 @@ jobs:
       - echo "                 Detekt failed                         "
       - echo "     Please fix the reported issues before commit.     "
       - echo "*******************************************************"
-      - exit status1
+      - exit status2
       - fi
     only:
       branches:

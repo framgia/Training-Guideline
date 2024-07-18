@@ -9,13 +9,20 @@
 2. Copy content of [file](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/.github/pull_request_template.md) into recent created file.
 
 ## 3. Add ktlint check
-Follow this link to get the source of library and the lastest version of ktlint: [JLLeitschuh_ktlint](https://github.com/JLLeitschuh/ktlint-gradle#importing)
+Follow this link to get the source of library and the lastest version of ktlint: [Pinterest_ktlint](https://github.com/pinterest/ktlint)
 ### Simple setup
-1. Add plugin in gradle module
+1. Add file ktlint.gradle in app folder
+   Create a file with name ktlint.gradle in app folder with this content: [ktlint.gradle](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/ktlint.gradle)
+   
+2. Change version number
+
+   Get newest version number of [Pinterest Ktlint](https://github.com/pinterest/ktlint)
+   Change version number of ktlint in ktlint gradle file
+
    ``` 
-   plugins {
-      id "org.jlleitschuh.gradle.ktlint" version"
-   }
+   dependencies {
+      ktlint "com.pinterest:ktlint:version_number"
+   }  
    ```
    
    Make sure that you have mavenCentral()
@@ -25,26 +32,6 @@ Follow this link to get the source of library and the lastest version of ktlint:
       // Required to download KtLint
       mavenCentral()
    }
-   ```
-   
-2. Add classpath dependency
-
-   ```
-   buildscript {
-      repositories {
-         maven {
-            url "https://plugins.gradle.org/m2/"
-         }
-      }
-
-      dependencies {
-         classpath "org.jlleitschuh.gradle:ktlint-gradle:<lastest version>"
-      }
-   }
-   ```
-
-   ```
-   apply plugin: "org.jlleitschuh.gradle.ktlint"
    ```
 
 3. Run ktlint
@@ -59,10 +46,20 @@ Follow this link to get the source of library and the lastest version of ktlint:
    chmod +x gradlew
    ```
 
-## 4.Install Sun*CI
+## 4.Install detekt
+### Simple setup
+Add dependence into module build gradle file
+
+   ``` 
+   plugins {
+      id 'io.gitlab.arturbosch.detekt' version '1.22.0-RC2'
+   }
+   ```
+
+## 5.Install Sun*CI
 1. Create file .sun-ci.yml in root
 2. Copy content of [file](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/.sun-ci.yml) into recent created file
 
-## 5.Review
+## 6.Review
 1. Add changes and create pull request
 2. Send to Trainers review
