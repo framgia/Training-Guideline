@@ -35,3 +35,6 @@ At the end of this section, students will be able to:
 Use class naming rules: 
 - http://getbem.com/introduction/
 - https://goo.gl/BM7D8V
+
+Coding convention:
+- [HTML-CSS](./coding_convention/HtmlCss_en.md)

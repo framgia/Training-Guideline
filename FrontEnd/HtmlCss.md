@@ -35,3 +35,6 @@ Vào cuối phần này, sinh viên sẽ có thể:
 Sử dụng quy tắc đặt tên class: 
 - http://getbem.com/introduction/
 - https://goo.gl/BM7D8V
+
+Sử dụng quy tắc code:
+- [HTML-CSS](./coding_convention/HtmlCss_vi.md)
