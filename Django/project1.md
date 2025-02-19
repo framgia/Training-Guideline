@@ -1,8 +1,7 @@
 # Hướng dẫn một số thông tin về Project 1
 
 ## 1. Một số thông tin chung
-#### Thời gian thực hiện:
-Tối đa 10 ngày
+#### Thời gian thực hiện: 10 ngày
 #### Số lượng thành viên trong team:
 1 ~ 3 người
 
@@ -44,9 +43,8 @@ Thực hiện công việc theo từng bước như sau:
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 80% chức năng yêu cầu của dự án
-- Sử dụng link deploy để trình bày project
-- Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
-- Chức năng thành viên nào làm thành viên đó trình bày
-- Trường hợp team hoàn thành dưới 80% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
+- Chuẩn bị sẵn sàng dữ liệu để trình bày
+- Lần lượt từng thành viên sẽ trình bày chức năng mà mình thực hiện
+- Nếu team hoàn thành dưới 80% yêu cầu chức năng so với cam kết ban đầu thì cần liên hệ với Trainer **trước deadline 2** ngày để xin dời lịch và hoàn thiện tiếp các chức năng còn lại
 
 #### Happy coding!!!

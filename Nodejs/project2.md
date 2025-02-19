@@ -1,11 +1,12 @@
 # Hướng dẫn một số thông tin về Project 2
 
 ## 1. Một số thông tin chung
-Thời gian thực hiện: Tối đa 7 ngày
+Thời gian thực hiện: 10 ngày
+Số lượng thành viên: 1-3 thành viên
 
 ## 2. Các bước thực hiện
-- Thực hiện công việc theo yêu cầu của trainer
-- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/)
+- Thực hiện công việc theo các yêu cầu đã cam kết từ giai đoạn xây dựng Project requirement
+- Áp dụng unit test trong project đảm bảo **mức độ coverage là >60% cho toàn bộ services**, tham khảo tài liệu [tại đây](https://www.albertgao.xyz/2017/05/24/how-to-test-expressjs-with-jest-and-supertest/)
 - Tài liệu khác: https://jestjs.io/docs/testing-frameworks
 
 ## 3. Add tasks on redmine + estimate time
@@ -29,8 +30,8 @@ Thời gian thực hiện: Tối đa 7 ngày
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 80% chức năng yêu cầu của dự án
-- Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
-- Chức năng thành viên nào làm thành viên đó trình bày
-- Trường hợp team hoàn thành dưới 80% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
+- Chuẩn bị sẵn sàng dữ liệu để trình bày
+- Lần lượt từng thành viên sẽ trình bày chức năng mà mình thực hiện
+- Nếu team hoàn thành dưới 80% yêu cầu chức năng so với cam kết ban đầu thì cần liên hệ với Trainer **trước deadline 2** ngày để xin dời lịch và hoàn thiện tiếp các chức năng còn lại
 
 #### Happy coding!!!

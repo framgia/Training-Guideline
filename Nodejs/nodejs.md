@@ -10,12 +10,13 @@ Vào cuối khóa học này, học viên sẽ có thể:
 2 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và note kiến thức)
 
 ## 3. Link tài liệu:
-Các bạn đọc tài liệu Nodejs theo link:
-  - Tham khảo:
-Nodejs docs: https://nodejs.org/docs/latest/api/
-Tài liệu khác: https://www.w3schools.com/nodejs/default.asp
+  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần tại slide trainer sẽ gửi trước khi bắt đầu giai đoạn
 
-  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần [tại đây](https://drive.google.com/drive/folders/1B1dDBB7cXN4LoEQzQsKCeWDnR0gI_oAJ?usp=drive_link)
+  - Tham khảo các tài liệu khác:
+
+    Nodejs docs: https://nodejs.org/docs/latest/api/
+
+    Tài liệu khác: https://www.w3schools.com/nodejs/default.asp
 
 ## 4. Link bài test:
 N/A

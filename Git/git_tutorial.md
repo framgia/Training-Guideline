@@ -11,13 +11,10 @@
 2 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test. Tính theo ngày làm việc, trường hợp đi part-time tối đa 5 ngày liên tiếp tính từ ngày bắt đầu)
 
 ## 3. Link tài liệu:
-[Slide]
-- Slide: https://drive.google.com/drive/folders/1L06VxvUJdeKbEfgUdfMifL2gL4hFe33t
+[Tài liệu]
+  Tham khảo tài liệu đã được tổng hợp tại **module Git** của các khóa học training trên hệ thống S*Learn
 
-- Reference
-  https://drive.google.com/drive/folders/1EBNT8RL-S9gMaEESVNxOz3LQD2st318G
-
-[References]
+[Nguồn tham khảo khác]
 - http://git-scm.com/book - 4 chương đầu
 - http://backlogtool.com/git-guide/vn/intro/intro1_1.html
 - https://learngitbranching.js.org/ - Tool thực hành git branch
@@ -26,39 +23,25 @@
 [Video]
 - https://www.youtube.com/watch?v=OBCnmcgx4CE(https://drive.google.com/drive/folders/1ysvD8yticcUg0E4YNvyWfrgDGScPY-WZ)
 
-[Note]
+[Ghi chú]
 - Các bạn tạo account ở link [https://github.com/] để thực hành nhé
-
-## 4. Link bài test:
-Host: http://training.sun-asterisk.vn
-
-Account: Sử dụng mail công ty (nếu có) hoặc mail cá nhân đăng ký với HR để đăng ký account
-
-Lưu ý: 
-- Đặt tên giống với slack
-- Nhập Slack ID: Là Slack ID của bạn trong workspace TIV
-- Nhập Room Slack ID: Là slack ID của channel training tương ứng với từng ngôn ngữ
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Ruby 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
-```
 
 ## Một số tip khi làm việc với GIT
 - Đôi bạn cùng tiến
-  + trước khi git checkout thì git status
-  + trước khi git commit thì git log --oneline
+  + Trước khi git checkout thì 'git status'
+  + Trước khi git commit thì 'git log --oneline'
 
-- khi nào sử dụng commit -m và commit --amend
-```git commit -m "content comment"  // đối với lần commit đầu tiên
+- Khi nào sử dụng 'commit -m' và 'commit --amend'
+```
+git commit -m "content comment"  // đối với lần commit đầu tiên
+
 git commit --amend // đối với lần commit thứ 2 trở đi.
 ```
 
-Vậy làm sao biết được đây phải là lần commit đầu hay ko (dùng cho não cá vàng)
-  -> các bạn chạy lệnh ``` git log --oneline ```
+- Kiểm tra lịch sử commit
+```
+git log --oneline
+```
 
 
 - Xem nội dung chỉnh sửa mới nhất: ```git diff file_name```
@@ -108,7 +91,7 @@ git rm --cached file_name
 git rm -r --cached folder
 ```
 
-- Vô tình fix comment nhầm branch (yaoming)
+- Vô tình fix comment nhầm branch
   1 Nếu qua đầu là bờ: tức là chưa chạy lệnh git commit
   thì chỉ việc git checkout sang branch bị comment
 

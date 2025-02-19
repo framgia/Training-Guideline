@@ -21,28 +21,10 @@ At the end of this course, trainees will be able to:
 - Understand what a transaction and the role of a transaction are
 - Use triggers and stored procedures
 
-## 2. Training time:
-From 21/7/2021 to 26/7/2021
-
+## 2. Training duration: 1 day
+(include knowledge review, self-study and test completion)
 
 ## 3. Document link:
-[Slide] https://drive.google.com/drive/folders/1LOPq6uYYaj7wAfNowKWjGGXdsmi1omvd
-
-[Book] https://drive.google.com/drive/folders/1rESAWCSTsyTPFkJ-26eGSx_tp3zf-666
-
-## 4. Test link:
-
-Host: http://training.sun-asterisk.vn
-
-Account: Use personal mail to register for an account
-
-NOTE: You must set an account similar to your Chatwork account
-```
-For example:
-
-Full name: Nguyen Van A
-
-Account name: [Malay_Ruby] Nguyen Van A
-```
+The document is summaried at the MySQL module of the training courses on the S*Learn system.
 
 ### Happy coding!!!

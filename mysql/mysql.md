@@ -25,25 +25,6 @@ Kết thúc khóa học, các bạn có thể nắm được:
 1 ngày (Bao gồm buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
 ## 3. Link tài liệu:
-[Slide] https://drive.google.com/drive/folders/1LOPq6uYYaj7wAfNowKWjGGXdsmi1omvd
-
-[Book] https://drive.google.com/drive/folders/1rESAWCSTsyTPFkJ-26eGSx_tp3zf-666
-
-## 4. Link bài test:
-Host: http://training.sun-asterisk.vn
-
-Account: Các bạn tự tạo bằng mail đăng ký với HR
-
-Lưu ý:
-- Đặt tên giống với slack
-- Nhập Slack ID: Là Slack ID của bạn trong workspace TIV
-- Nhập Room Slack ID: Là slack ID của channel training tương ứng với từng ngôn ngữ
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Ruby 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
+Tài liệu được tổng hợp tại module MySQL trong các khóa học trên hệ thống S*Learn
 
 ### Happy coding!!!

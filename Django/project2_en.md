@@ -1,12 +1,11 @@
 # Guideline about Project 2
 
 ## 1. Some general information
-#### Execution time:
-Up to 10 days
+#### Execution time: 10 days
 
 ## 2. Steps to take
-- Perform tasks as requested by the trainer
-- Apply unit test in the project, refer to the documentation [here](https://drive.google.com/drive/folders/1i6JGCHlTnGgudBElARu-KL5cwhmnoRDl)
+- Complete tasks as committed in the project requirements.
+- Apply unit testing in the project. Refer to the documentation in the Unit Test module of the Python course on the S*Learn system.
 
 ## 3. Add tasks on redmine + estimate time
 - Each ticket task estimate takes no more than 8 hours, in case the task is large, should break down ticket
@@ -27,10 +26,9 @@ Up to 10 days
 - Send and track pull on the system [PRTS](https://prts.sun-asterisk.vn/)
 
 ## 5. Review project
-- Only review the project when the team completes >= 80% of the required functions of the project
-- Use deploy link to present the project
-- The login data needs to be fake ready for presentation
-- The author of the function will present that function
-- In case the team completes less than 80% of the requirements, Team need contact the Trainer 2 days before the deadline to request an extension of the deadline.
+- Review the project only when the team has completed at least 80% of the required functions.
+- Ensure that the data is ready for the presentation.
+- Each function will be presented by its author.
+- If the team completes less than 80% of the requirements, they must contact the Trainer at least two days before the deadline to request an extension.
 
 #### Happy coding!!!

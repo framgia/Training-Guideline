@@ -144,3 +144,10 @@
 ### XI. MYSQL
 1. [Vietnamese](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.md)
 2. [English](https://github.com/framgia/Training-Guideline/blob/master/mysql/mysql.en.md)
+
+### XII. Nodejs
+1. [Typescript](https://github.com/framgia/Training-Guideline/blob/master/Nodejs/typescript.md)
+2. [Nodejs](https://github.com/framgia/Training-Guideline/blob/master/Nodejs/nodejs.md)
+3. [Express](https://github.com/framgia/Training-Guideline/blob/master/Nodejs/express.md)
+4. [Project 1](https://github.com/framgia/Training-Guideline/blob/master/Nodejs/project1.md)
+5. [Project 2](https://github.com/framgia/Training-Guideline/blob/master/Nodejs/project2.md)
