@@ -14,15 +14,14 @@ Django REST framework is a powerful and flexible toolkit for building Web APIs. 
 
 ## 3. Document link:
 - Learn Django Rest Framework knowledge [here](https://www.django-rest-framework.org/)
-
-- Knowledge summary slide [here](https://drive.google.com/drive/folders/1wE9I-9SoWhV5GGVAQ6qKYqeBZfStAEoC)
+- The **Python course on the S*Learn** system provides a summary of the knowledge. For more details, visit the API module.
 
 ## 4. Requirement
 - Learn and apply to Project 2 for basic functions:
   + View list
-  + View details
+  + View detail
   + Add new
-  + Updates
+  + Update
   + Delete
 - Pull request include Unit test and API Document for each function
 
