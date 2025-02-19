@@ -14,26 +14,12 @@ At the end of this module, students will be able to:
 ## 3. Document link:
 You can read document from links below:
 
-[Slide]
- - https://drive.google.com/drive/folders/1YAtKT5tHJoswhuA10hW_AXnzaIBmGvvt
+[Slide/Video]
+  The documentation is summaried in the **Python module** at the Python course on the S*Learn system.
 
 [References]
   - https://docs.python.org/
   - https://www.w3schools.com/Python/default.asp
   - https://www.programiz.com/python-programming
 
-## 4. Test link:
-At the end of the Python module, the attendee must take an online exam to review knowledge
-  - Link: http://training.sun-asterisk.vn
-  - Account: Create with email registered with HR or company email if available
-
-NOTE:  You must set an account similar to your account Slack
-```
-For example:
-  Full name: Nguyen Van A
-  Course name: Python 03
-  Position: Open Education
-  Branch: Da Nang
-  Account name: [DN_OE03_Python]Nguyen Van A
-```
 ### Happy coding!!!

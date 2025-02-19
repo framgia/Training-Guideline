@@ -1,8 +1,7 @@
 # Guideline about Project 1
 
 ## 1. Some general information
-#### Execution time:
-Up to 10 days
+#### Execution time: 10 days
 #### Số lượng thành viên trong team:
 1 ~ 3 members
 
@@ -43,10 +42,9 @@ Work step by step as follows:
 - For pull request for init model need to attach DB design image
 
 ## 5. Review project
-- Only review the project when the team completes >= 80% of the required functions of the project
-- Use deploy link to present the project
-- The login data needs to be fake ready for presentation
-- The author of the function will present that function
-- In case the team completes less than 80% of the requirements, Team need contact the Trainer 2 days before the deadline to request an extension of the deadline.
+- Review the project only when the team has completed at least 80% of the required functions.
+- Ensure that the data is ready for the presentation.
+- Each function will be presented by its author.
+- If the team completes less than 80% of the requirements, they must contact the Trainer at least two days before the deadline to request an extension.
 
 #### Happy coding!!!

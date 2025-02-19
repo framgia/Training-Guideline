@@ -15,23 +15,9 @@ Vào cuối khóa học này, học viên sẽ có thể:
 Các bạn đọc tài liệu Python theo link:
   - Học theo flow: https://www.programiz.com/python-programming
   - Tham khảo thêm tại:
-https://docs.python.org/ ,
-https://www.w3schools.com/Python/default.asp
+  https://docs.python.org/ ,
+  https://www.w3schools.com/Python/default.asp
 
-  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần [tại đây](https://drive.google.com/drive/folders/1YAtKT5tHJoswhuA10hW_AXnzaIBmGvvt)
+  - Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần tại **module Python** của khóa học Python trên hệ thống S*Learn
 
-## 4. Link bài test:
-Kết thúc quá trình học Python, sinh viên phải thực hiện bài test online để ôn tập kiến thức
-  - Link: http://training.sun-asterisk.vn
-  - Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
-
-Lưu ý: Đặt tên giống với Slack
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Python 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Python]Nguyen Van A
-```
 ### Happy coding!!!

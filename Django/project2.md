@@ -1,11 +1,11 @@
 # Hướng dẫn một số thông tin về Project 2
 
 ## 1. Một số thông tin chung
-Thời gian thực hiện: Tối đa 8 ngày
+#### Thời gian thực hiện: 10 ngày
 
 ## 2. Các bước thực hiện
-- Thực hiện công việc theo yêu cầu của trainer
-- Áp dụng unit test trong project, tham khảo tài liệu [tại đây](https://drive.google.com/drive/folders/1i6JGCHlTnGgudBElARu-KL5cwhmnoRDl)
+- Thực hiện công việc theo file Project requirement được tạo ở giai đoạn đầu project
+- Viết unit test cho dự án, đảm bảo mức độ coverage >60%. Tham khảo tài liệu module Unit test của khóa học Python trên hệ thống S*Lean
 
 ## 3. Add tasks on redmine + estimate time
 - Mỗi ticket task estimate làm không quá 8 giờ, trường hợp task lớn thì chia nhỏ nhiều ticket để thực hiện
@@ -28,8 +28,8 @@ Thời gian thực hiện: Tối đa 8 ngày
 
 ## 5. Review project
 - Chỉ được review project khi team hoàn thành >= 80% chức năng yêu cầu của dự án
-- Các dữ liệu đăng nhập cần fake sẵn sàng để trình bày
-- Chức năng thành viên nào làm thành viên đó trình bày
-- Trường hợp team hoàn thành dưới 80% yêu cầu thì cần liên hệ với Trainer trước deadline 2 ngày để xin dời lịch và xin thêm thời gian để hoàn thiện
+- Chuẩn bị sẵn sàng dữ liệu để trình bày
+- Lần lượt từng thành viên sẽ trình bày chức năng mà mình thực hiện
+- Nếu team hoàn thành dưới 80% yêu cầu chức năng so với cam kết ban đầu thì cần liên hệ với Trainer **trước deadline 2 ngày** để xin dời lịch và hoàn thiện tiếp các chức năng còn lại
 
 #### Happy coding!!!

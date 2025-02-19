@@ -18,7 +18,7 @@ Django là một web framework high-level Python mã nguồn mở và miễn ph�
 - Yêu cầu từ **part 2** trở đi gửi pull request sau mỗi part
 - Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit
 - Cách đặt tên:
-  + Tên repo github là: **mysite**
+  + Tên repo github là: **locallibrary**
   + Tên branch tương ứng với tên part. Ví dụ: **part2**, **part3**
   + Tiêu đề pull request (nội dung commit): Tiêu đề của part đó.
     Ví dụ: "Django Tutorial Part 2: Creating a skeleton website", "Django Tutorial Part 3: Using models"

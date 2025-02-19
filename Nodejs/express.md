@@ -13,13 +13,12 @@ Sau khi tìm hiểu và hoàn thành module này, học viên có thể:
 ## 2. Thời gian học:
 10 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và xây dựng ứng dụng)
 
-Bạn **tìm hiểu và tham khảo thêm tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-
 ## 3. Link tài liệu:
-  Các bạn tham khảo slide tổng hợp kiến thức và tiến hành xây dựng ứng dụng theo các bước trong slides [tại đây](https://drive.google.com/drive/u/0/folders/1fFzjp6IAwRGC8SpzjD1fetVkNGA633Zb)
+  - Các bạn tham khảo slide tổng hợp kiến thức và tiến hành xây dựng ứng dụng theo các bước trong tài liệu mà trainer sẽ gửi trước khi bắt đầu giai đoạn.
 
-  Yêu cầu:
-    - Từ **Part 1** - slide thứ 3 trở đi bắt đầu xây dựng, hoàn thiện tính năng theo mỗi part, và gửi pull request
+  - Bạn **tìm hiểu và tham khảo thêm tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+
+  - Yêu cầu: Từ **Part 1** - slide thứ 3 trở đi bắt đầu xây dựng, hoàn thiện tính năng theo mỗi part, và gửi pull request
 
 ## 4. Thiết lập gửi pull request
 - Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit
@@ -32,7 +31,7 @@ Bạn **tìm hiểu và tham khảo thêm tutorial trong** [**link này**](https
 **Chú ý:**
 Các bạn sử dụng hệ thống Pull Request Tracking System (PRTS) để gửi và theo dõi review pull request. Thực hiện theo các bước dưới đây:
 - Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
-- Cài đặt theo hướng dẫn ở mục "User Guide": https://docs.google.com/document/d/1-4rqYPmGpDBkjvecVkjICYfdLFjw4pvxVTNYf3ebnMo/edit?usp=sharing
+- Cài đặt theo hướng dẫn ở mục "User Guide"
 - Báo trainer add vào box Slack review pull request
 
 ## 5. Một số lưu ý trong quá trình làm tutorial:

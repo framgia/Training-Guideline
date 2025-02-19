@@ -9,10 +9,8 @@
 ## 2. Training time:
 
 ## 3. Document link:
-[Slide]
-  - Video: https://drive.google.com/drive/folders/1L06VxvUJdeKbEfgUdfMifL2gL4hFe33t
-
-  - Reference: https://drive.google.com/drive/folders/1EBNT8RL-S9gMaEESVNxOz3LQD2st318G
+[Documentation]
+  The documentation is summaried in the **Git module** of the training course on the S*Learn system.
 
 [References]
 - http://git-scm.com/book - the first 4 chapters
@@ -27,19 +25,6 @@
   - Trainees use company email (if any) or personal email registered with HR to register for an account.
   - Trainees have to set the account name similar to your account chatwork name
   - For Malaysia training course, Trainees use the personal email registered with Mentor to create an account at this link: https://github.com/
-
-## 4. Test link:
-Host: http://training.sun-asterisk.vn
-
-Account: Use personal mail to register for an account
-
-NOTE:  You must set an account similar to your account chatwork
-
-  `` For example:``
-
-  ``Full name: Nguyen Van A``
-
-  ``Account name: [Malay_Ruby] Nguyen Van A``
 
 ## Some tips when working with GIT
 - "Let's go together"
@@ -81,7 +66,7 @@ NOTE:  You must set an account similar to your account chatwork
   git rm -r --cached folder
   ``
 
-- Accidentally fixed the wrong branch comment (yaoming)
+- Accidentally fixed the wrong branch comment
 
   Step 1. If you run ``git commit`` not yet, you  just git checkout to branch
 
