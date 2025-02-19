@@ -13,7 +13,7 @@ Django Rest Framework là thư viện hỗ trợ mạnh mẽ để build API s�
 Tìm hiểu kiến thức Django Rest Framework ở link này[link này](https://www.django-rest-framework.org/)
 
 ## 3. Link tài liệu:
-  Các bạn tham khảo thêm tài liệu tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/1wE9I-9SoWhV5GGVAQ6qKYqeBZfStAEoC)
+  Các bạn tham khảo thêm tài liệu tổng hợp kiến thức đã được upload tại khóa học Python trên hệ thống S*Learn -> module API
 
 ## 4. Yêu cầu
 - Tìm hiểu và áp dụng vào Project 2 để xây dựng API cho các chức năng cơ bản
