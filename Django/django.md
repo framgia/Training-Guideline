@@ -10,12 +10,12 @@ Django là một web framework high-level Python mã nguồn mở và miễn ph�
 ## 2. Thời gian học:
 8 ngày (Bao gồm các buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
-Bạn **tìm hiểu và làm theo tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Yêu cầu từ **part 2** trở đi phải gửi pull request sau mỗi part
-
 ## 3. Link tài liệu:
-  Các bạn tham khảo thêm slide tổng hợp kiến thức [tại đây](https://drive.google.com/drive/folders/1F9gLirNsnR3oIetRbVSxFzlW4UUy1LAX)
+  - Các bạn tìm hiểu và làm theo từng bước trong slide tổng hợp kiến thức **module Django Tutorial** tại **khóa học Python** trên hệ thống S*Learn.
+  - Bạn **tham khảo thêm tutorial trong** [**link này**](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django).
 
 ## 4. Thiết lập gửi pull request
+- Yêu cầu từ **part 2** trở đi gửi pull request sau mỗi part
 - Mỗi 1 pull request tương ứng 1 part, 1 pull request là 1 commit
 - Cách đặt tên:
   + Tên repo github là: **mysite**
@@ -25,7 +25,7 @@ Bạn **tìm hiểu và làm theo tutorial trong** [**link này**](https://devel
 
 Các bạn sử dụng hệ thống Pull Request Tracking System (PRTS) để gửi và theo dõi review pull request. Thực hiện theo các bước dưới đây:
 - Các bạn đăng nhập vào trang https://prts.sun-asterisk.vn/ bằng tài khoản Github của mình.
-- Cài đặt theo hướng dẫn ở mục "User Guide": https://docs.google.com/document/d/1-4rqYPmGpDBkjvecVkjICYfdLFjw4pvxVTNYf3ebnMo/edit?usp=sharing
+- Cài đặt theo hướng dẫn ở mục "User Guide"
 - Báo trainer add vào box Slack review pull request
 
 ## 5. Một số lưu ý trong quá trình làm tutorial:
@@ -36,18 +36,4 @@ Các bạn sử dụng hệ thống Pull Request Tracking System (PRTS) để g�
 - Chú ý đọc hiểu hướng dẫn trước khi sử dụng PRTS, tránh tình trạng sai xót.
 - Trong quá trình làm nếu gặp vấn đề không giải quyết sau khi tự tìm hiểu, hãy chủ động hỏi nhờ các bạn khác hoặc Trainer để được support.
 
-## 6. Link bài test:
-Kết thúc quá trình tutorial, sinh viên phải thực hiện bài test online để ôn tập kiến thức
-  - Link: http://training.sun-asterisk.vn
-  - Account: Các bạn tự tạo bằng mail đăng ký với HR hoặc mail công ty nếu có
-
-Lưu ý: Đặt tên giống với Slack
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Python 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Python]Nguyen Van A
-```
 ### Happy coding!!!
