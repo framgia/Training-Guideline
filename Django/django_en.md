@@ -9,17 +9,14 @@ At the end of this module, students will be able to:
   - Complete a web application using Django
 
 ## 2. Training time:
-3 days (Includes Lectures, individual self-review and perform exam)
-
-Read and follow [here]](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django). Require from part 2, the attendee must create pull requests after each part
+8 days (Includes Lectures, individual self-review and perform exam)
 
 ## 3. Document link:
-You can read document from links below:
-
-[Slide]
- - https://drive.google.com/drive/folders/1F9gLirNsnR3oIetRbVSxFzlW4UUy1LAX
+- Follow the documentation in the Django module of the Python course on the S*Learn system.
+- You can also refer to [this resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
 ## 4. Set up Pull request
+- Require from part 2, the attendee must create pull requests after each part
 - Each pull request corresponds to a part, 1 pull request has 1 commit
 - How to name:
   + The github repository name: **locallibrary**
@@ -39,18 +36,4 @@ Using the Pull Request Tracking System (PRTS) to send and track the pull request
 - For the first pull request, the Chatbot will not have a notification, from the next time there will be a notification when using the PRTS system.
 - In the process of doing, if you have a problem that can't be solved after research by yourself, please take the initiative to ask other friends or trainer for support
 
-## 6. Test link:
-At the end of the Python module, the attendee must take an online exam to review knowledge
-  - Link: http://training.sun-asterisk.vn
-  - Account: Create with email registered with HR or company email if available
-
-NOTE:  You must set an account similar to your account chatwork
-```
-For example:
-  Full name: Nguyen Van A
-  Course name: Python 03
-  Position: Open Education
-  Branch: Da Nang
-  Account name: [DN_OE03_Python]Nguyen Van A
-```
 ### Happy coding!!!
