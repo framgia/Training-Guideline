@@ -16,17 +16,7 @@ At the end of this course, students will be able to:
 ## 2. Training time
 From 10/8/2021 to 10/9/2021
 
-## 3.Document link
-
-- [Book] https://drive.google.com/drive/folders/1oJ9e8qfsjRIfO1W16qAVSuF67uGWSNuN
-
-- [Slides]
-https://drive.google.com/drive/folders/1M5uLQOktA7FBcfNPQK2EcQNG2UCZzDN-
-
-- [Videos]
-https://drive.google.com/drive/folders/1je0pPXAgTPx569Rk_0bfid1lAeRPdU8a
-
-## 4. About send pull request
+## 3. About send pull request
 The first pull request will be init project :
 + Go to github to create new repository name is `sample_app`, select `Initialize this repository with a README`, `add .gitignore` choose `Ruby` => Create repository. 
 After that, you clone this repository to local computer.

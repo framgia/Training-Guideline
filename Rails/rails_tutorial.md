@@ -21,8 +21,6 @@ Vào cuối khóa học này, sinh viên sẽ có thể:
 - Video và slide có ở trên khóa học "Ruby" của S-Learn: https://tpiv.wsm.vn/
   
 - Tài liệu khác tham khảo thêm: 
-  
-Sách Rails 6 [Rails Tutorial](https://drive.google.com/drive/folders/1KpDipAHIF4Xpvro-e2_bVnhPyF4F3qdp)
 
 Tham khảo bản dịch Tutorial bằng tiếng Việt: [Bản dịch Tutorial Rails 6](https://docs.google.com/document/d/1cRZAH6hnrTVDEdceAKrG1eynz_EHoFoB/edit?rtpof=true)
 
