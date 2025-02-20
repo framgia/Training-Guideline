@@ -50,9 +50,6 @@ http://rspec.info/<br>
 ### 2. Document
 Video và slide có ở trên khóa học "Ruby" của S-Learn: https://tpiv.wsm.vn/
 
-[Book]: 
-https://drive.google.com/drive/folders/1_v-mZJjWj-RFDr_nEl5Mq6nqGsjoeu84
-
 [References]
 https://github.com/awesome-academy/Practice_Rspec
 <br>
