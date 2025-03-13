@@ -17,3 +17,4 @@ Sau khi hoàn thành module NestJS tutorial, học viên sẽ đặt được c�
 ## 3. Tài liệu
 - [NestJS docs](https://docs.nestjs.com/)
 - [Simple NestJS tutorial](https://www.geeksforgeeks.org/nestjs/)
+- [Other reference](https://nextjsvietnam.com/post/khoa-hoc-nestjs-bai-02/)
