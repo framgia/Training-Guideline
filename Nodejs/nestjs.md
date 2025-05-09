@@ -1,7 +1,7 @@
 # Hướng dẫn học Nestjs tutorial
 
 ## 1. Mục tiêu
-Sau khi hoàn thành module NestJS tutorial, học viên sẽ đặt được các mục tiêu sau:
+Sau khi hoàn thành module NestJS tutorial, học viên sẽ đạt được các mục tiêu sau:
   - **Hiểu về NestJS và kiến trúc của nó** – Nắm vững cách NestJS hoạt động, ưu điểm của nó so với Express.js, và mô hình **Modular Architecture**.
   - **Làm việc với TypeScript trong NestJS** – Viết ứng dụng NestJS sử dụng TypeScript, tận dụng tính năng **interfaces**, **decorators**, **generics** để làm code an toàn và dễ bảo trì.
   - **Tạo và quản lý modules** – Hiểu cách tổ chức ứng dụng với Modules, sử dụng `@Module()` để khai báo và cấu trúc dự án hợp lý.
