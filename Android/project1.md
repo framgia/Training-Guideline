@@ -42,8 +42,7 @@ Thực hiện công việc theo từng bước như sau:
 4. Sau khi nhận repo github thì tiến hành tạo pull init project gồm:
   - Template pull request
   - File .gitignore
-  - Cài đặt Sun*CI
-  ở [đây](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project)
+  - Set up Project ở [đây](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project)
 5. Sau khi được approve merged pull init thì tạo các pull request tiếp theo và gửi lên để trainer review
 
 #### CHÚ Ý:
