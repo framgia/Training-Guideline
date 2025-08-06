@@ -56,10 +56,6 @@ Add dependence into module build gradle file
    }
    ```
 
-## 5.Install Sun*CI
-1. Create file .sun-ci.yml in root
-2. Copy content of [file](https://github.com/framgia/Training-Guideline/blob/master/Android/setup-project/.sun-ci.yml) into recent created file
-
 ## 6.Review
 1. Add changes and create pull request
 2. Send to Trainers review
