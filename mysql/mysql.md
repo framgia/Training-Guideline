@@ -24,7 +24,26 @@ Kết thúc khóa học, các bạn có thể nắm được:
 ## 2. Thời gian học:
 1 ngày (Bao gồm buổi review kiến thức tổng hợp, cá nhân tự ôn tập và làm bài test)
 
-## 3. Link tài liệu:
-Tài liệu được tổng hợp tại module MySQL trong các khóa học trên hệ thống S*Learn
+## 3. Kiến thức trọng tâm
+### SQL for Beginner - Course Outline
+
+| Content | Details |
+| :--- | :--- |
+| Introduction | What's Database?<br>What's RDBMS? |
+| Data type | Numeric<br>Date & Time Value<br>String |
+| Create-Alter-Drop-Insert-Update-Delete | Create & Drop Table<br>Alter Table<br>Inserting Data<br>Deleting Data<br>Updating Data |
+| Constraints and Relationships | Not Null<br>Unique<br>Primary key<br>Foreign key<br>One to many<br>One to one<br>Many to many |
+| Select statements | Retrieving data<br>Selecting specific columns<br>Renaming column names<br>Ordering data - Grouping data<br>Selecting specific rows with the WHERE clause<br>Removing duplicate items<br>Some function |
+| Subqueries | What is subqueries<br>Scalar subqueries<br>Table subqueries<br>Subquery with the SELECT statement<br>Subquery with the INSERT statement<br>Correlated subqueries<br>Subqueries with EXISTS, NOT EXISTS |
+| Joining table | What is a join?<br>Inner Joins<br>Outer Joins<br>Natural Joins |
+| View | View definition<br>Creating, modifying and dropping a View<br>Finding View<br>Creating a View with a Union |
+| Function | Mathematical functions<br>Aggregate functions<br>String functions<br>Date and time functions<br>System functions |
+| Stored Routines | Stored routines definition<br>A simple procedure<br>A simple function<br>Procedure parameters<br>Random numbers<br>Finding routines |
+| Index | What's Index<br>How it works<br>Types of Indexes<br>Advantages and Disadvantages |
+| Transactions | ACID in database<br>What's transactions<br>How it works<br>Advantages and Disadvantages<br>Transaction Control |
+
+References:
+- https://www.w3schools.com/sql/
+- https://www.sqltutorial.org/
 
 ### Happy coding!!!
