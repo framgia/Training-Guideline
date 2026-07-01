@@ -1,4 +1,4 @@
-# Hướng dẫn học MySQL
+# Hướng dẫn học SQL Tutorial
 
 ## 1. Mục tiêu
 Phân này sẽ giúp cho các bạn nắm được các nguyên tắc cơ bản về cơ sở dữ liệu quan hệ và các kỹ năng lập trình SQL. Các chủ đề bao gồm kiến trúc cơ sở dữ liệu quan hệ, kỹ thuật thiết kế cơ sở dữ liệu và các kỹ năng truy vấn đơn giản và phức tạp. Sau khi hoàn thành, các bạn sẽ hiểu các hàm SQL, tham gia các kỹ thuật, các đối tượng cơ sở dữ liệu và các ràng buộc và sẽ có thể viết các câu lệnh SELECT, INSERT, UPDATE và DELETE hữu ích.
