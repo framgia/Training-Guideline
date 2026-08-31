@@ -48,15 +48,7 @@ Cách thức triển khai:
 - Pull init model (connect database, add entities, relationships)
 - Rồi mới tới các pull chức năng khác.
 
-**5.2 Tool PRTS** - Quản lý trạng thái pull request
-
-Hệ thống: https://prts.sun-asterisk.vn/
-
-Lưu ý:
-- Cài đặt theo hướng dẫn ở mục **User guide**
-- Báo lại Trainer để được thêm vào channel review pull (channel này để nhận thông báo thay đổi trạng thái pull trên Slack)
-
-**5.3 Review và merge code**
+**5.2 Review và merge code**
 - Tiến hành self-review theo **Coding standard và Coding convention** ở mục 6
 - Gửi pull request cho các thành viên nhóm (đã được pick nhóm từ đầu giai đoạn training) review chéo
 - Được merge pull khi nhận được APPROVED từ ít nhất 1 thành viên
